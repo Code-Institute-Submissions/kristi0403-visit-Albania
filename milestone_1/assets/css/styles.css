@@ -1,0 +1,4272 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+
+
+body {
+  font-family: 'Roboto', sans-serif, cursive;
+  margin: 0;
+  text-align: center;
+}
+
+/*--------------------navigation---------------*/
+
+
+
+
+ul {
+    display: flex;
+    align-items: stretch; 
+    justify-content: space-evenly;
+    width: 100%;
+    background: transparent;
+    margin: 0;
+    padding: 0;
+}
+li {
+    display: block;
+    flex: 0 1 auto; 
+    list-style-type: none;
+    background: transparent;
+}
+
+
+/*--------------------header---------------*/
+
+.header{
+    background-color:beige;
+    font-family: cursive;
+}
+
+
+
+/*--------------------places---------------*/
+
+.vlore {
+  
+  position: absolute;
+  top: 130px;
+  right: 570px;
+}
+
+.llogara {
+  
+  position: absolute;
+  top: 230px;
+  right: 670px;
+}
+
+
+.himare {
+    position: absolute;
+  top: 330px;
+  right: 870px;
+
+}
+
+
+.dhermi {
+position: absolute;
+  top: 430px;
+  right: 970px;
+}
+
+
+.sarande {
+
+position: absolute;
+  top: 130px;
+  right: 470px;
+}
+
+
+
+
+
+
+
+.gjirokaster{
+position: absolute;
+  top: 130px;
+  right: 570px;
+}
+
+
+
+
+.permet{
+
+position: absolute;
+  top: 130px;
+  right: 570px;
+
+}
+
+
+
+.korce{
+
+position: absolute;
+  top: 130px;
+  right: 570px;
+}
+
+
+
+
+.pogradec{
+position: absolute;
+  top: 130px;
+  right: 570px;
+}
+
+
+
+.fier{
+position: absolute;
+  top: 130px;
+  right: 570px;
+}
+
+
+
+.berat{
+position: absolute;
+  top: 130px;
+  right: 570px;
+}
+
+
+
+
+.elbasan{
+
+position: absolute;
+  top: 130px;
+  right: 570px;
+}
+
+
+
+.durres{
+
+position: absolute;
+  top: 130px;
+  right: 570px;
+}
+
+
+
+.tirane{
+
+position: absolute;
+  top: 130px;
+  right: 570px;
+
+}
+
+
+.shkoder{
+
+position: absolute;
+  top: 130px;
+  right: 570px;
+
+}
+
+
+.tropoje{
+
+position: absolute;
+  top: 130px;
+  right: 570px;
+}
+
+
+
+.diber{
+
+position: absolute;
+  top: 130px;
+  right: 570px;
+
+
+}
+
+
+.kukes{
+
+position: absolute;
+  top: 130px;
+  right: 570px;
+
+
+}
+
+
+.kruje{
+
+position: absolute;
+  top: 130px;
+  right: 570px;
+
+}
+
+
+
+.lac{
+
+position: absolute;
+  top: 130px;
+  right: 570px;
+
+}
+
+
+.lezhe{
+
+position: absolute;
+  top: 130px;
+  right: 570px;
+
+}
+
+
+
+/*--------------------places---------------*/
+
+
+/*--------------------quotes---------------*/
+
+.container.food99{
+    position: fixed;
+    width: 600px;
+    height: 200px;
+    left: 80%;
+    top: 60%;
+    margin-left: -340px;
+    background-color: beige;
+}
+
+.container.activities98{
+    position: fixed;
+    width: 600px;
+    height: 200px;
+    left: 80%;
+    top: 25%;
+    margin-left: -340px;
+    background-color: beige;
+}
+
+
+
+.text-block.food99{
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 100px;
+    left: 55px;
+    font-family: sans-serif;
+}
+
+.text-block.activities98{
+     position: relative;
+    margin: 0;
+    padding: 0;
+    top: 110px;
+    left: -50px;
+    font-family: sans-serif;
+}
+ 
+/*--------------------images---------------*/
+.food{
+    border-radius: 50%;
+    position: absolute;
+    top: 50px;
+    right: 460px;
+}
+
+.activities{
+    border-radius: 50%;
+    position: absolute;
+    top: 50px;
+    right: 50px;
+
+}
+
+/*--------------------images---------------*/
+
+
+
+/*--------------------container-places---------------*/
+
+
+.container.vlore{
+    position: fixed;
+    width: 1px;
+    height: 22px;
+    left: 23%;
+    top: 75%;
+    margin:0;
+    padding: 0;
+    background-color: transparent;
+    color:red;
+    font-family: monospace;
+}
+
+
+.container.llogora{
+    position: fixed;
+    width: 1px;
+    height: 20px;
+    left: 26%;
+    top: 77%;
+    margin: 0;
+    padding: 0;
+    background-color: transparent;
+    color: red;
+    font-family: monospace;
+}
+
+
+.container.dhermi{
+    position: fixed;
+    width: 1px;
+    height: 20px;
+    left: 23%;
+    top: 81%;
+    margin: 0;
+    padding: 0;
+    background-color: transparent;
+    color: red;
+    font-family: monospace;
+}
+
+.container.himare{
+    position: fixed;
+    width: 1px;
+    height: 20px;
+    left: 24%;
+    top: 86%;
+    margin: 0;
+    padding: 0;
+    background-color: transparent;
+    color: red;
+    font-family: monospace;
+}
+
+
+.container.sarande{
+    position: fixed;
+    width: 1px;
+    height: 20px;
+    left: 30%;
+    top: 89%;
+    margin: 0;
+    padding: 0;
+    background-color: transparent;
+    color: red;
+    font-family: monospace;
+}
+
+.container.gjirokaster{
+    position: fixed;
+    width: 1px;
+    height: 20px;
+    left: 32%;
+    top: 80%;
+    margin: 0;
+    padding: 0;
+    background-color: transparent;
+    color: red;
+    font-family: monospace;
+}
+
+
+
+.container.permet{
+    position: fixed;
+    width: 1px;
+    height: 20px;
+    left: 34%;
+    top: 74%;
+    margin: 0;
+    padding: 0;
+    background-color: transparent;
+    color: red;
+    font-family: monospace;
+}
+
+
+.container.korce{
+    position: fixed;
+    width: 1px;
+    height: 20px;
+    left: 37%;
+    top: 65%;
+    margin: 0;
+    padding: 0;
+    background-color: transparent;
+    color: red;
+    font-family: monospace;
+}
+
+
+.container.pogradec{
+    position: fixed;
+    width: 1px;
+    height: 20px;
+    left: 36%;
+    top: 57%;
+    margin: 0;
+    padding: 0;
+    background-color: transparent;
+    color: red;
+    font-family: monospace;
+}
+
+.container.fier{
+    position: fixed;
+    width: 1px;
+    height: 20px;
+    left: 22%;
+    top: 62%;
+    margin: 0;
+    padding: 0;
+    background-color: transparent;
+    color: red;
+    font-family: monospace;}
+
+.container.berat{
+    position: fixed;
+    width: 1px;
+    height: 20px;
+    left: 28%;
+    top: 63%;
+    margin: 0;
+    padding: 0;
+    background-color: transparent;
+    color: red;
+    font-family: monospace;}
+
+
+    .container.elbasan{
+    position: fixed;
+    width: 1px;
+    height: 20px;
+    left: 29%;
+    top: 53%;
+    margin: 0;
+    padding: 0;
+    background-color: transparent;
+    color: red;
+    font-family: monospace;}
+
+
+    .container.durres{
+    position: fixed;
+    width: 1px;
+    height: 20px;
+    left: 22%;
+    top: 43%;
+    margin: 0;
+    padding: 0;
+    background-color: transparent;
+    color: red;
+    font-family: monospace;}
+
+
+    .container.tirane{
+    position: fixed;
+    width: 1px;
+    height: 20px;
+    left: 27%;
+    top: 44%;
+    margin: 0;
+    padding: 0;
+    background-color: transparent;
+    color: red;
+    font-family: monospace;}
+
+
+    .container.shkoder{
+    position: fixed;
+    width: 1px;
+    height: 20px;
+    left: 25%;
+    top: 22%;
+    margin: 0;
+    padding: 0;
+    background-color: transparent;
+    color: red;
+    font-family: monospace;}
+
+
+    .container.tropoje{
+    position: fixed;
+    width: 1px;
+    height: 20px;
+    left: 28%;
+    top: 16%;
+    margin: 0;
+    padding: 0;
+    background-color: transparent;
+    color: red;
+    font-family: monospace;}
+
+
+     .container.diber{
+    position: fixed;
+    width: 1px;
+    height: 20px;
+    left: 33%;
+    top: 34%;
+    margin: 0;
+    padding: 0;
+    background-color: transparent;
+    color: red;
+    font-family: monospace;}
+
+
+    .container.kukes{
+    position: fixed;
+    width: 1px;
+    height: 20px;
+    left: 34%;
+    top: 27%;
+    margin: 0;
+    padding: 0;
+    background-color: transparent;
+    color: red;
+    font-family: monospace;}
+
+
+.container.kruje{
+    position: fixed;
+    width: 1px;
+    height: 20px;
+    left: 24%;
+    top: 39%;
+    margin: 0;
+    padding: 0;
+    background-color: transparent;
+    color: red;
+    font-family: monospace;}
+
+
+    .container.lac{
+    position: fixed;
+    width: 1px;
+    height: 20px;
+    left: 24%;
+    top: 33%;
+    margin: 0;
+    padding: 0;
+    background-color: transparent;
+    color: red;
+    font-family: monospace;}
+
+     .container.lezhe{
+    position: fixed;
+    width: 1px;
+    height: 20px;
+    left: 28%;
+    top: 31%;
+    margin: 0;
+    padding: 0;
+    background-color: transparent;
+    color: red;
+    font-family: monospace;}
+
+
+
+
+/*--------------------main_destinations---------------*/
+
+
+
+
+/*--------------------Vlore---------------*/
+
+.vlore1{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    
+
+   
+}
+.container-vlore{
+    position: absolute;
+    width: 546px;
+    height: 390px;
+    left: 30%;
+    top: 3%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+    size: cover;
+    
+}
+.text-block.vlore1{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+/*--------------------Dhermi---------------*/
+
+
+.dhermi {
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+.container-dhermi{
+    position: absolute;
+    width: 546px;
+    height: 390px;
+    left: 81%;
+    top: 3%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.dhermi1{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+/*--------------------himara---------------*/
+
+.himara {
+    position: absolute;
+    top: 0;
+    right: 0px;
+}
+
+.container-himara{
+    position: absolute;
+    width: 546px;
+    height: 390px;
+    left: 30%;
+    top: 57%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.himara1{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+/*--------------------saranda---------------*/
+
+
+.saranda {
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+.container-saranda{
+    position: absolute;
+    width: 546px;
+    height: 390px;
+    left: 81%;
+    top: 57%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.saranda1{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+/*--------------------llogora---------------*/
+
+
+.llogora2 {
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+.container-llogora{
+    position: absolute;
+    width: 546px;
+    height: 390px;
+    left: 81%;
+    top: 495%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.llogora2{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+/*--------------------pogradeci---------------*/
+.pogradeci{
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+.container-pogradeci{
+    position: absolute;
+    width: 546px;
+    height: 390px;
+    left: 81%;
+    top: 110%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.pogradeci{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+/*--------------------gjirokaster---------------*/
+
+
+.gjirokaster {
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+.container-gjirokaster{
+    position: absolute;
+    width: 546px;
+    height: 390px;
+    left: 30%;
+    top: 110%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.gjirokaster1{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+/*--------------------durres---------------*/
+
+
+.durres1{
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+.container-durres{
+    position: absolute;
+    width: 546px;
+    height: 390px;
+    left: 81%;
+    top: 165%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.durres1{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+/*--------------------fieri---------------*/
+
+
+.fieri1 {
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+.container-fieri{
+    position: absolute;
+    width: 546px;
+    height: 390px;
+    left: 30%;
+    top: 165%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.fieri1{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+/*--------------------shkoder---------------*/
+
+.shkoder1 {
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+.container-shkoder{
+    position: absolute;
+    width: 546px;
+    height: 390px;
+    left: 30%;
+    top: 220%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.shkoder1{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+/*--------------------berat---------------*/
+
+.berat3{
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+.container-berat{
+    position: absolute;
+    width: 546px;
+    height: 390px;
+    left: 81%;
+    top: 220%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.berat3{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+/*--------------------elbasan---------------*/
+.elbasan2 {
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+.container-elbasan{
+    position: absolute;
+    width: 546px;
+    height: 390px;
+    left: 30%;
+    top: 275%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.elbasan2{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+/*--------------------korce---------------*/
+
+.korca2{
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+.container-korca{
+    position: absolute;
+    width: 546px;
+    height: 390px;
+    left: 81%;
+    top: 275%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.korca2{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+/*--------------------kruja---------------*/
+
+
+.kruja2 {
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+.container-kruja{
+    position: absolute;
+    width: 546px;
+    height: 390px;
+    left: 30%;
+    top: 330%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.kruja2{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+/*--------------------kukes---------------*/
+
+.kukes2{
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+.container-kukes{
+    position: absolute;
+    width: 546px;
+    height: 390px;
+    left: 81%;
+    top: 330%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.kukes2{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+/*--------------------Permeti---------------*/
+
+.permeti2 {
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+.container-permet{
+    position: absolute;
+    width: 546px;
+    height: 390px;
+    left: 30%;
+    top: 385%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.permeti2{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+/*------------------Lac-----------------*/
+
+.laci2{
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+.container-lac{
+    position: absolute;
+    width: 546px;
+    height: 390px;
+    left: 81%;
+    top: 385%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.laci2{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+/*------------------Lezhe-----------------*/
+
+.lezhe2 {
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+.container-lezhe{
+    position: absolute;
+    width: 546px;
+    height: 390px;
+    left: 30%;
+    top: 440%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.lezhe2{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+/*------------------Tirana-----------------*/
+
+
+.tirana2{
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+.container-tirana{
+    position: absolute;
+    width: 546px;
+    height: 390px;
+    left: 81%;
+    top: 440%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.tirana2{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+/*------------------Diber-----------------*/
+
+.diber2 {
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+.container-tropoja{
+    position: absolute;
+    width: 546px;
+    height: 390px;
+    left: 30%;
+    top: 495%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.diber2{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+/*------------------Places------------------------------------------*/
+
+
+.lungo.mare{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+.container.lungomare{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 8%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.lungomare{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+
+
+.kanina {
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+.container.kanina{
+    position: absolute;
+    width: 546px;
+    height: 310px;
+    left: 81%;
+    top: 8%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.kanina{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+.zvernec{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+.container.zvernec{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 63%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.zvernec{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+
+
+.karaburun {
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+.container.karaburun{
+    position: absolute;
+    width: 546px;
+    height: 310px;
+    left: 81%;
+    top: 63%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.karaburun{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+.manastir{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+
+.container.manastir{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 118%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.manastir{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+.monumenti {
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+.container.monumenti{
+    position: absolute;
+    width: 546px;
+    height: 310px;
+    left: 81%;
+    top: 118%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.monumenti{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+.muze{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+
+.container.muze{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 173%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.muze{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+.pylli {
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+.container.pylli{
+    position: absolute;
+    width: 546px;
+    height: 310px;
+    left: 81%;
+    top: 173%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.pylli{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+
+
+.ishull{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+
+.container.ishull{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 228%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.ishull{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+
+.karaburun.shpelle {
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+.container.karaburun.shpelle{
+    position: absolute;
+    width: 546px;
+    height: 310px;
+    left: 81%;
+    top: 228%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.karaburun.shpelle{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+
+.dhermiu7{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+.container.dhermiu7{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 8%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.dhermiu7{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+
+.piratet {
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+.container.piratet{
+    position: absolute;
+    width: 546px;
+    height: 310px;
+    left: 81%;
+    top: 8%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.piratet{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+.dhermiu.beach{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+.container.dhermiu.beach{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 63%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.dhermiu.beach{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+
+.himara7{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+.container.himara7{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 8%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.himara7{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+.himara.ali{
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+.container.himara.ali{
+    position: absolute;
+    width: 546px;
+    height: 310px;
+    left: 81%;
+    top: 8%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.himara.ali{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+
+.ksamili{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+.container.ksamili{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 8%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.ksamili{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+
+.himara.saranda4{
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+.container.saranda4{
+    position: absolute;
+    width: 546px;
+    height: 310px;
+    left: 81%;
+    top: 8%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.saranda4{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+.saranda5{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+.container.saranda5{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 63%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.saranda5{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+.himara.syri.kalter{
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+
+
+
+.container.syri.kalter{
+    position: absolute;
+    width: 546px;
+    height: 310px;
+    left: 81%;
+    top: 63%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.syri.kalter{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.gjirokaster22{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+.container.gjirokaster22{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 8%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.gjirokaster22{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+
+
+.gjirokaster21 {
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+.container.gjirokaster21{
+    position: absolute;
+    width: 546px;
+    height: 310px;
+    left: 81%;
+    top: 8%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.gjirokaster21{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+.gjirokaster3{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+.container.gjirokaster3{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 63%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.gjirokaster3{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+
+
+.gjirokaster4 {
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+.container.gjirokaster4{
+    position: absolute;
+    width: 546px;
+    height: 310px;
+    left: 81%;
+    top: 63%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.gjirokaster4{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+.gjirokaster5{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+
+.container.gjirokaster5{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 118%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.gjirokaster5{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+.castle-pasha{
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+.container-castle{
+    position: absolute;
+    width: 546px;
+    height: 310px;
+    left: 81%;
+    top: 118%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.castle{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+.viroi{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+
+.container.viroi{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 173%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.viroi{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.pogradeci22{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+.container.pogradeci22{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 8%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.pogradeci22{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+
+
+.ohri {
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+.container.ohri{
+    position: absolute;
+    width: 546px;
+    height: 310px;
+    left: 81%;
+    top: 8%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.ohri{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+.ohri22{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+.container.ohri22{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 63%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.ohri22{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+
+
+.pogradeci23 {
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+.container.pogradeci23{
+    position: absolute;
+    width: 546px;
+    height: 310px;
+    left: 81%;
+    top: 63%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.pogradeci23{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.apollonia.one{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+.container.apollonia.one{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 8%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.apollonia.one{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+
+
+.apollonia.two {
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+.container.apollonia.two{
+    position: absolute;
+    width: 546px;
+    height: 310px;
+    left: 81%;
+    top: 8%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.apollonia.two{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+.ardenica.two{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+.container.ardenica.two{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 63%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.ardenica.two{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+
+
+.fieri.two {
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+.container.fieri.two{
+    position: absolute;
+    width: 546px;
+    height: 310px;
+    left: 81%;
+    top: 63%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.fieri.two{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+.fieri.four{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+
+.container.fieri.four{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 118%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.fieri.four{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.amphiteater1{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+.container.amphiteater1{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 8%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.amphiteater1{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+.durres7 {
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+.container.durres7{
+    position: absolute;
+    width: 546px;
+    height: 310px;
+    left: 81%;
+    top: 8%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.durres7{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+.durres8{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+.container.durres8{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 63%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.durres8{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+.durres9{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+
+.container.durres9{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 81%;
+    top: 63%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.durres9{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.kalaja2{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+.container.kalaja2{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 8%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.kalaja2{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+
+
+.koman2 {
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+.container.koman2{
+    position: absolute;
+    width: 546px;
+    height: 310px;
+    left: 81%;
+    top: 8%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.koman2{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+.rozafa1{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+.container.rozafa1{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 63%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.rozafa1{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+
+
+.shkodra7 {
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+.container.shkodra7{
+    position: absolute;
+    width: 546px;
+    height: 310px;
+    left: 81%;
+    top: 63%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.shkodra7{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+.shkodra8{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+
+.container.shkodra8{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 118%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.shkodra8{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+.theth {
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+.container.theth{
+    position: absolute;
+    width: 546px;
+    height: 310px;
+    left: 81%;
+    top: 118%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.theth{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+.thethi2{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+
+.container.thethi2{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 173%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.thethi2{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.berat2{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+.container.berat2{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 8%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.berat2{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+
+
+.berat4 {
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+.container.berat4 {
+    position: absolute;
+    width: 546px;
+    height: 310px;
+    left: 81%;
+    top: 8%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.berat4 {
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+.berat5{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+.container.berat5{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 63%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.berat5{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+
+
+.berat6{
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+.container.berat6{
+    position: absolute;
+    width: 546px;
+    height: 310px;
+    left: 81%;
+    top: 63%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.berat6{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+.berat7{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+
+.container.berat7{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 118%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.berat7{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.belsh{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+.container.belsh{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 8%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.belsh{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+
+
+.benja2 {
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+.container.benja2 {
+    position: absolute;
+    width: 546px;
+    height: 310px;
+    left: 81%;
+    top: 8%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.benja2 {
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+.elbasan3{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+.container.elbasan3{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 63%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.elbasan3{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+
+
+.gjinar{
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+.container.gjinar{
+    position: absolute;
+    width: 546px;
+    height: 310px;
+    left: 81%;
+    top: 63%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.gjinar{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+.muze2{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+
+.container.muze2{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 118%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.muze2{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+
+
+
+
+
+
+.belsh{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+.container.belsh{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 8%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.belsh{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+
+
+.benja2 {
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+.container.benja2 {
+    position: absolute;
+    width: 546px;
+    height: 310px;
+    left: 81%;
+    top: 8%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.benja2 {
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+.elbasan3{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+.container.elbasan3{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 63%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.elbasan3{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+
+
+.gjinar{
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+.container.gjinar{
+    position: absolute;
+    width: 546px;
+    height: 310px;
+    left: 81%;
+    top: 63%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.gjinar{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+.muze2{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+
+.container.muze2{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 118%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.muze2{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+
+
+
+
+
+
+.belsh{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+.container.belsh{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 8%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.belsh{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+
+
+.benja2 {
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+.container.benja2 {
+    position: absolute;
+    width: 546px;
+    height: 310px;
+    left: 81%;
+    top: 8%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.benja2 {
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+.elbasan3{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+.container.elbasan3{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 63%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.elbasan3{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+
+
+.gjinar{
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+.container.gjinar{
+    position: absolute;
+    width: 546px;
+    height: 310px;
+    left: 81%;
+    top: 63%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.gjinar{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+.muze2{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+
+.container.muze2{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 118%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.muze2{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+
+
+
+
+
+
+.belsh{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+.container.belsh{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 8%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.belsh{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+
+
+.benja2 {
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+.container.benja2 {
+    position: absolute;
+    width: 546px;
+    height: 310px;
+    left: 81%;
+    top: 8%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.benja2 {
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+.elbasan3{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+.container.elbasan3{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 63%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.elbasan3{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+
+
+.gjinar{
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+.container.gjinar{
+    position: absolute;
+    width: 546px;
+    height: 310px;
+    left: 81%;
+    top: 63%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.gjinar{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+.muze2{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+
+.container.muze2{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 118%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.muze2{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+
+
+
+
+.belsh{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+.container.belsh{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 8%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.belsh{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+
+
+.benja2 {
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+.container.benja2 {
+    position: absolute;
+    width: 546px;
+    height: 310px;
+    left: 81%;
+    top: 8%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.benja2 {
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+.elbasan3{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+.container.elbasan3{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 63%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.elbasan3{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+
+
+.gjinar{
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+.container.gjinar{
+    position: absolute;
+    width: 546px;
+    height: 310px;
+    left: 81%;
+    top: 63%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.gjinar{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+.muze2{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+
+.container.muze2{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 118%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.muze2{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.dardha2{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+.container.dardha2{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 8%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.dardha2{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+
+
+.korca5 {
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+.container.korca5 {
+    position: absolute;
+    width: 546px;
+    height: 310px;
+    left: 81%;
+    top: 8%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.korca5 {
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+.korca6{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+.container.korca6{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 63%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.korca6{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+
+
+.parisal{
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+.container.parisal{
+    position: absolute;
+    width: 546px;
+    height: 310px;
+    left: 81%;
+    top: 63%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.parisal{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+.dardha{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+
+.container.dardha{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 118%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.dardha{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+.korca9{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+
+.container.korca9{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 81%;
+    top: 118%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.korca9{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+
+
+
+
+
+
+.keshtjella2{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+.container.keshtjella2{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 8%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.keshtjella2{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+
+
+.keshtjella3{
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+.container.keshtjella3{
+    position: absolute;
+    width: 546px;
+    height: 310px;
+    left: 81%;
+    top: 8%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.keshtjella3{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+.pazar{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+.container.pazar{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 63%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.pazar{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+
+
+.museum5{
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+.container.museum5{
+    position: absolute;
+    width: 546px;
+    height: 310px;
+    left: 81%;
+    top: 63%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.museum5{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+.muze6{
+    position: absolute;
+    top: 0px;
+    right: 2px;
+
+   
+}
+
+.container.muze6{
+    position: absolute;
+    width: 550px;
+    height: 310px;
+    left: 30%;
+    top: 118%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.muze6{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+.skenderbeu1 {
+    position: absolute;
+    top: 0;
+    right: 1px;
+}
+
+.container.skenderbeu1{
+    position: absolute;
+    width: 546px;
+    height: 310px;
+    left: 81%;
+    top: 118%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.text-block.skenderbeu1{
+
+    position: relative;
+    margin: 0;
+    padding: 0;
+    top: 272px;
+    left: 0px;
+    font-family: sans-serif;
+}
+
+h6{margin-bottom: 0;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
