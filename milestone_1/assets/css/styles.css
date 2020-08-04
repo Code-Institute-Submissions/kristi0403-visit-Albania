@@ -1552,2721 +1552,446 @@ h6{margin-bottom: 0;}
 
 
 
-.dhermiu7{
-    position: absolute;
-    top: 0px;
-    right: 2px;
 
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 600px) {
+ .container-vlore {    
+    position: absolute;
+    width: 512px;
+    height: 400px;
+    left: 91%;
+    top: 3%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+    
+
+    }
+ .container-dhermi {
+    position: absolute;
+    width: 512px;
+    height: 400px;
+    left: 91%;
+    top: 70%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+ }
+
+ .container-himara{
+    position: absolute;
+    width: 512px;
+    height: 400px;
+    left: 91%;
+    top: 137%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+ }
+
+ .container-saranda{
+    position: absolute;
+    width: 512px;
+    height: 400px;
+    left: 91%;
+    top: 204%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+ }
+ .container-pogradeci{
+     position: absolute;
+    width: 512px;
+    height: 400px;
+    left: 91%;
+    top: 271%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+ }
+ .container-gjirokaster{
+    position: absolute;
+    width: 512px;
+    height: 400px;
+    left: 91%;
+    top: 338%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;  
+ }
+
+ .container-durres{
+    position: absolute;
+    width: 512px;
+    height: 400px;
+    left: 91%;
+    top: 405%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px; 
+ }
+ .container-fieri{
+    position: absolute;
+    width: 512px;
+    height: 400px;
+    left: 91%;
+    top: 472%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px; 
+ }
+ .container-shkoder{
+    position: absolute;
+    width: 512px;
+    height: 400px;
+    left: 91%;
+    top: 539%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px; 
+ }
+ .container-berat{
+     position: absolute;
+    width: 512px;
+    height: 400px;
+    left: 91%;
+    top: 606%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px; 
+ }
+ .container-elbasan{
+     position: absolute;
+    width: 512px;
+    height: 400px;
+    left: 91%;
+    top: 673%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px; 
+ }
+ .container-korca{
+    position: absolute;
+    width: 512px;
+    height: 400px;
+    left: 91%;
+    top: 740%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px; 
+ }
+ .container-kruja{
+      position: absolute;
+    width: 512px;
+    height: 400px;
+    left: 91%;
+    top: 807%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px; 
+ }
+ .container-kukes{
+    position: absolute;
+    width: 512px;
+    height: 400px;
+    left: 91%;
+    top: 874%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px; 
+ }
+ .container-permet{
+    position: absolute;
+    width: 512px;
+    height: 400px;
+    left: 91%;
+    top: 941%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px; 
+ }
+ .container-lac{
+    position: absolute;
+    width: 512px;
+    height: 400px;
+    left: 91%;
+    top: 1008%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px; 
+ }
+ .container-lezhe{
+    position: absolute;
+    width: 512px;
+    height: 400px;
+    left: 91%;
+    top: 1075%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px; 
+ }
+ .container-tirana{
+     position: absolute;
+    width: 512px;
+    height: 400px;
+    left: 91%;
+    top: 1142%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px; 
+ }
+ .container-tropoja{
+     position: absolute;
+      width: 512px;
+    height: 400px;
+    left: 91%;
+    top: 1209%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px; 
+ }
+ .container-llogora{
+     position: absolute;
+       width: 512px;
+    height: 400px;
+    left: 91%;
+    top: 1276%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px; 
+ }
+ .container.lungomare{
+     position: absolute;
+    width: 512px;
+    height: 350px;
+    left: 91%;
+    top: 3%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+ }
+ .container.kanina{
+    position: absolute;
+    width: 512px;
+    height: 350px;
+    left: 91%;
+    top: 70%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+
+ }
+ .container.zvernec{
+      position: absolute;
+    width: 512px;
+    height: 350px;
+    left: 91%;
+    top: 137%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+ }
+.container.karaburun{
+    position: absolute;
+    width: 512px;
+    height: 350px;
+    left: 91%;
+    top: 204%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.container.manastir {
+    position: absolute;
+    width: 512px;
+    height: 350px;
+    left: 91%;
+    top: 271%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.container.monumenti {
+
+   position: absolute;
+    width: 512px;
+    height: 350px;
+    left: 91%;
+    top: 338%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px; 
+    }
+
+
+.container.muze{
+   position: absolute;
+    width: 512px;
+    height: 350px;
+    left: 91%;
+    top: 405%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px; }
+
+.container.pylli{
+    position: absolute;
+    width: 512px;
+    height: 350px;
+    left: 91%;
+    top: 472%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px; 
+}
+.container.ishull{
+
+
+  position: absolute;
+    width: 512px;
+    height: 350px;
+    left: 91%;
+    top: 539%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px; }
+
+    .container.karaburun.shpelle{
+    position: absolute;
+    width: 512px;
+    height: 350px;
+    left: 91%;
+    top: 606%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px; 
+    }
+    .container-vlore{
+     position: absolute;
+    width: 512px;
+    height: 400px;
+    left: 91%;
+    top: 3%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+ }
+ .container-dhermi{
+    position: absolute;
+    width: 512px;
+    height: 400px;
+    left: 91%;
+    top: 70%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+
+ }
+ .container-himara{
+      position: absolute;
+    width: 512px;
+    height: 400px;
+    left: 91%;
+    top: 137%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+ }
+.ccontainer-saranda{
+    position: absolute;
+    width: 512px;
+    height: 400px;
+    left: 91%;
+    top: 204%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.container-gjirokaster {
+    position: absolute;
+    width: 512px;
+    height: 400px;
+    left: 91%;
+    top: 271%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+}
+.container-pogradeci {
+
+   position: absolute;
+    width: 512px;
+    height: 400px;
+    left: 91%;
+    top: 338%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px; 
+    }
+
+
+.container-fieri{
+   position: absolute;
+    width: 512px;
+    height: 400px;
+    left: 91%;
+    top: 405%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px; }
+
+.container-durres{
+    position: absolute;
+    width: 512px;
+    height: 400px;
+    left: 91%;
+    top: 472%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px; 
+}
+.container-shkoder{
+
+
+  position: absolute;
+    width: 512px;
+    height: 400px;
+    left: 91%;
+    top: 539%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px; }
+
+    .ccontainer-berat{
+    position: absolute;
+    width: 512px;
+    height: 400px;
+    left: 91%;
+    top: 606%;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px; 
+    }
    
-}
-.container.dhermiu7{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 8%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.dhermiu7{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-
-
-.piratet {
-    position: absolute;
-    top: 0;
-    right: 1px;
-}
-
-.container.piratet{
-    position: absolute;
-    width: 546px;
-    height: 310px;
-    left: 81%;
-    top: 8%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.piratet{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-.dhermiu.beach{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
-}
-.container.dhermiu.beach{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 63%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.dhermiu.beach{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-
-
-.himara7{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
-}
-.container.himara7{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 8%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.himara7{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-.himara.ali{
-    position: absolute;
-    top: 0;
-    right: 1px;
-}
-
-.container.himara.ali{
-    position: absolute;
-    width: 546px;
-    height: 310px;
-    left: 81%;
-    top: 8%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.himara.ali{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-
-
-.ksamili{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
-}
-.container.ksamili{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 8%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.ksamili{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-
-
-.himara.saranda4{
-    position: absolute;
-    top: 0;
-    right: 1px;
-}
-
-.container.saranda4{
-    position: absolute;
-    width: 546px;
-    height: 310px;
-    left: 81%;
-    top: 8%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.saranda4{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-.saranda5{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
-}
-.container.saranda5{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 63%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.saranda5{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-.himara.syri.kalter{
-    position: absolute;
-    top: 0;
-    right: 1px;
-}
-
-
-
-
-.container.syri.kalter{
-    position: absolute;
-    width: 546px;
-    height: 310px;
-    left: 81%;
-    top: 63%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.syri.kalter{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.gjirokaster22{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
-}
-.container.gjirokaster22{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 8%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.gjirokaster22{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-
-
-
-.gjirokaster21 {
-    position: absolute;
-    top: 0;
-    right: 1px;
-}
-
-.container.gjirokaster21{
-    position: absolute;
-    width: 546px;
-    height: 310px;
-    left: 81%;
-    top: 8%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.gjirokaster21{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-.gjirokaster3{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
-}
-.container.gjirokaster3{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 63%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.gjirokaster3{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-
-
-
-.gjirokaster4 {
-    position: absolute;
-    top: 0;
-    right: 1px;
-}
-
-.container.gjirokaster4{
-    position: absolute;
-    width: 546px;
-    height: 310px;
-    left: 81%;
-    top: 63%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.gjirokaster4{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-.gjirokaster5{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
-}
-
-.container.gjirokaster5{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 118%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.gjirokaster5{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-
-.castle-pasha{
-    position: absolute;
-    top: 0;
-    right: 1px;
-}
-
-.container-castle{
-    position: absolute;
-    width: 546px;
-    height: 310px;
-    left: 81%;
-    top: 118%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.castle{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-.viroi{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
-}
-
-.container.viroi{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 173%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.viroi{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.pogradeci22{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
-}
-.container.pogradeci22{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 8%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.pogradeci22{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-
-
-
-.ohri {
-    position: absolute;
-    top: 0;
-    right: 1px;
-}
-
-.container.ohri{
-    position: absolute;
-    width: 546px;
-    height: 310px;
-    left: 81%;
-    top: 8%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.ohri{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-.ohri22{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
-}
-.container.ohri22{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 63%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.ohri22{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-
-
-
-.pogradeci23 {
-    position: absolute;
-    top: 0;
-    right: 1px;
-}
-
-.container.pogradeci23{
-    position: absolute;
-    width: 546px;
-    height: 310px;
-    left: 81%;
-    top: 63%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.pogradeci23{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.apollonia.one{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
-}
-.container.apollonia.one{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 8%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.apollonia.one{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-
-
-
-.apollonia.two {
-    position: absolute;
-    top: 0;
-    right: 1px;
-}
-
-.container.apollonia.two{
-    position: absolute;
-    width: 546px;
-    height: 310px;
-    left: 81%;
-    top: 8%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.apollonia.two{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-.ardenica.two{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
-}
-.container.ardenica.two{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 63%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.ardenica.two{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-
-
-
-.fieri.two {
-    position: absolute;
-    top: 0;
-    right: 1px;
-}
-
-.container.fieri.two{
-    position: absolute;
-    width: 546px;
-    height: 310px;
-    left: 81%;
-    top: 63%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.fieri.two{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-.fieri.four{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
-}
-
-.container.fieri.four{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 118%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.fieri.four{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.amphiteater1{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
-}
-.container.amphiteater1{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 8%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.amphiteater1{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-.durres7 {
-    position: absolute;
-    top: 0;
-    right: 1px;
-}
-
-.container.durres7{
-    position: absolute;
-    width: 546px;
-    height: 310px;
-    left: 81%;
-    top: 8%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.durres7{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-.durres8{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
-}
-.container.durres8{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 63%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.durres8{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-.durres9{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
-}
-
-.container.durres9{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 81%;
-    top: 63%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.durres9{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.kalaja2{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
-}
-.container.kalaja2{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 8%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.kalaja2{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-
-
-
-.koman2 {
-    position: absolute;
-    top: 0;
-    right: 1px;
-}
-
-.container.koman2{
-    position: absolute;
-    width: 546px;
-    height: 310px;
-    left: 81%;
-    top: 8%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.koman2{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-.rozafa1{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
-}
-.container.rozafa1{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 63%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.rozafa1{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-
-
-
-.shkodra7 {
-    position: absolute;
-    top: 0;
-    right: 1px;
-}
-
-.container.shkodra7{
-    position: absolute;
-    width: 546px;
-    height: 310px;
-    left: 81%;
-    top: 63%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.shkodra7{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-.shkodra8{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
-}
-
-.container.shkodra8{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 118%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.shkodra8{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-
-.theth {
-    position: absolute;
-    top: 0;
-    right: 1px;
-}
-
-.container.theth{
-    position: absolute;
-    width: 546px;
-    height: 310px;
-    left: 81%;
-    top: 118%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.theth{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-.thethi2{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
-}
-
-.container.thethi2{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 173%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.thethi2{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.berat2{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
-}
-.container.berat2{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 8%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.berat2{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-
-
-
-.berat4 {
-    position: absolute;
-    top: 0;
-    right: 1px;
-}
-
-.container.berat4 {
-    position: absolute;
-    width: 546px;
-    height: 310px;
-    left: 81%;
-    top: 8%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.berat4 {
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-.berat5{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
-}
-.container.berat5{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 63%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.berat5{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-
-
-
-.berat6{
-    position: absolute;
-    top: 0;
-    right: 1px;
-}
-
-.container.berat6{
-    position: absolute;
-    width: 546px;
-    height: 310px;
-    left: 81%;
-    top: 63%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.berat6{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-.berat7{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
-}
-
-.container.berat7{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 118%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.berat7{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.belsh{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
-}
-.container.belsh{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 8%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.belsh{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-
-
-
-.benja2 {
-    position: absolute;
-    top: 0;
-    right: 1px;
-}
-
-.container.benja2 {
-    position: absolute;
-    width: 546px;
-    height: 310px;
-    left: 81%;
-    top: 8%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.benja2 {
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-.elbasan3{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
-}
-.container.elbasan3{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 63%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.elbasan3{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-
-
-
-.gjinar{
-    position: absolute;
-    top: 0;
-    right: 1px;
-}
-
-.container.gjinar{
-    position: absolute;
-    width: 546px;
-    height: 310px;
-    left: 81%;
-    top: 63%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.gjinar{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-.muze2{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
-}
-
-.container.muze2{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 118%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.muze2{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-
-
-
-
-
-
-
-.belsh{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
-}
-.container.belsh{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 8%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.belsh{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-
-
-
-.benja2 {
-    position: absolute;
-    top: 0;
-    right: 1px;
-}
-
-.container.benja2 {
-    position: absolute;
-    width: 546px;
-    height: 310px;
-    left: 81%;
-    top: 8%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.benja2 {
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-.elbasan3{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
-}
-.container.elbasan3{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 63%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.elbasan3{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-
-
-
-.gjinar{
-    position: absolute;
-    top: 0;
-    right: 1px;
-}
-
-.container.gjinar{
-    position: absolute;
-    width: 546px;
-    height: 310px;
-    left: 81%;
-    top: 63%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.gjinar{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-.muze2{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
-}
-
-.container.muze2{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 118%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.muze2{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-
-
-
-
-
-
-
-.belsh{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
-}
-.container.belsh{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 8%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.belsh{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-
-
-
-.benja2 {
-    position: absolute;
-    top: 0;
-    right: 1px;
-}
-
-.container.benja2 {
-    position: absolute;
-    width: 546px;
-    height: 310px;
-    left: 81%;
-    top: 8%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.benja2 {
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-.elbasan3{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
-}
-.container.elbasan3{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 63%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.elbasan3{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-
-
-
-.gjinar{
-    position: absolute;
-    top: 0;
-    right: 1px;
-}
-
-.container.gjinar{
-    position: absolute;
-    width: 546px;
-    height: 310px;
-    left: 81%;
-    top: 63%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.gjinar{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-.muze2{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
-}
-
-.container.muze2{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 118%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.muze2{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-
-
-
-
-
-
-
-.belsh{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
-}
-.container.belsh{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 8%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.belsh{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-
-
-
-.benja2 {
-    position: absolute;
-    top: 0;
-    right: 1px;
-}
-
-.container.benja2 {
-    position: absolute;
-    width: 546px;
-    height: 310px;
-    left: 81%;
-    top: 8%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.benja2 {
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-.elbasan3{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
-}
-.container.elbasan3{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 63%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.elbasan3{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-
-
-
-.gjinar{
-    position: absolute;
-    top: 0;
-    right: 1px;
-}
-
-.container.gjinar{
-    position: absolute;
-    width: 546px;
-    height: 310px;
-    left: 81%;
-    top: 63%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.gjinar{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-.muze2{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
-}
-
-.container.muze2{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 118%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.muze2{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-
-
-
-
-
-.belsh{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
-}
-.container.belsh{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 8%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.belsh{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-
-
-
-.benja2 {
-    position: absolute;
-    top: 0;
-    right: 1px;
-}
-
-.container.benja2 {
-    position: absolute;
-    width: 546px;
-    height: 310px;
-    left: 81%;
-    top: 8%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.benja2 {
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-.elbasan3{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
-}
-.container.elbasan3{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 63%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.elbasan3{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-
-
-
-.gjinar{
-    position: absolute;
-    top: 0;
-    right: 1px;
-}
-
-.container.gjinar{
-    position: absolute;
-    width: 546px;
-    height: 310px;
-    left: 81%;
-    top: 63%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.gjinar{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-.muze2{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
-}
-
-.container.muze2{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 118%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.muze2{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-
-
-
-
-
-
-
-
-
-.dardha2{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
-}
-.container.dardha2{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 8%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.dardha2{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-
-
-
-.korca5 {
-    position: absolute;
-    top: 0;
-    right: 1px;
-}
-
-.container.korca5 {
-    position: absolute;
-    width: 546px;
-    height: 310px;
-    left: 81%;
-    top: 8%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.korca5 {
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-.korca6{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
-}
-.container.korca6{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 63%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.korca6{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-
-
-
-.parisal{
-    position: absolute;
-    top: 0;
-    right: 1px;
-}
-
-.container.parisal{
-    position: absolute;
-    width: 546px;
-    height: 310px;
-    left: 81%;
-    top: 63%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.parisal{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-.dardha{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
-}
-
-.container.dardha{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 118%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.dardha{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-.korca9{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
-}
-
-.container.korca9{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 81%;
-    top: 118%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.korca9{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-
-
-
-
-
-
-
-.keshtjella2{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
-}
-.container.keshtjella2{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 8%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.keshtjella2{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
+    .container.food99{
+      display:none;
+    }
 
+    .container.activities98{
+      display:none
+    }
 
-
-
-
-.keshtjella3{
-    position: absolute;
-    top: 0;
-    right: 1px;
-}
-
-.container.keshtjella3{
-    position: absolute;
-    width: 546px;
-    height: 310px;
-    left: 81%;
-    top: 8%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.keshtjella3{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-.pazar{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
-}
-.container.pazar{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 63%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.pazar{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-
-
-
-.museum5{
-    position: absolute;
-    top: 0;
-    right: 1px;
-}
-
-.container.museum5{
-    position: absolute;
-    width: 546px;
-    height: 310px;
-    left: 81%;
-    top: 63%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.museum5{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-.muze6{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
-}
-
-.container.muze6{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 118%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.muze6{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-
-.skenderbeu1 {
-    position: absolute;
-    top: 0;
-    right: 1px;
 }
-
-.container.skenderbeu1{
-    position: absolute;
-    width: 546px;
-    height: 310px;
-    left: 81%;
-    top: 118%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.skenderbeu1{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
