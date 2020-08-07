@@ -17,8 +17,9 @@
     <title>Visit Albania</title>
 
     <style>
-    
+
       html {
+          
         background: url("././images/background.png") no-repeat fixed;
         -webkit-background-size: cover;
         -moz-background-size: cover;
@@ -27,13 +28,81 @@
         background-position: 25% 65px;
         background-color: white;
       }
+    
+
+.dropbtn {
+  background-color: beige;
+  color: blue;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+}
+
+.dropdown {
+  position: absolute;
+  display: inline-block;
+  right: 7%;
+  top: 10%;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: beige;
+  min-width: 100px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: blue;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.dropdown:hover .dropbtn {
+  background-color: none;
+}
+
     </style>
   </head>
   <body>
 
-
-
-
+<div class="dropdown">
+  <button class="dropbtn">Menu</button>
+  <div class="dropdown-content">
+    <a href="vlore.html">Vlore</a>
+    <a href="tropoje.html">Tropoje</a>
+    <a href="tirana.html">Tirana</a>
+    <a href="shkoder.html">Shkoder</a>
+    <a href="saranda.html">Saranda</a>
+    <a href="pogradeci.html">Pogradeci</a>
+    <a href="permeti.html">Permeti</a>
+    <a href="llogora.html">Llogora</a>
+    <a href="lezha.html">Lezha</a>
+    <a href="laci.html">Laci</a>
+    <a href="kukes.html">Kukes</a>
+    <a href="kruja.html">Kruja</a>
+    <a href="korca.html">Korca</a>
+    <a href="himara.html">Himara</a>
+    <a href="fieri.html">Fieri</a>
+    <a href="elbasan.html">Elbasan</a>
+    <a href="durres.html">Durres</a>
+    <a href="gjirokaster.html">Gjirokaster</a>
+    <a href="dhermi.html">Dhermi</a>
+    <a href="berati.html">Berati</a>
+    <a href="activities.html">Activities</a>
+    <a href="food.html">Food</a>
+    </div>
+    </div>
     <div class="header">
       <h1>Welcome to Albania!</h1>
     </div>

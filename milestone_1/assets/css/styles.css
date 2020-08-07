@@ -1,8 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
-
+@import url("https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700");
 
 body {
-  font-family: 'Roboto', sans-serif, cursive;
+  font-family: "Roboto", sans-serif, cursive;
   margin: 0;
   text-align: center;
 }
@@ -11,1561 +10,1396 @@ body {
 
 
 
-
 ul {
-    display: flex;
-    align-items: stretch; 
-    justify-content: space-evenly;
-    width: 100%;
-    background: transparent;
-    margin: 0;
-    padding: 0;
+  display: flex;
+  align-items: stretch;
+  justify-content: space-evenly;
+  width: 100%;
+  background: transparent;
+  margin: 0;
+  padding: 0;
 }
 li {
-    display: block;
-    flex: 0 1 auto; 
-    list-style-type: none;
-    background: transparent;
+  display: block;
+  flex: 0 1 auto;
+  list-style-type: none;
+  background: transparent;
 }
-
 
 /*--------------------header---------------*/
 
-.header{
-    background-color:beige;
-    font-family: cursive;
+.header {
+  background-color: beige;
+  font-family: cursive;
 }
-
-
 
 /*--------------------places---------------*/
 
 .vlore {
-  
   position: absolute;
   top: 130px;
   right: 570px;
 }
 
 .llogara {
-  
   position: absolute;
   top: 230px;
   right: 670px;
 }
 
-
 .himare {
-    position: absolute;
+  position: absolute;
   top: 330px;
   right: 870px;
-
 }
 
-
 .dhermi {
-position: absolute;
+  position: absolute;
   top: 430px;
   right: 970px;
 }
 
-
 .sarande {
-
-position: absolute;
+  position: absolute;
   top: 130px;
   right: 470px;
 }
 
-
-
-
-
-
-
-.gjirokaster{
-position: absolute;
+.gjirokaster {
+  position: absolute;
   top: 130px;
   right: 570px;
 }
 
-
-
-
-.permet{
-
-position: absolute;
-  top: 130px;
-  right: 570px;
-
-}
-
-
-
-.korce{
-
-position: absolute;
+.permet {
+  position: absolute;
   top: 130px;
   right: 570px;
 }
 
-
-
-
-.pogradec{
-position: absolute;
+.korce {
+  position: absolute;
   top: 130px;
   right: 570px;
 }
 
-
-
-.fier{
-position: absolute;
+.pogradec {
+  position: absolute;
   top: 130px;
   right: 570px;
 }
 
-
-
-.berat{
-position: absolute;
+.fier {
+  position: absolute;
   top: 130px;
   right: 570px;
 }
 
-
-
-
-.elbasan{
-
-position: absolute;
+.berat {
+  position: absolute;
   top: 130px;
   right: 570px;
 }
 
-
-
-.durres{
-
-position: absolute;
+.elbasan {
+  position: absolute;
   top: 130px;
   right: 570px;
 }
 
-
-
-.tirane{
-
-position: absolute;
-  top: 130px;
-  right: 570px;
-
-}
-
-
-.shkoder{
-
-position: absolute;
-  top: 130px;
-  right: 570px;
-
-}
-
-
-.tropoje{
-
-position: absolute;
+.durres {
+  position: absolute;
   top: 130px;
   right: 570px;
 }
 
-
-
-.diber{
-
-position: absolute;
+.tirane {
+  position: absolute;
   top: 130px;
   right: 570px;
-
-
 }
 
-
-.kukes{
-
-position: absolute;
+.shkoder {
+  position: absolute;
   top: 130px;
   right: 570px;
-
-
 }
 
-
-.kruje{
-
-position: absolute;
+.tropoje {
+  position: absolute;
   top: 130px;
   right: 570px;
-
 }
 
-
-
-.lac{
-
-position: absolute;
+.diber {
+  position: absolute;
   top: 130px;
   right: 570px;
-
 }
 
-
-.lezhe{
-
-position: absolute;
+.kukes {
+  position: absolute;
   top: 130px;
   right: 570px;
-
 }
 
+.kruje {
+  position: absolute;
+  top: 130px;
+  right: 570px;
+}
 
+.lac {
+  position: absolute;
+  top: 130px;
+  right: 570px;
+}
+
+.lezhe {
+  position: absolute;
+  top: 130px;
+  right: 570px;
+}
 
 /*--------------------places---------------*/
 
-
 /*--------------------quotes---------------*/
 
-.container.food99{
-    position: fixed;
-    width: 600px;
-    height: 200px;
-    left: 80%;
-    top: 60%;
-    margin-left: -340px;
-    background-color: beige;
+.container.food99 {
+  position: fixed;
+  width: 600px;
+  height: 200px;
+  left: 80%;
+  top: 60%;
+  margin-left: -340px;
+  background-color: beige;
 }
 
-.container.activities98{
-    position: fixed;
-    width: 600px;
-    height: 200px;
-    left: 80%;
-    top: 25%;
-    margin-left: -340px;
-    background-color: beige;
+.container.activities98 {
+  position: fixed;
+  width: 600px;
+  height: 200px;
+  left: 80%;
+  top: 25%;
+  margin-left: -340px;
+  background-color: beige;
 }
 
-
-
-.text-block.food99{
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 100px;
-    left: 55px;
-    font-family: sans-serif;
+.text-block.food99 {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  top: 100px;
+  left: 55px;
+  font-family: sans-serif;
 }
 
-.text-block.activities98{
-     position: relative;
-    margin: 0;
-    padding: 0;
-    top: 110px;
-    left: -50px;
-    font-family: sans-serif;
-}
- 
-/*--------------------images---------------*/
-.food{
-    border-radius: 50%;
-    position: absolute;
-    top: 50px;
-    right: 460px;
-}
-
-.activities{
-    border-radius: 50%;
-    position: absolute;
-    top: 50px;
-    right: 50px;
-
+.text-block.activities98 {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  top: 110px;
+  left: -50px;
+  font-family: sans-serif;
 }
 
 /*--------------------images---------------*/
+.food {
+  border-radius: 50%;
+  position: absolute;
+  top: 50px;
+  right: 460px;
+}
 
+.activities {
+  border-radius: 50%;
+  position: absolute;
+  top: 50px;
+  right: 50px;
+}
 
+/*--------------------images---------------*/
 
 /*--------------------container-places---------------*/
 
-
-.container.vlore{
-    position: fixed;
-    width: 1px;
-    height: 22px;
-    left: 23%;
-    top: 75%;
-    margin:0;
-    padding: 0;
-    background-color: transparent;
-    color:red;
-    font-family: monospace;
+.container.vlore {
+  position: fixed;
+  width: 1px;
+  height: 22px;
+  left: 23%;
+  top: 75%;
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+  color: red;
+  font-family: monospace;
 }
 
-
-.container.llogora{
-    position: fixed;
-    width: 1px;
-    height: 20px;
-    left: 26%;
-    top: 77%;
-    margin: 0;
-    padding: 0;
-    background-color: transparent;
-    color: red;
-    font-family: monospace;
+.container.llogora {
+  position: fixed;
+  width: 1px;
+  height: 20px;
+  left: 26%;
+  top: 77%;
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+  color: red;
+  font-family: monospace;
 }
 
-
-.container.dhermi{
-    position: fixed;
-    width: 1px;
-    height: 20px;
-    left: 23%;
-    top: 81%;
-    margin: 0;
-    padding: 0;
-    background-color: transparent;
-    color: red;
-    font-family: monospace;
+.container.dhermi {
+  position: fixed;
+  width: 1px;
+  height: 20px;
+  left: 23%;
+  top: 81%;
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+  color: red;
+  font-family: monospace;
 }
 
-.container.himare{
-    position: fixed;
-    width: 1px;
-    height: 20px;
-    left: 24%;
-    top: 86%;
-    margin: 0;
-    padding: 0;
-    background-color: transparent;
-    color: red;
-    font-family: monospace;
+.container.himare {
+  position: fixed;
+  width: 1px;
+  height: 20px;
+  left: 24%;
+  top: 86%;
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+  color: red;
+  font-family: monospace;
 }
 
-
-.container.sarande{
-    position: fixed;
-    width: 1px;
-    height: 20px;
-    left: 30%;
-    top: 89%;
-    margin: 0;
-    padding: 0;
-    background-color: transparent;
-    color: red;
-    font-family: monospace;
+.container.sarande {
+  position: fixed;
+  width: 1px;
+  height: 20px;
+  left: 30%;
+  top: 89%;
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+  color: red;
+  font-family: monospace;
 }
 
-.container.gjirokaster{
-    position: fixed;
-    width: 1px;
-    height: 20px;
-    left: 32%;
-    top: 80%;
-    margin: 0;
-    padding: 0;
-    background-color: transparent;
-    color: red;
-    font-family: monospace;
+.container.gjirokaster {
+  position: fixed;
+  width: 1px;
+  height: 20px;
+  left: 32%;
+  top: 80%;
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+  color: red;
+  font-family: monospace;
 }
 
-
-
-.container.permet{
-    position: fixed;
-    width: 1px;
-    height: 20px;
-    left: 34%;
-    top: 74%;
-    margin: 0;
-    padding: 0;
-    background-color: transparent;
-    color: red;
-    font-family: monospace;
+.container.permet {
+  position: fixed;
+  width: 1px;
+  height: 20px;
+  left: 34%;
+  top: 74%;
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+  color: red;
+  font-family: monospace;
 }
 
-
-.container.korce{
-    position: fixed;
-    width: 1px;
-    height: 20px;
-    left: 37%;
-    top: 65%;
-    margin: 0;
-    padding: 0;
-    background-color: transparent;
-    color: red;
-    font-family: monospace;
+.container.korce {
+  position: fixed;
+  width: 1px;
+  height: 20px;
+  left: 37%;
+  top: 65%;
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+  color: red;
+  font-family: monospace;
 }
 
-
-.container.pogradec{
-    position: fixed;
-    width: 1px;
-    height: 20px;
-    left: 36%;
-    top: 57%;
-    margin: 0;
-    padding: 0;
-    background-color: transparent;
-    color: red;
-    font-family: monospace;
+.container.pogradec {
+  position: fixed;
+  width: 1px;
+  height: 20px;
+  left: 36%;
+  top: 57%;
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+  color: red;
+  font-family: monospace;
 }
 
-.container.fier{
-    position: fixed;
-    width: 1px;
-    height: 20px;
-    left: 22%;
-    top: 62%;
-    margin: 0;
-    padding: 0;
-    background-color: transparent;
-    color: red;
-    font-family: monospace;}
+.container.fier {
+  position: fixed;
+  width: 1px;
+  height: 20px;
+  left: 22%;
+  top: 62%;
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+  color: red;
+  font-family: monospace;
+}
 
-.container.berat{
-    position: fixed;
-    width: 1px;
-    height: 20px;
-    left: 28%;
-    top: 63%;
-    margin: 0;
-    padding: 0;
-    background-color: transparent;
-    color: red;
-    font-family: monospace;}
+.container.berat {
+  position: fixed;
+  width: 1px;
+  height: 20px;
+  left: 28%;
+  top: 63%;
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+  color: red;
+  font-family: monospace;
+}
 
+.container.elbasan {
+  position: fixed;
+  width: 1px;
+  height: 20px;
+  left: 29%;
+  top: 53%;
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+  color: red;
+  font-family: monospace;
+}
 
-    .container.elbasan{
-    position: fixed;
-    width: 1px;
-    height: 20px;
-    left: 29%;
-    top: 53%;
-    margin: 0;
-    padding: 0;
-    background-color: transparent;
-    color: red;
-    font-family: monospace;}
+.container.durres {
+  position: fixed;
+  width: 1px;
+  height: 20px;
+  left: 22%;
+  top: 43%;
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+  color: red;
+  font-family: monospace;
+}
 
+.container.tirane {
+  position: fixed;
+  width: 1px;
+  height: 20px;
+  left: 27%;
+  top: 44%;
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+  color: red;
+  font-family: monospace;
+}
 
-    .container.durres{
-    position: fixed;
-    width: 1px;
-    height: 20px;
-    left: 22%;
-    top: 43%;
-    margin: 0;
-    padding: 0;
-    background-color: transparent;
-    color: red;
-    font-family: monospace;}
+.container.shkoder {
+  position: fixed;
+  width: 1px;
+  height: 20px;
+  left: 25%;
+  top: 22%;
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+  color: red;
+  font-family: monospace;
+}
 
+.container.tropoje {
+  position: fixed;
+  width: 1px;
+  height: 20px;
+  left: 28%;
+  top: 16%;
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+  color: red;
+  font-family: monospace;
+}
 
-    .container.tirane{
-    position: fixed;
-    width: 1px;
-    height: 20px;
-    left: 27%;
-    top: 44%;
-    margin: 0;
-    padding: 0;
-    background-color: transparent;
-    color: red;
-    font-family: monospace;}
+.container.diber {
+  position: fixed;
+  width: 1px;
+  height: 20px;
+  left: 33%;
+  top: 34%;
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+  color: red;
+  font-family: monospace;
+}
 
+.container.kukes {
+  position: fixed;
+  width: 1px;
+  height: 20px;
+  left: 34%;
+  top: 27%;
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+  color: red;
+  font-family: monospace;
+}
 
-    .container.shkoder{
-    position: fixed;
-    width: 1px;
-    height: 20px;
-    left: 25%;
-    top: 22%;
-    margin: 0;
-    padding: 0;
-    background-color: transparent;
-    color: red;
-    font-family: monospace;}
+.container.kruje {
+  position: fixed;
+  width: 1px;
+  height: 20px;
+  left: 24%;
+  top: 39%;
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+  color: red;
+  font-family: monospace;
+}
 
+.container.lac {
+  position: fixed;
+  width: 1px;
+  height: 20px;
+  left: 24%;
+  top: 33%;
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+  color: red;
+  font-family: monospace;
+}
 
-    .container.tropoje{
-    position: fixed;
-    width: 1px;
-    height: 20px;
-    left: 28%;
-    top: 16%;
-    margin: 0;
-    padding: 0;
-    background-color: transparent;
-    color: red;
-    font-family: monospace;}
-
-
-     .container.diber{
-    position: fixed;
-    width: 1px;
-    height: 20px;
-    left: 33%;
-    top: 34%;
-    margin: 0;
-    padding: 0;
-    background-color: transparent;
-    color: red;
-    font-family: monospace;}
-
-
-    .container.kukes{
-    position: fixed;
-    width: 1px;
-    height: 20px;
-    left: 34%;
-    top: 27%;
-    margin: 0;
-    padding: 0;
-    background-color: transparent;
-    color: red;
-    font-family: monospace;}
-
-
-.container.kruje{
-    position: fixed;
-    width: 1px;
-    height: 20px;
-    left: 24%;
-    top: 39%;
-    margin: 0;
-    padding: 0;
-    background-color: transparent;
-    color: red;
-    font-family: monospace;}
-
-
-    .container.lac{
-    position: fixed;
-    width: 1px;
-    height: 20px;
-    left: 24%;
-    top: 33%;
-    margin: 0;
-    padding: 0;
-    background-color: transparent;
-    color: red;
-    font-family: monospace;}
-
-     .container.lezhe{
-    position: fixed;
-    width: 1px;
-    height: 20px;
-    left: 28%;
-    top: 31%;
-    margin: 0;
-    padding: 0;
-    background-color: transparent;
-    color: red;
-    font-family: monospace;}
-
-
-
+.container.lezhe {
+  position: fixed;
+  width: 1px;
+  height: 20px;
+  left: 28%;
+  top: 31%;
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+  color: red;
+  font-family: monospace;
+}
 
 /*--------------------main_destinations---------------*/
 
-
-
-
 /*--------------------Vlore---------------*/
 
-.vlore1{
-    position: absolute;
-    top: 0px;
-    right: 0px;
-    
-
-   
+.vlore1 {
+  position: absolute;
+  top: 0px;
+  right: 0px;
 }
-.container-vlore{
-    position: absolute;
-    width: 546px;
-    height: 390px;
-    left: 30%;
-    top: 3%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-    size: cover;
-    
+.container-vlore {
+  position: absolute;
+  width: 546px;
+  height: 390px;
+  left: 30%;
+  top: 3%;
+  margin-left: -340px;
+  background-color: beige;
+  margin-top: 20px;
+  size: cover;
 }
-.text-block.vlore1{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
+.text-block.vlore1 {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  top: 272px;
+  left: 0px;
+  font-family: sans-serif;
 }
 
-h6{margin-bottom: 0;}
-
+h6 {
+  margin-bottom: 0;
+}
 
 /*--------------------Dhermi---------------*/
 
-
 .dhermi {
-    position: absolute;
-    top: 0;
-    right: 1px;
+  position: absolute;
+  top: 0;
+  right: 1px;
 }
 
-.container-dhermi{
-    position: absolute;
-    width: 546px;
-    height: 390px;
-    left: 81%;
-    top: 3%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
+.container-dhermi {
+  position: absolute;
+  width: 546px;
+  height: 390px;
+  left: 81%;
+  top: 3%;
+  margin-left: -340px;
+  background-color: beige;
+  margin-top: 20px;
 }
-.text-block.dhermi1{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
+.text-block.dhermi1 {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  top: 272px;
+  left: 0px;
+  font-family: sans-serif;
 }
 
-h6{margin-bottom: 0;}
-
-
+h6 {
+  margin-bottom: 0;
+}
 
 /*--------------------himara---------------*/
 
 .himara {
-    position: absolute;
-    top: 0;
-    right: 0px;
+  position: absolute;
+  top: 0;
+  right: 0px;
 }
 
-.container-himara{
-    position: absolute;
-    width: 546px;
-    height: 390px;
-    left: 30%;
-    top: 57%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
+.container-himara {
+  position: absolute;
+  width: 546px;
+  height: 390px;
+  left: 30%;
+  top: 57%;
+  margin-left: -340px;
+  background-color: beige;
+  margin-top: 20px;
 }
-.text-block.himara1{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
+.text-block.himara1 {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  top: 272px;
+  left: 0px;
+  font-family: sans-serif;
 }
 
-h6{margin-bottom: 0;}
-
-
+h6 {
+  margin-bottom: 0;
+}
 
 /*--------------------saranda---------------*/
 
-
 .saranda {
-    position: absolute;
-    top: 0;
-    right: 1px;
+  position: absolute;
+  top: 0;
+  right: 1px;
 }
 
-.container-saranda{
-    position: absolute;
-    width: 546px;
-    height: 390px;
-    left: 81%;
-    top: 57%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
+.container-saranda {
+  position: absolute;
+  width: 546px;
+  height: 390px;
+  left: 81%;
+  top: 57%;
+  margin-left: -340px;
+  background-color: beige;
+  margin-top: 20px;
 }
-.text-block.saranda1{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
+.text-block.saranda1 {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  top: 272px;
+  left: 0px;
+  font-family: sans-serif;
 }
 
-h6{margin-bottom: 0;}
-
+h6 {
+  margin-bottom: 0;
+}
 
 /*--------------------llogora---------------*/
 
-
 .llogora2 {
-    position: absolute;
-    top: 0;
-    right: 1px;
+  position: absolute;
+  top: 0;
+  right: 1px;
 }
 
-.container-llogora{
-    position: absolute;
-    width: 546px;
-    height: 390px;
-    left: 81%;
-    top: 495%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
+.container-llogora {
+  position: absolute;
+  width: 546px;
+  height: 390px;
+  left: 81%;
+  top: 495%;
+  margin-left: -340px;
+  background-color: beige;
+  margin-top: 20px;
 }
-.text-block.llogora2{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
+.text-block.llogora2 {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  top: 272px;
+  left: 0px;
+  font-family: sans-serif;
 }
 
-h6{margin-bottom: 0;}
-
-
+h6 {
+  margin-bottom: 0;
+}
 
 /*--------------------pogradeci---------------*/
-.pogradeci{
-    position: absolute;
-    top: 0;
-    right: 1px;
+.pogradeci {
+  position: absolute;
+  top: 0;
+  right: 1px;
 }
-.container-pogradeci{
-    position: absolute;
-    width: 546px;
-    height: 390px;
-    left: 81%;
-    top: 110%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
+.container-pogradeci {
+  position: absolute;
+  width: 546px;
+  height: 390px;
+  left: 81%;
+  top: 110%;
+  margin-left: -340px;
+  background-color: beige;
+  margin-top: 20px;
 }
-.text-block.pogradeci{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
+.text-block.pogradeci {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  top: 272px;
+  left: 0px;
+  font-family: sans-serif;
 }
 
-h6{margin-bottom: 0;}
-
-
+h6 {
+  margin-bottom: 0;
+}
 
 /*--------------------gjirokaster---------------*/
 
-
 .gjirokaster {
-    position: absolute;
-    top: 0;
-    right: 1px;
+  position: absolute;
+  top: 0;
+  right: 1px;
 }
 
-.container-gjirokaster{
-    position: absolute;
-    width: 546px;
-    height: 390px;
-    left: 30%;
-    top: 110%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
+.container-gjirokaster {
+  position: absolute;
+  width: 546px;
+  height: 390px;
+  left: 30%;
+  top: 110%;
+  margin-left: -340px;
+  background-color: beige;
+  margin-top: 20px;
 }
-.text-block.gjirokaster1{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
+.text-block.gjirokaster1 {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  top: 272px;
+  left: 0px;
+  font-family: sans-serif;
 }
 
-h6{margin-bottom: 0;}
-
+h6 {
+  margin-bottom: 0;
+}
 
 /*--------------------durres---------------*/
 
-
-.durres1{
-    position: absolute;
-    top: 0;
-    right: 1px;
+.durres1 {
+  position: absolute;
+  top: 0;
+  right: 1px;
 }
-.container-durres{
-    position: absolute;
-    width: 546px;
-    height: 390px;
-    left: 81%;
-    top: 165%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
+.container-durres {
+  position: absolute;
+  width: 546px;
+  height: 390px;
+  left: 81%;
+  top: 165%;
+  margin-left: -340px;
+  background-color: beige;
+  margin-top: 20px;
 }
-.text-block.durres1{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
+.text-block.durres1 {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  top: 272px;
+  left: 0px;
+  font-family: sans-serif;
 }
 
-h6{margin-bottom: 0;}
-
+h6 {
+  margin-bottom: 0;
+}
 
 /*--------------------fieri---------------*/
 
-
 .fieri1 {
-    position: absolute;
-    top: 0;
-    right: 1px;
+  position: absolute;
+  top: 0;
+  right: 1px;
 }
 
-.container-fieri{
-    position: absolute;
-    width: 546px;
-    height: 390px;
-    left: 30%;
-    top: 165%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
+.container-fieri {
+  position: absolute;
+  width: 546px;
+  height: 390px;
+  left: 30%;
+  top: 165%;
+  margin-left: -340px;
+  background-color: beige;
+  margin-top: 20px;
 }
-.text-block.fieri1{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
+.text-block.fieri1 {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  top: 272px;
+  left: 0px;
+  font-family: sans-serif;
 }
 
-h6{margin-bottom: 0;}
-
-
+h6 {
+  margin-bottom: 0;
+}
 
 /*--------------------shkoder---------------*/
 
 .shkoder1 {
-    position: absolute;
-    top: 0;
-    right: 1px;
+  position: absolute;
+  top: 0;
+  right: 1px;
 }
 
-.container-shkoder{
-    position: absolute;
-    width: 546px;
-    height: 390px;
-    left: 30%;
-    top: 220%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
+.container-shkoder {
+  position: absolute;
+  width: 546px;
+  height: 390px;
+  left: 30%;
+  top: 220%;
+  margin-left: -340px;
+  background-color: beige;
+  margin-top: 20px;
 }
-.text-block.shkoder1{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
+.text-block.shkoder1 {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  top: 272px;
+  left: 0px;
+  font-family: sans-serif;
 }
 
-h6{margin-bottom: 0;}
-
-
+h6 {
+  margin-bottom: 0;
+}
 
 /*--------------------berat---------------*/
 
-.berat3{
-    position: absolute;
-    top: 0;
-    right: 1px;
+.berat3 {
+  position: absolute;
+  top: 0;
+  right: 1px;
 }
-.container-berat{
-    position: absolute;
-    width: 546px;
-    height: 390px;
-    left: 81%;
-    top: 220%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
+.container-berat {
+  position: absolute;
+  width: 546px;
+  height: 390px;
+  left: 81%;
+  top: 220%;
+  margin-left: -340px;
+  background-color: beige;
+  margin-top: 20px;
 }
-.text-block.berat3{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
+.text-block.berat3 {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  top: 272px;
+  left: 0px;
+  font-family: sans-serif;
 }
 
-h6{margin-bottom: 0;}
-
-
+h6 {
+  margin-bottom: 0;
+}
 
 /*--------------------elbasan---------------*/
 .elbasan2 {
-    position: absolute;
-    top: 0;
-    right: 1px;
+  position: absolute;
+  top: 0;
+  right: 1px;
 }
 
-.container-elbasan{
-    position: absolute;
-    width: 546px;
-    height: 390px;
-    left: 30%;
-    top: 275%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
+.container-elbasan {
+  position: absolute;
+  width: 546px;
+  height: 390px;
+  left: 30%;
+  top: 275%;
+  margin-left: -340px;
+  background-color: beige;
+  margin-top: 20px;
 }
-.text-block.elbasan2{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
+.text-block.elbasan2 {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  top: 272px;
+  left: 0px;
+  font-family: sans-serif;
 }
 
-h6{margin-bottom: 0;}
+h6 {
+  margin-bottom: 0;
+}
 
 /*--------------------korce---------------*/
 
-.korca2{
-    position: absolute;
-    top: 0;
-    right: 1px;
+.korca2 {
+  position: absolute;
+  top: 0;
+  right: 1px;
 }
-.container-korca{
-    position: absolute;
-    width: 546px;
-    height: 390px;
-    left: 81%;
-    top: 275%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
+.container-korca {
+  position: absolute;
+  width: 546px;
+  height: 390px;
+  left: 81%;
+  top: 275%;
+  margin-left: -340px;
+  background-color: beige;
+  margin-top: 20px;
 }
-.text-block.korca2{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
+.text-block.korca2 {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  top: 272px;
+  left: 0px;
+  font-family: sans-serif;
 }
 
-h6{margin-bottom: 0;}
-
+h6 {
+  margin-bottom: 0;
+}
 
 /*--------------------kruja---------------*/
 
-
 .kruja2 {
-    position: absolute;
-    top: 0;
-    right: 1px;
+  position: absolute;
+  top: 0;
+  right: 1px;
 }
 
-.container-kruja{
-    position: absolute;
-    width: 546px;
-    height: 390px;
-    left: 30%;
-    top: 330%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
+.container-kruja {
+  position: absolute;
+  width: 546px;
+  height: 390px;
+  left: 30%;
+  top: 330%;
+  margin-left: -340px;
+  background-color: beige;
+  margin-top: 20px;
 }
-.text-block.kruja2{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
+.text-block.kruja2 {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  top: 272px;
+  left: 0px;
+  font-family: sans-serif;
 }
 
-h6{margin-bottom: 0;}
-
+h6 {
+  margin-bottom: 0;
+}
 
 /*--------------------kukes---------------*/
 
-.kukes2{
-    position: absolute;
-    top: 0;
-    right: 1px;
+.kukes2 {
+  position: absolute;
+  top: 0;
+  right: 1px;
 }
-.container-kukes{
-    position: absolute;
-    width: 546px;
-    height: 390px;
-    left: 81%;
-    top: 330%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
+.container-kukes {
+  position: absolute;
+  width: 546px;
+  height: 390px;
+  left: 81%;
+  top: 330%;
+  margin-left: -340px;
+  background-color: beige;
+  margin-top: 20px;
 }
-.text-block.kukes2{
+.text-block.kukes2 {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  top: 272px;
+  left: 0px;
+  font-family: sans-serif;
+}
 
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
+h6 {
+  margin-bottom: 0;
 }
-
-h6{margin-bottom: 0;}
 
 /*--------------------Permeti---------------*/
 
 .permeti2 {
-    position: absolute;
-    top: 0;
-    right: 1px;
+  position: absolute;
+  top: 0;
+  right: 1px;
 }
 
-.container-permet{
-    position: absolute;
-    width: 546px;
-    height: 390px;
-    left: 30%;
-    top: 385%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
+.container-permet {
+  position: absolute;
+  width: 546px;
+  height: 390px;
+  left: 30%;
+  top: 385%;
+  margin-left: -340px;
+  background-color: beige;
+  margin-top: 20px;
 }
-.text-block.permeti2{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
+.text-block.permeti2 {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  top: 272px;
+  left: 0px;
+  font-family: sans-serif;
 }
 
-h6{margin-bottom: 0;}
-
+h6 {
+  margin-bottom: 0;
+}
 
 /*------------------Lac-----------------*/
 
-.laci2{
-    position: absolute;
-    top: 0;
-    right: 1px;
+.laci2 {
+  position: absolute;
+  top: 0;
+  right: 1px;
 }
-.container-lac{
-    position: absolute;
-    width: 546px;
-    height: 390px;
-    left: 81%;
-    top: 385%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
+.container-lac {
+  position: absolute;
+  width: 546px;
+  height: 390px;
+  left: 81%;
+  top: 385%;
+  margin-left: -340px;
+  background-color: beige;
+  margin-top: 20px;
 }
-.text-block.laci2{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
+.text-block.laci2 {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  top: 272px;
+  left: 0px;
+  font-family: sans-serif;
 }
 
-h6{margin-bottom: 0;}
-
-
+h6 {
+  margin-bottom: 0;
+}
 
 /*------------------Lezhe-----------------*/
 
 .lezhe2 {
-    position: absolute;
-    top: 0;
-    right: 1px;
+  position: absolute;
+  top: 0;
+  right: 1px;
 }
 
-.container-lezhe{
-    position: absolute;
-    width: 546px;
-    height: 390px;
-    left: 30%;
-    top: 440%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
+.container-lezhe {
+  position: absolute;
+  width: 546px;
+  height: 390px;
+  left: 30%;
+  top: 440%;
+  margin-left: -340px;
+  background-color: beige;
+  margin-top: 20px;
 }
-.text-block.lezhe2{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
+.text-block.lezhe2 {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  top: 272px;
+  left: 0px;
+  font-family: sans-serif;
 }
 
-h6{margin-bottom: 0;}
-
-
+h6 {
+  margin-bottom: 0;
+}
 
 /*------------------Tirana-----------------*/
 
-
-.tirana2{
-    position: absolute;
-    top: 0;
-    right: 1px;
+.tirana2 {
+  position: absolute;
+  top: 0;
+  right: 1px;
 }
-.container-tirana{
-    position: absolute;
-    width: 546px;
-    height: 390px;
-    left: 81%;
-    top: 440%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
+.container-tirana {
+  position: absolute;
+  width: 546px;
+  height: 390px;
+  left: 81%;
+  top: 440%;
+  margin-left: -340px;
+  background-color: beige;
+  margin-top: 20px;
 }
-.text-block.tirana2{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
+.text-block.tirana2 {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  top: 272px;
+  left: 0px;
+  font-family: sans-serif;
 }
 
-h6{margin-bottom: 0;}
-
-
+h6 {
+  margin-bottom: 0;
+}
 
 /*------------------Diber-----------------*/
 
 .diber2 {
-    position: absolute;
-    top: 0;
-    right: 1px;
+  position: absolute;
+  top: 0;
+  right: 1px;
 }
 
-.container-tropoja{
-    position: absolute;
-    width: 546px;
-    height: 390px;
-    left: 30%;
-    top: 495%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
+.container-tropoja {
+  position: absolute;
+  width: 546px;
+  height: 390px;
+  left: 30%;
+  top: 495%;
+  margin-left: -340px;
+  background-color: beige;
+  margin-top: 20px;
 }
-.text-block.diber2{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
+.text-block.diber2 {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  top: 272px;
+  left: 0px;
+  font-family: sans-serif;
 }
 
-h6{margin-bottom: 0;}
-
-
-
+h6 {
+  margin-bottom: 0;
+}
 
 /*------------------Places------------------------------------------*/
 
-
-.lungo.mare{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
+.lungo.mare {
+  position: absolute;
+  top: 0px;
+  right: 2px;
 }
-.container.lungomare{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 8%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
+.container.lungomare {
+  position: absolute;
+  width: 550px;
+  height: 310px;
+  left: 30%;
+  top: 8%;
+  margin-left: -340px;
+  background-color: beige;
+  margin-top: 20px;
 }
-.text-block.lungomare{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
+.text-block.lungomare {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  top: 272px;
+  left: 0px;
+  font-family: sans-serif;
 }
 
-h6{margin-bottom: 0;}
-
-
-
-
-
-
+h6 {
+  margin-bottom: 0;
+}
 
 .kanina {
-    position: absolute;
-    top: 0;
-    right: 1px;
+  position: absolute;
+  top: 0;
+  right: 1px;
 }
 
-.container.kanina{
-    position: absolute;
-    width: 546px;
-    height: 310px;
-    left: 81%;
-    top: 8%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
+.container.kanina {
+  position: absolute;
+  width: 546px;
+  height: 310px;
+  left: 81%;
+  top: 8%;
+  margin-left: -340px;
+  background-color: beige;
+  margin-top: 20px;
 }
-.text-block.kanina{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-.zvernec{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
-}
-.container.zvernec{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 63%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.zvernec{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
+.text-block.kanina {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  top: 272px;
+  left: 0px;
+  font-family: sans-serif;
 }
 
-h6{margin-bottom: 0;}
+h6 {
+  margin-bottom: 0;
+}
 
+.zvernec {
+  position: absolute;
+  top: 0px;
+  right: 2px;
+}
+.container.zvernec {
+  position: absolute;
+  width: 550px;
+  height: 310px;
+  left: 30%;
+  top: 63%;
+  margin-left: -340px;
+  background-color: beige;
+  margin-top: 20px;
+}
+.text-block.zvernec {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  top: 272px;
+  left: 0px;
+  font-family: sans-serif;
+}
 
-
-
-
-
+h6 {
+  margin-bottom: 0;
+}
 
 .karaburun {
-    position: absolute;
-    top: 0;
-    right: 1px;
+  position: absolute;
+  top: 0;
+  right: 1px;
 }
 
-.container.karaburun{
-    position: absolute;
-    width: 546px;
-    height: 310px;
-    left: 81%;
-    top: 63%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
+.container.karaburun {
+  position: absolute;
+  width: 546px;
+  height: 310px;
+  left: 81%;
+  top: 63%;
+  margin-left: -340px;
+  background-color: beige;
+  margin-top: 20px;
 }
-.text-block.karaburun{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-.manastir{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
+.text-block.karaburun {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  top: 272px;
+  left: 0px;
+  font-family: sans-serif;
 }
 
-.container.manastir{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 118%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.manastir{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
+h6 {
+  margin-bottom: 0;
 }
 
-h6{margin-bottom: 0;}
+.manastir {
+  position: absolute;
+  top: 0px;
+  right: 2px;
+}
 
+.container.manastir {
+  position: absolute;
+  width: 550px;
+  height: 310px;
+  left: 30%;
+  top: 118%;
+  margin-left: -340px;
+  background-color: beige;
+  margin-top: 20px;
+}
+.text-block.manastir {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  top: 272px;
+  left: 0px;
+  font-family: sans-serif;
+}
 
-
-
+h6 {
+  margin-bottom: 0;
+}
 
 .monumenti {
-    position: absolute;
-    top: 0;
-    right: 1px;
+  position: absolute;
+  top: 0;
+  right: 1px;
 }
 
-.container.monumenti{
-    position: absolute;
-    width: 546px;
-    height: 310px;
-    left: 81%;
-    top: 118%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
+.container.monumenti {
+  position: absolute;
+  width: 546px;
+  height: 310px;
+  left: 81%;
+  top: 118%;
+  margin-left: -340px;
+  background-color: beige;
+  margin-top: 20px;
 }
-.text-block.monumenti{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-.muze{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
+.text-block.monumenti {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  top: 272px;
+  left: 0px;
+  font-family: sans-serif;
 }
 
-.container.muze{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 173%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.muze{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
+h6 {
+  margin-bottom: 0;
 }
 
-h6{margin-bottom: 0;}
+.muze {
+  position: absolute;
+  top: 0px;
+  right: 2px;
+}
 
+.container.muze {
+  position: absolute;
+  width: 550px;
+  height: 310px;
+  left: 30%;
+  top: 173%;
+  margin-left: -340px;
+  background-color: beige;
+  margin-top: 20px;
+}
+.text-block.muze {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  top: 272px;
+  left: 0px;
+  font-family: sans-serif;
+}
 
-
+h6 {
+  margin-bottom: 0;
+}
 
 .pylli {
-    position: absolute;
-    top: 0;
-    right: 1px;
+  position: absolute;
+  top: 0;
+  right: 1px;
 }
 
-.container.pylli{
-    position: absolute;
-    width: 546px;
-    height: 310px;
-    left: 81%;
-    top: 173%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
+.container.pylli {
+  position: absolute;
+  width: 546px;
+  height: 310px;
+  left: 81%;
+  top: 173%;
+  margin-left: -340px;
+  background-color: beige;
+  margin-top: 20px;
 }
-.text-block.pylli{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
-}
-
-h6{margin-bottom: 0;}
-
-
-
-
-
-
-
-.ishull{
-    position: absolute;
-    top: 0px;
-    right: 2px;
-
-   
+.text-block.pylli {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  top: 272px;
+  left: 0px;
+  font-family: sans-serif;
 }
 
-.container.ishull{
-    position: absolute;
-    width: 550px;
-    height: 310px;
-    left: 30%;
-    top: 228%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
-}
-.text-block.ishull{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
+h6 {
+  margin-bottom: 0;
 }
 
-h6{margin-bottom: 0;}
+.ishull {
+  position: absolute;
+  top: 0px;
+  right: 2px;
+}
 
+.container.ishull {
+  position: absolute;
+  width: 550px;
+  height: 310px;
+  left: 30%;
+  top: 228%;
+  margin-left: -340px;
+  background-color: beige;
+  margin-top: 20px;
+}
+.text-block.ishull {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  top: 272px;
+  left: 0px;
+  font-family: sans-serif;
+}
 
-
-
-
+h6 {
+  margin-bottom: 0;
+}
 
 .karaburun.shpelle {
-    position: absolute;
-    top: 0;
-    right: 1px;
+  position: absolute;
+  top: 0;
+  right: 1px;
 }
 
-.container.karaburun.shpelle{
-    position: absolute;
-    width: 546px;
-    height: 310px;
-    left: 81%;
-    top: 228%;
-    margin-left: -340px;
-    background-color: beige;
-    margin-top: 20px;
+.container.karaburun.shpelle {
+  position: absolute;
+  width: 546px;
+  height: 310px;
+  left: 81%;
+  top: 228%;
+  margin-left: -340px;
+  background-color: beige;
+  margin-top: 20px;
 }
-.text-block.karaburun.shpelle{
-
-    position: relative;
-    margin: 0;
-    padding: 0;
-    top: 272px;
-    left: 0px;
-    font-family: sans-serif;
+.text-block.karaburun.shpelle {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  top: 272px;
+  left: 0px;
+  font-family: sans-serif;
 }
 
-h6{margin-bottom: 0;}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+h6 {
+  margin-bottom: 0;
+}
 
 @media only screen and (max-width: 600px) {
- .container-vlore {    
+  .container-vlore {
     position: absolute;
     width: 512px;
     height: 400px;
@@ -1574,10 +1408,8 @@ h6{margin-bottom: 0;}
     margin-left: -340px;
     background-color: beige;
     margin-top: 20px;
-    
-
-    }
- .container-dhermi {
+  }
+  .container-dhermi {
     position: absolute;
     width: 512px;
     height: 400px;
@@ -1586,9 +1418,9 @@ h6{margin-bottom: 0;}
     margin-left: -340px;
     background-color: beige;
     margin-top: 20px;
- }
+  }
 
- .container-himara{
+  .container-himara {
     position: absolute;
     width: 512px;
     height: 400px;
@@ -1597,9 +1429,9 @@ h6{margin-bottom: 0;}
     margin-left: -340px;
     background-color: beige;
     margin-top: 20px;
- }
+  }
 
- .container-saranda{
+  .container-saranda {
     position: absolute;
     width: 512px;
     height: 400px;
@@ -1608,9 +1440,9 @@ h6{margin-bottom: 0;}
     margin-left: -340px;
     background-color: beige;
     margin-top: 20px;
- }
- .container-pogradeci{
-     position: absolute;
+  }
+  .container-pogradeci {
+    position: absolute;
     width: 512px;
     height: 400px;
     left: 91%;
@@ -1618,8 +1450,8 @@ h6{margin-bottom: 0;}
     margin-left: -340px;
     background-color: beige;
     margin-top: 20px;
- }
- .container-gjirokaster{
+  }
+  .container-gjirokaster {
     position: absolute;
     width: 512px;
     height: 400px;
@@ -1627,10 +1459,10 @@ h6{margin-bottom: 0;}
     top: 338%;
     margin-left: -340px;
     background-color: beige;
-    margin-top: 20px;  
- }
+    margin-top: 20px;
+  }
 
- .container-durres{
+  .container-durres {
     position: absolute;
     width: 512px;
     height: 400px;
@@ -1638,9 +1470,9 @@ h6{margin-bottom: 0;}
     top: 405%;
     margin-left: -340px;
     background-color: beige;
-    margin-top: 20px; 
- }
- .container-fieri{
+    margin-top: 20px;
+  }
+  .container-fieri {
     position: absolute;
     width: 512px;
     height: 400px;
@@ -1648,9 +1480,9 @@ h6{margin-bottom: 0;}
     top: 472%;
     margin-left: -340px;
     background-color: beige;
-    margin-top: 20px; 
- }
- .container-shkoder{
+    margin-top: 20px;
+  }
+  .container-shkoder {
     position: absolute;
     width: 512px;
     height: 400px;
@@ -1658,29 +1490,29 @@ h6{margin-bottom: 0;}
     top: 539%;
     margin-left: -340px;
     background-color: beige;
-    margin-top: 20px; 
- }
- .container-berat{
-     position: absolute;
+    margin-top: 20px;
+  }
+  .container-berat {
+    position: absolute;
     width: 512px;
     height: 400px;
     left: 91%;
     top: 606%;
     margin-left: -340px;
     background-color: beige;
-    margin-top: 20px; 
- }
- .container-elbasan{
-     position: absolute;
+    margin-top: 20px;
+  }
+  .container-elbasan {
+    position: absolute;
     width: 512px;
     height: 400px;
     left: 91%;
     top: 673%;
     margin-left: -340px;
     background-color: beige;
-    margin-top: 20px; 
- }
- .container-korca{
+    margin-top: 20px;
+  }
+  .container-korca {
     position: absolute;
     width: 512px;
     height: 400px;
@@ -1688,19 +1520,19 @@ h6{margin-bottom: 0;}
     top: 740%;
     margin-left: -340px;
     background-color: beige;
-    margin-top: 20px; 
- }
- .container-kruja{
-      position: absolute;
+    margin-top: 20px;
+  }
+  .container-kruja {
+    position: absolute;
     width: 512px;
     height: 400px;
     left: 91%;
     top: 807%;
     margin-left: -340px;
     background-color: beige;
-    margin-top: 20px; 
- }
- .container-kukes{
+    margin-top: 20px;
+  }
+  .container-kukes {
     position: absolute;
     width: 512px;
     height: 400px;
@@ -1708,9 +1540,9 @@ h6{margin-bottom: 0;}
     top: 874%;
     margin-left: -340px;
     background-color: beige;
-    margin-top: 20px; 
- }
- .container-permet{
+    margin-top: 20px;
+  }
+  .container-permet {
     position: absolute;
     width: 512px;
     height: 400px;
@@ -1718,9 +1550,9 @@ h6{margin-bottom: 0;}
     top: 941%;
     margin-left: -340px;
     background-color: beige;
-    margin-top: 20px; 
- }
- .container-lac{
+    margin-top: 20px;
+  }
+  .container-lac {
     position: absolute;
     width: 512px;
     height: 400px;
@@ -1728,9 +1560,9 @@ h6{margin-bottom: 0;}
     top: 1008%;
     margin-left: -340px;
     background-color: beige;
-    margin-top: 20px; 
- }
- .container-lezhe{
+    margin-top: 20px;
+  }
+  .container-lezhe {
     position: absolute;
     width: 512px;
     height: 400px;
@@ -1738,40 +1570,40 @@ h6{margin-bottom: 0;}
     top: 1075%;
     margin-left: -340px;
     background-color: beige;
-    margin-top: 20px; 
- }
- .container-tirana{
-     position: absolute;
+    margin-top: 20px;
+  }
+  .container-tirana {
+    position: absolute;
     width: 512px;
     height: 400px;
     left: 91%;
     top: 1142%;
     margin-left: -340px;
     background-color: beige;
-    margin-top: 20px; 
- }
- .container-tropoja{
-     position: absolute;
-      width: 512px;
+    margin-top: 20px;
+  }
+  .container-tropoja {
+    position: absolute;
+    width: 512px;
     height: 400px;
     left: 91%;
     top: 1209%;
     margin-left: -340px;
     background-color: beige;
-    margin-top: 20px; 
- }
- .container-llogora{
-     position: absolute;
-       width: 512px;
+    margin-top: 20px;
+  }
+  .container-llogora {
+    position: absolute;
+    width: 512px;
     height: 400px;
     left: 91%;
     top: 1276%;
     margin-left: -340px;
     background-color: beige;
-    margin-top: 20px; 
- }
- .container.lungomare{
-     position: absolute;
+    margin-top: 20px;
+  }
+  .container.lungomare {
+    position: absolute;
     width: 512px;
     height: 350px;
     left: 91%;
@@ -1779,8 +1611,8 @@ h6{margin-bottom: 0;}
     margin-left: -340px;
     background-color: beige;
     margin-top: 20px;
- }
- .container.kanina{
+  }
+  .container.kanina {
     position: absolute;
     width: 512px;
     height: 350px;
@@ -1789,10 +1621,9 @@ h6{margin-bottom: 0;}
     margin-left: -340px;
     background-color: beige;
     margin-top: 20px;
-
- }
- .container.zvernec{
-      position: absolute;
+  }
+  .container.zvernec {
+    position: absolute;
     width: 512px;
     height: 350px;
     left: 91%;
@@ -1800,8 +1631,8 @@ h6{margin-bottom: 0;}
     margin-left: -340px;
     background-color: beige;
     margin-top: 20px;
- }
-.container.karaburun{
+  }
+  .container.karaburun {
     position: absolute;
     width: 512px;
     height: 350px;
@@ -1810,8 +1641,8 @@ h6{margin-bottom: 0;}
     margin-left: -340px;
     background-color: beige;
     margin-top: 20px;
-}
-.container.manastir {
+  }
+  .container.manastir {
     position: absolute;
     width: 512px;
     height: 350px;
@@ -1820,31 +1651,30 @@ h6{margin-bottom: 0;}
     margin-left: -340px;
     background-color: beige;
     margin-top: 20px;
-}
-.container.monumenti {
-
-   position: absolute;
+  }
+  .container.monumenti {
+    position: absolute;
     width: 512px;
     height: 350px;
     left: 91%;
     top: 338%;
     margin-left: -340px;
     background-color: beige;
-    margin-top: 20px; 
-    }
+    margin-top: 20px;
+  }
 
-
-.container.muze{
-   position: absolute;
+  .container.muze {
+    position: absolute;
     width: 512px;
     height: 350px;
     left: 91%;
     top: 405%;
     margin-left: -340px;
     background-color: beige;
-    margin-top: 20px; }
+    margin-top: 20px;
+  }
 
-.container.pylli{
+  .container.pylli {
     position: absolute;
     width: 512px;
     height: 350px;
@@ -1852,21 +1682,20 @@ h6{margin-bottom: 0;}
     top: 472%;
     margin-left: -340px;
     background-color: beige;
-    margin-top: 20px; 
-}
-.container.ishull{
-
-
-  position: absolute;
+    margin-top: 20px;
+  }
+  .container.ishull {
+    position: absolute;
     width: 512px;
     height: 350px;
     left: 91%;
     top: 539%;
     margin-left: -340px;
     background-color: beige;
-    margin-top: 20px; }
+    margin-top: 20px;
+  }
 
-    .container.karaburun.shpelle{
+  .container.karaburun.shpelle {
     position: absolute;
     width: 512px;
     height: 350px;
@@ -1874,10 +1703,10 @@ h6{margin-bottom: 0;}
     top: 606%;
     margin-left: -340px;
     background-color: beige;
-    margin-top: 20px; 
-    }
-    .container-vlore{
-     position: absolute;
+    margin-top: 20px;
+  }
+  .container-vlore {
+    position: absolute;
     width: 512px;
     height: 400px;
     left: 91%;
@@ -1885,8 +1714,8 @@ h6{margin-bottom: 0;}
     margin-left: -340px;
     background-color: beige;
     margin-top: 20px;
- }
- .container-dhermi{
+  }
+  .container-dhermi {
     position: absolute;
     width: 512px;
     height: 400px;
@@ -1895,10 +1724,9 @@ h6{margin-bottom: 0;}
     margin-left: -340px;
     background-color: beige;
     margin-top: 20px;
-
- }
- .container-himara{
-      position: absolute;
+  }
+  .container-himara {
+    position: absolute;
     width: 512px;
     height: 400px;
     left: 91%;
@@ -1906,8 +1734,8 @@ h6{margin-bottom: 0;}
     margin-left: -340px;
     background-color: beige;
     margin-top: 20px;
- }
-.ccontainer-saranda{
+  }
+  .ccontainer-saranda {
     position: absolute;
     width: 512px;
     height: 400px;
@@ -1916,8 +1744,8 @@ h6{margin-bottom: 0;}
     margin-left: -340px;
     background-color: beige;
     margin-top: 20px;
-}
-.container-gjirokaster {
+  }
+  .container-gjirokaster {
     position: absolute;
     width: 512px;
     height: 400px;
@@ -1926,31 +1754,30 @@ h6{margin-bottom: 0;}
     margin-left: -340px;
     background-color: beige;
     margin-top: 20px;
-}
-.container-pogradeci {
-
-   position: absolute;
+  }
+  .container-pogradeci {
+    position: absolute;
     width: 512px;
     height: 400px;
     left: 91%;
     top: 338%;
     margin-left: -340px;
     background-color: beige;
-    margin-top: 20px; 
-    }
+    margin-top: 20px;
+  }
 
-
-.container-fieri{
-   position: absolute;
+  .container-fieri {
+    position: absolute;
     width: 512px;
     height: 400px;
     left: 91%;
     top: 405%;
     margin-left: -340px;
     background-color: beige;
-    margin-top: 20px; }
+    margin-top: 20px;
+  }
 
-.container-durres{
+  .container-durres {
     position: absolute;
     width: 512px;
     height: 400px;
@@ -1958,21 +1785,20 @@ h6{margin-bottom: 0;}
     top: 472%;
     margin-left: -340px;
     background-color: beige;
-    margin-top: 20px; 
-}
-.container-shkoder{
-
-
-  position: absolute;
+    margin-top: 20px;
+  }
+  .container-shkoder {
+    position: absolute;
     width: 512px;
     height: 400px;
     left: 91%;
     top: 539%;
     margin-left: -340px;
     background-color: beige;
-    margin-top: 20px; }
+    margin-top: 20px;
+  }
 
-    .ccontainer-berat{
+  .ccontainer-berat {
     position: absolute;
     width: 512px;
     height: 400px;
@@ -1980,18 +1806,216 @@ h6{margin-bottom: 0;}
     top: 606%;
     margin-left: -340px;
     background-color: beige;
-    margin-top: 20px; 
-    }
-   
-    .container.food99{
-      display:none;
+    margin-top: 20px;
+  }
+
+  .container.food99 {
+    display: none;
+  }
+
+  .container.activities98 {
+    display: none;
+  }
+
+  .container.tropoje {
+    left: 35%;
+    top: 17%;
+    
+  }
+        /*--------------------places---------------*/
+  .container.tropoje{
+    left: 35%;
+    top: 17%;
+  }
+  .container.kukes{
+    left: 50%;
+    top: 28%;
+  }
+
+  .container.lezhe{
+    left:35%;
+    top:34%;
+  }
+
+  .container.diber{
+    left:49%;
+    top:36%;
+  }
+   .container.durres{
+     left:18%;
+     top:45%;
+   }
+
+   .container.tirane{
+     top:46%;
+     left:34%;
+   }
+   .container.elbasan{
+     top:53.8%;
+     left:35%;
+   }
+
+   .container.pogradec{
+     left:57%;
+     top:58%;
+   }
+   .container.korce{
+     left:57%;
+     top:66%;
+   }
+
+   .container.berat{
+     left:34%;
+     top:66%;
+   }
+
+   .container.fier{
+     left:16%;
+     top:63%;
+   }
+   .container.permet{
+     left:50%;
+     top:75%;
+   }
+   .container.gjirokaster{
+     left:45%;
+     top:82%;
+     }
+
+    .container.sarande{
+      left:41%;
+      top:91%;
+    } 
+
+    .container.dhermi{
+      left:20%;
     }
 
-    .container.activities98{
-      display:none
+    .container.vlore{
+      left:18%;
     }
+
+    .container.llogora{
+      left:26%;
+      top:77%;
+    }
+}
+
+
+@media only screen and (min-width: 500px) {
+.dropbtn{display: none;}
+}
+
+
+@media only screen and (max-width: 1024px) {
+   .container.tropoje{
+   left: 32%;
+   top: 15%;}
+
+   .container.kukes{
+     left: 43%;
+     top: 26%;
+   }
+
+   .container.diber{
+     left:43%;
+   }
+
+   .container.durres{
+     left: 20%;
+   }
+   .container.elbasan{
+     left:33%;
+     top:51%;
+   }
+   .container.pogradec{
+     left:49%;
+     top:56%;
+   }
+
+   .container.korce{
+     left: 52%;
+     top: 64%;
+   }
+
+   .container.permet{
+     left: 51%;
+     top: 72%;
+   }
+
+   .container.gjirokaster{
+     left: 39%;
+   }
+
+   .container.sarande{
+     left: 37%;
+     top: 88%;
+   }
+
+   .container.vlore{
+     left:21%;
+     top: 70%;
+   }
+
+   .container.llogora{
+     left:21%;
+     top:74%;
+   }
+
+   .container.berat{
+     left:31%;
+     top:62%;
+   }
+
+
+   .container.activities98{
+     width: 240px;
+     height: 300px;
+     left:108%;
+   }
+   .activities{
+    top:5%;
+
+   }
+
+   .text-block.activities98{
+     top:60%;
+     left:4%;
+   }
+
+
+
+   .container.food99{
+     width:240px;
+     height:300px;
+     left:108%;
+   }
+
+
+   .food{
+     top:5%;
+     left:30%
+   }
+
+  .text-block.food99 {
+    top:60%;
+    left:4%;
+  }
 
 }
+
+@media only screen and (max-height:375px){
+  .places{display:none;}
+  .container.food99{height:125px;width:332px; left:100%;}
+  .container.activities98{height:125px;width:332px; left:100%;}
+  .text-block.food99{top:10%; left:10%;}
+  .text-block.activities98{top:10%; left:10%;}
+  .food{left:-50px;}
+  .activities{top:1%; left:-15%;}
+}
+
+
+
 
 
 
