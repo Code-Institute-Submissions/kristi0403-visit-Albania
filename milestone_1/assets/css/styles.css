@@ -34,7 +34,6 @@ li {
 }
 
 /*--------------------places---------------*/
-
 .vlore {
   position: absolute;
   top: 130px;
@@ -2012,6 +2011,137 @@ h6 {
   .text-block.activities98{top:10%; left:10%;}
   .food{left:-50px;}
   .activities{top:1%; left:-15%;}
+  .dropbtn{display:block;}
+}
+
+
+
+@media only screen and (min-width: 768px){
+
+.container-vlore{left: 45%; width: 757px;}
+.vlore1{width:700px;left:32px;}
+.text-block.vlore1{left: 30px;}
+
+.container-dhermi{left: 45%; top:58%; width:757px;}
+.dhermi{width:700px;left:32px;}
+
+
+.container-himara{left: 45%; top:112%; width:757px;}
+.himara{width:700px; left:32px;}
+.text-block.himara1{left: 30px;}
+
+.container-saranda{left: 45%; top:166%; width:757px;}
+.saranda{width: 700px; left:32px;}
+
+.container-pogradeci{left:45%; top:220%; width:757px;}
+.pogradeci{width: 700px; left:32px;}
+.text-block.pogradeci{left: 30px;}
+
+.container-gjirokaster{left:45%; top:274%; width:757px;}
+.gjirokaster{width:700px; left:32px;}
+.text-block.gjirokaster1{left: 30px;}
+
+.container-durres{left:45%; top:328%; width:757px;}
+.durres1{width: 700px; left:32px;}
+
+.container-fieri{left:45%; top:382%; width:757px;}
+.fieri1{width:700px; left:32px;}
+.text-block.durres1{left: 30px;}
+
+.container-shkoder{left:45%; top:436%; width:757px;}
+.shkoder1{width:700px; left:32px;}
+.text-block.shkoder1{left: 30px;}
+
+.container-berat{left:45%; top:490%; width:757px;}
+.berat3{width:700px; left:32px;}
+.text-block.berat3{left: 30px;}
+
+.container-elbasan{left:45%; top:544%; width:757px;}
+.elbasan2{width:700px; left:32px;}
+.text-block.elbasan2{left: 30px;}
+
+.container-korca{left:45%; top:598%; width:757px;}
+.korca2{width:700px; left:32px;}
+.text-block.korca2{left: 30px;}
+
+
+.container-kruja{left:45%; top:652%; width:757px;}
+.kruja2{width:700px; left:32px;}
+.text-block.kruja2{left: 30px;}
+
+.container-kukes{left:45%; top:706%; width:757px;}
+.kukes2{width:700px; left:32px;}
+.text-block.kukes2{left: 30px;}
+
+.container-permet{left:45%; top:760%; width:757px;}
+.permeti2{width:700px; left:32px;}
+.text-block.permeti2{left: 30px;}
+
+.container-lac{left: 45%; top: 814%; width:757px;}
+.laci2{width:700px; left:32px;}
+.text-block.laci2{left: 30px;}
+
+.container-lezhe{left:45%; top:868%; width:757px;}
+.lezhe2{width:700px; left:32px;}
+.text-block.lezhe2{left: 30px;}
+
+.container-tirana{left: 45%; top:922%; width:757px;}
+.tirana2{width:700px; left:32px;}
+.text-block.tirana2{left: 30px;}
+
+.container-tropoja{left: 45%; top:976%; width:757px;}
+.diber2{width: 700px; left:32px;}
+
+.container-llogora{left: 45%; top:1030%; width:757px;}
+.llogora2{width:700px; left:32px;}
+.text-block.llogora2{left: 30px;}
+
+
+
+
+
+
+.container.lungomare{left: 48%; width: 757px;}
+.lungo.mare{width:700px;left:10px;}
+.text-block.lungomare{left: 30px;}
+
+.container.kanina{left: 48%; top:58%; width:757px;}
+.kanina{width:700px;left:10px;}
+.text-block.kanina{left: 30px;}
+
+.container.zvernec{left: 48%; top:112%; width:757px;}
+.zvernec{width:700px; left:10px;}
+.text-block.zvernec{left: 30px;}
+
+.container.karaburun{left: 48%; top:166%; width:757px;}
+.karaburun{width: 700px; left:10px;}
+.text-block.karaburun{left: 30px;}
+
+.container.manastir{left:48%; top:220%; width:757px;}
+.manastir{width: 700px; left:10px;}
+.text-block.manastir{left: 30px;}
+
+.container.monumenti{left:48%; top:274%; width:757px;}
+.monumenti{width:700px; left:10px;}
+.text-block.monumenti{left: 30px;}
+
+.container.muze{left:48%; top:328%; width:757px;}
+.muze{width: 700px; left:10px;}
+.text-block.muze{left: 30px;}
+
+.container.pylli{left:48%; top:382%; width:757px;}
+.pylli{width:700px; left:10px;}
+.text-block.pylli{left: 30px;}
+
+.container.ishull{left:48%; top:436%; width:757px;}
+.ishull{width:700px; left:10px;}
+.text-block.ishull{left: 30px;}
+
+.container.karaburun.shpelle{left:48%; top:490%; width:757px;}
+.shpelle{width:700px; left:10px;}
+.text-block.shpelle{left: 30px;}
+
+
 }
 
 
@@ -2019,3 +2149,133 @@ h6 {
 
 
 
+@media only screen and (max-height:375px){
+
+
+.container-vlore{left: 45%; width: 750px;}
+.vlore1{width:684px;left:50px;}
+.text-block.vlore1{left:40px;}
+
+.container-dhermi{left: 45%; top:120%; width:750px;}
+.dhermi{width:684px;left:50px;}
+.text-block.dhermi1{left:40px;}
+
+.container-himara{left: 45%; top:240%; width:750px;}
+.himara{width:684px; left:50px;}
+.text-block.himara1{left: 40px;}
+
+.container-saranda{left: 45%; top:360%; width:750px;}
+.saranda{width: 684px; left:50px;}
+.text-block.saranda1{left:40px;}
+
+.container-pogradeci{left:45%; top:480%; width:750px;}
+.pogradeci{width: 684px; left:50px;}
+.text-block.pogradeci{left: 40px;}
+
+.container-gjirokaster{left:45%; top:600%; width:750px;}
+.gjirokaster{width:684px; left:50px;}
+.text-block.gjirokaster1{left: 40px;}
+
+.container-durres{left:45%; top:720%; width:750px;}
+.durres1{width: 684px; left:32px;}
+
+.container-fieri{left:45%; top:840%; width:750px;}
+.fieri1{width:684px; left:50px;}
+.text-block.durres1{left: 40px;}
+
+.container-shkoder{left:45%; top:960%; width:750px;}
+.shkoder1{width:684px; left:50px;}
+.text-block.shkoder1{left: 40px;}
+
+.container-berat{left:45%; top:1080%; width:750px;}
+.berat3{width:684px; left:50px;}
+.text-block.berat3{left: 40px;}
+
+.container-elbasan{left:45%; top:1200%; width:750px;}
+.elbasan2{width:684px; left:50px;}
+.text-block.elbasan2{left: 40px;}
+
+.container-korca{left:45%; top:1320%; width:750px;}
+.korca2{width:684px; left:50px;}
+.text-block.korca2{left: 40px;}
+
+
+.container-kruja{left:45%; top:1440%; width:750px;}
+.kruja2{width:684px; left:50px;}
+.text-block.kruja2{left: 40px;}
+
+.container-kukes{left:45%; top:1560%; width:750px;}
+.kukes2{width:684px; left:50px;}
+.text-block.kukes2{left: 40px;}
+
+.container-permet{left:45%; top:1680%; width:750px;}
+.permeti2{width:684px; left:50px;}
+.text-block.permeti2{left: 40px;}
+
+.container-lac{left: 45%; top: 1800%; width:750px;}
+.laci2{width:684px; left:50px;}
+.text-block.laci2{left: 40px;}
+
+.container-lezhe{left:45%; top:1920%; width:750px;}
+.lezhe2{width:684px; left:50px;}
+.text-block.lezhe2{left: 40px;}
+
+.container-tirana{left: 45%; top:2040%; width:750px;}
+.tirana2{width:684px; left:50px;}
+.text-block.tirana2{left: 40px;}
+
+.container-tropoja{left: 45%; top:2160%; width:750px;}
+.diber2{width: 684px; left:50px;}
+
+.container-llogora{left: 45%; top:2280%; width:750px;}
+.llogora2{width:684px; left:50px;}
+.text-block.llogora2{left: 40px;}
+
+
+
+
+
+
+.container.lungomare{left: 60%; width: 540px;}
+.lungo.mare{width:537px;}
+
+
+.container.kanina{left: 60%; top:100%; width:540px;}
+.kanina{width:537px;}
+
+
+.container.zvernec{left: 60%; top:200%; width:540px;}
+.zvernec{width:537px;}
+
+
+.container.karaburun{left: 60%; top:300%; width:540px;}
+.karaburun{width: 537px;}
+
+
+.container.manastir{left:60%; top:400%; width:540px;}
+.manastir{width: 537px;}
+
+.container.monumenti{left:60%; top:500%; width:540px;}
+.monumenti{width:537px;}
+
+
+.container.muze{left:60%; top:600%; width:540px;}
+.muze{width: 537px;}
+
+
+.container.pylli{left:60%; top:700%; width:540px;}
+.pylli{width:537px;}
+
+
+.container.ishull{left:60%; top:800%; width:540px;}
+.ishull{width:535px;}
+.text-block.ishull{left:-10px;}
+
+.container.karaburun.shpelle{left:60%; top:900%; width:540px;}
+.shpelle{width:539px; left:-1px;}
+.text-block.shpelle{left: 40px;}
+
+
+
+
+}
