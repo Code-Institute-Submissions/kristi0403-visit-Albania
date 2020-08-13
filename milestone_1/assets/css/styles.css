@@ -34,6 +34,8 @@ li {
 }
 
 /*--------------------places---------------*/
+
+
 .vlore {
   position: absolute;
   top: 130px;
@@ -165,7 +167,6 @@ li {
 /*--------------------quotes---------------*/
 
 .container.food99 {
-  position: fixed;
   width: 600px;
   height: 200px;
   left: 80%;
@@ -175,7 +176,6 @@ li {
 }
 
 .container.activities98 {
-  position: fixed;
   width: 600px;
   height: 200px;
   left: 80%;
@@ -185,20 +185,18 @@ li {
 }
 
 .text-block.food99 {
-  position: relative;
   margin: 0;
   padding: 0;
   top: 100px;
-  left: 55px;
+  left: 140px;
   font-family: sans-serif;
 }
 
 .text-block.activities98 {
-  position: relative;
   margin: 0;
   padding: 0;
   top: 110px;
-  left: -50px;
+  left: 100px;
   font-family: sans-serif;
 }
 
@@ -221,891 +219,371 @@ li {
 
 /*--------------------container-places---------------*/
 
-.container.vlore {
-  position: fixed;
-  width: 1px;
-  height: 22px;
+.container{
+    position: absolute;
+    width: 546px;
+    height: 390px;
+    margin-left: -340px;
+    background-color: beige;
+    margin-top: 20px;
+    size: cover;}
+
+
+
+.location{
+    position: absolute;
+    width: 1px;
+    height: 22px;
+    margin: 0;
+    padding: 0;
+    background-color: transparent;
+    font-family: monospace;
+    color: red;
+
+}
+
+
+
+
+
+.text-block {
+    position: absolute;
+      top: 272px;
+      left: 0px;
+      width: 547px;
+      }
+
+
+
+img{position: absolute;
+  top: 0;
+  right: 0px;}
+
+
+
+  h6 {
+  margin-bottom: 0;
+}
+
+
+/*--------------------container-places---------------*/
+
+#vlore {
   left: 23%;
   top: 75%;
-  margin: 0;
-  padding: 0;
-  background-color: transparent;
-  color: red;
-  font-family: monospace;
 }
 
-.container.llogora {
-  position: fixed;
-  width: 1px;
-  height: 20px;
+#llogora {
   left: 26%;
   top: 77%;
-  margin: 0;
-  padding: 0;
-  background-color: transparent;
-  color: red;
-  font-family: monospace;
 }
 
-.container.dhermi {
-  position: fixed;
-  width: 1px;
-  height: 20px;
+#dhermi {
   left: 23%;
   top: 81%;
-  margin: 0;
-  padding: 0;
-  background-color: transparent;
-  color: red;
-  font-family: monospace;
 }
 
-.container.himare {
-  position: fixed;
-  width: 1px;
-  height: 20px;
+#himare {
   left: 24%;
   top: 86%;
-  margin: 0;
-  padding: 0;
-  background-color: transparent;
-  color: red;
-  font-family: monospace;
 }
 
-.container.sarande {
-  position: fixed;
-  width: 1px;
-  height: 20px;
+#sarande {
   left: 30%;
   top: 89%;
-  margin: 0;
-  padding: 0;
-  background-color: transparent;
-  color: red;
-  font-family: monospace;
+
 }
 
-.container.gjirokaster {
-  position: fixed;
-  width: 1px;
-  height: 20px;
+#gjirokaster {
   left: 32%;
   top: 80%;
-  margin: 0;
-  padding: 0;
-  background-color: transparent;
-  color: red;
-  font-family: monospace;
 }
 
-.container.permet {
-  position: fixed;
-  width: 1px;
-  height: 20px;
+#permet {
   left: 34%;
   top: 74%;
-  margin: 0;
-  padding: 0;
-  background-color: transparent;
-  color: red;
-  font-family: monospace;
 }
 
-.container.korce {
-  position: fixed;
-  width: 1px;
-  height: 20px;
+#korce {
   left: 37%;
   top: 65%;
-  margin: 0;
-  padding: 0;
-  background-color: transparent;
-  color: red;
-  font-family: monospace;
 }
 
-.container.pogradec {
-  position: fixed;
-  width: 1px;
-  height: 20px;
+#pogradec {
   left: 36%;
   top: 57%;
-  margin: 0;
-  padding: 0;
-  background-color: transparent;
-  color: red;
-  font-family: monospace;
 }
 
-.container.fier {
-  position: fixed;
-  width: 1px;
-  height: 20px;
+#fier {
   left: 22%;
   top: 62%;
-  margin: 0;
-  padding: 0;
-  background-color: transparent;
-  color: red;
-  font-family: monospace;
 }
 
-.container.berat {
-  position: fixed;
-  width: 1px;
-  height: 20px;
+#berat {
   left: 28%;
   top: 63%;
-  margin: 0;
-  padding: 0;
-  background-color: transparent;
-  color: red;
-  font-family: monospace;
 }
 
-.container.elbasan {
-  position: fixed;
-  width: 1px;
-  height: 20px;
+#elbasan {
   left: 29%;
   top: 53%;
-  margin: 0;
-  padding: 0;
-  background-color: transparent;
-  color: red;
-  font-family: monospace;
 }
 
-.container.durres {
-  position: fixed;
-  width: 1px;
-  height: 20px;
+#durres {
   left: 22%;
   top: 43%;
-  margin: 0;
-  padding: 0;
-  background-color: transparent;
-  color: red;
-  font-family: monospace;
 }
 
-.container.tirane {
-  position: fixed;
-  width: 1px;
-  height: 20px;
+#tirane {
   left: 27%;
   top: 44%;
-  margin: 0;
-  padding: 0;
-  background-color: transparent;
-  color: red;
-  font-family: monospace;
 }
 
-.container.shkoder {
-  position: fixed;
-  width: 1px;
-  height: 20px;
+#shkoder {
   left: 25%;
   top: 22%;
-  margin: 0;
-  padding: 0;
-  background-color: transparent;
-  color: red;
-  font-family: monospace;
 }
 
-.container.tropoje {
-  position: fixed;
-  width: 1px;
-  height: 20px;
+#tropoje {
   left: 28%;
   top: 16%;
-  margin: 0;
-  padding: 0;
-  background-color: transparent;
-  color: red;
-  font-family: monospace;
 }
 
-.container.diber {
-  position: fixed;
-  width: 1px;
-  height: 20px;
+#diber {
   left: 33%;
   top: 34%;
-  margin: 0;
-  padding: 0;
-  background-color: transparent;
-  color: red;
-  font-family: monospace;
 }
 
-.container.kukes {
-  position: fixed;
-  width: 1px;
-  height: 20px;
+#kukes {
   left: 34%;
   top: 27%;
-  margin: 0;
-  padding: 0;
-  background-color: transparent;
-  color: red;
-  font-family: monospace;
 }
 
-.container.kruje {
-  position: fixed;
-  width: 1px;
-  height: 20px;
+#kruje {
   left: 24%;
   top: 39%;
-  margin: 0;
-  padding: 0;
-  background-color: transparent;
-  color: red;
-  font-family: monospace;
 }
 
-.container.lac {
-  position: fixed;
-  width: 1px;
-  height: 20px;
+#lac {
   left: 24%;
   top: 33%;
-  margin: 0;
-  padding: 0;
-  background-color: transparent;
-  color: red;
-  font-family: monospace;
 }
 
-.container.lezhe {
-  position: fixed;
-  width: 1px;
-  height: 20px;
+#lezhe {
   left: 28%;
   top: 31%;
-  margin: 0;
-  padding: 0;
-  background-color: transparent;
-  color: red;
-  font-family: monospace;
 }
 
 /*--------------------main_destinations---------------*/
 
 /*--------------------Vlore---------------*/
 
-.vlore1 {
-  position: absolute;
-  top: 0px;
-  right: 0px;
-}
-.container-vlore {
-  position: absolute;
-  width: 546px;
-  height: 390px;
+
+#city-1 {
   left: 30%;
   top: 3%;
-  margin-left: -340px;
-  background-color: beige;
-  margin-top: 20px;
-  size: cover;
-}
-.text-block.vlore1 {
-  position: relative;
-  margin: 0;
-  padding: 0;
-  top: 272px;
-  left: 0px;
-  font-family: sans-serif;
 }
 
-h6 {
-  margin-bottom: 0;
-}
+
 
 /*--------------------Dhermi---------------*/
 
-.dhermi {
-  position: absolute;
-  top: 0;
-  right: 1px;
-}
 
-.container-dhermi {
-  position: absolute;
-  width: 546px;
-  height: 390px;
+#city-2 {
   left: 81%;
   top: 3%;
-  margin-left: -340px;
-  background-color: beige;
-  margin-top: 20px;
-}
-.text-block.dhermi1 {
-  position: relative;
-  margin: 0;
-  padding: 0;
-  top: 272px;
-  left: 0px;
-  font-family: sans-serif;
 }
 
-h6 {
-  margin-bottom: 0;
-}
 
 /*--------------------himara---------------*/
 
-.himara {
-  position: absolute;
-  top: 0;
-  right: 0px;
-}
-
-.container-himara {
-  position: absolute;
-  width: 546px;
-  height: 390px;
+#city-3{
   left: 30%;
   top: 57%;
-  margin-left: -340px;
-  background-color: beige;
-  margin-top: 20px;
-}
-.text-block.himara1 {
-  position: relative;
-  margin: 0;
-  padding: 0;
-  top: 272px;
-  left: 0px;
-  font-family: sans-serif;
 }
 
-h6 {
-  margin-bottom: 0;
-}
+
 
 /*--------------------saranda---------------*/
 
-.saranda {
-  position: absolute;
-  top: 0;
-  right: 1px;
-}
 
-.container-saranda {
-  position: absolute;
-  width: 546px;
-  height: 390px;
+#city-4{
   left: 81%;
   top: 57%;
-  margin-left: -340px;
-  background-color: beige;
-  margin-top: 20px;
-}
-.text-block.saranda1 {
-  position: relative;
-  margin: 0;
-  padding: 0;
-  top: 272px;
-  left: 0px;
-  font-family: sans-serif;
 }
 
-h6 {
-  margin-bottom: 0;
-}
+
 
 /*--------------------llogora---------------*/
 
-.llogora2 {
-  position: absolute;
-  top: 0;
-  right: 1px;
-}
 
-.container-llogora {
-  position: absolute;
-  width: 546px;
-  height: 390px;
+#city-5{
   left: 81%;
   top: 495%;
-  margin-left: -340px;
-  background-color: beige;
-  margin-top: 20px;
-}
-.text-block.llogora2 {
-  position: relative;
-  margin: 0;
-  padding: 0;
-  top: 272px;
-  left: 0px;
-  font-family: sans-serif;
 }
 
-h6 {
-  margin-bottom: 0;
-}
+
 
 /*--------------------pogradeci---------------*/
-.pogradeci {
-  position: absolute;
-  top: 0;
-  right: 1px;
-}
-.container-pogradeci {
-  position: absolute;
-  width: 546px;
-  height: 390px;
+
+#city-6{
   left: 81%;
   top: 110%;
-  margin-left: -340px;
-  background-color: beige;
-  margin-top: 20px;
-}
-.text-block.pogradeci {
-  position: relative;
-  margin: 0;
-  padding: 0;
-  top: 272px;
-  left: 0px;
-  font-family: sans-serif;
 }
 
-h6 {
-  margin-bottom: 0;
-}
+
+
 
 /*--------------------gjirokaster---------------*/
 
-.gjirokaster {
-  position: absolute;
-  top: 0;
-  right: 1px;
-}
 
-.container-gjirokaster {
-  position: absolute;
-  width: 546px;
-  height: 390px;
+
+#city-7{
   left: 30%;
   top: 110%;
-  margin-left: -340px;
-  background-color: beige;
-  margin-top: 20px;
-}
-.text-block.gjirokaster1 {
-  position: relative;
-  margin: 0;
-  padding: 0;
-  top: 272px;
-  left: 0px;
-  font-family: sans-serif;
 }
 
-h6 {
-  margin-bottom: 0;
-}
+
 
 /*--------------------durres---------------*/
 
-.durres1 {
-  position: absolute;
-  top: 0;
-  right: 1px;
-}
-.container-durres {
-  position: absolute;
-  width: 546px;
-  height: 390px;
+
+#city-8{
   left: 81%;
   top: 165%;
-  margin-left: -340px;
-  background-color: beige;
-  margin-top: 20px;
-}
-.text-block.durres1 {
-  position: relative;
-  margin: 0;
-  padding: 0;
-  top: 272px;
-  left: 0px;
-  font-family: sans-serif;
 }
 
-h6 {
-  margin-bottom: 0;
-}
+
+
 
 /*--------------------fieri---------------*/
 
-.fieri1 {
-  position: absolute;
-  top: 0;
-  right: 1px;
-}
-
-.container-fieri {
-  position: absolute;
-  width: 546px;
-  height: 390px;
+#city-9{
   left: 30%;
   top: 165%;
-  margin-left: -340px;
-  background-color: beige;
-  margin-top: 20px;
-}
-.text-block.fieri1 {
-  position: relative;
-  margin: 0;
-  padding: 0;
-  top: 272px;
-  left: 0px;
-  font-family: sans-serif;
 }
 
-h6 {
-  margin-bottom: 0;
-}
+
 
 /*--------------------shkoder---------------*/
 
-.shkoder1 {
-  position: absolute;
-  top: 0;
-  right: 1px;
-}
 
-.container-shkoder {
-  position: absolute;
-  width: 546px;
-  height: 390px;
+#city-10{
   left: 30%;
   top: 220%;
-  margin-left: -340px;
-  background-color: beige;
-  margin-top: 20px;
-}
-.text-block.shkoder1 {
-  position: relative;
-  margin: 0;
-  padding: 0;
-  top: 272px;
-  left: 0px;
-  font-family: sans-serif;
 }
 
-h6 {
-  margin-bottom: 0;
-}
+
 
 /*--------------------berat---------------*/
 
-.berat3 {
-  position: absolute;
-  top: 0;
-  right: 1px;
-}
-.container-berat {
-  position: absolute;
-  width: 546px;
-  height: 390px;
+#city-11{
   left: 81%;
   top: 220%;
-  margin-left: -340px;
-  background-color: beige;
-  margin-top: 20px;
-}
-.text-block.berat3 {
-  position: relative;
-  margin: 0;
-  padding: 0;
-  top: 272px;
-  left: 0px;
-  font-family: sans-serif;
 }
 
-h6 {
-  margin-bottom: 0;
-}
+
 
 /*--------------------elbasan---------------*/
-.elbasan2 {
-  position: absolute;
-  top: 0;
-  right: 1px;
-}
 
-.container-elbasan {
-  position: absolute;
-  width: 546px;
-  height: 390px;
+
+#city-12{
   left: 30%;
   top: 275%;
-  margin-left: -340px;
-  background-color: beige;
-  margin-top: 20px;
-}
-.text-block.elbasan2 {
-  position: relative;
-  margin: 0;
-  padding: 0;
-  top: 272px;
-  left: 0px;
-  font-family: sans-serif;
+
 }
 
-h6 {
-  margin-bottom: 0;
-}
+
 
 /*--------------------korce---------------*/
 
-.korca2 {
-  position: absolute;
-  top: 0;
-  right: 1px;
-}
-.container-korca {
-  position: absolute;
-  width: 546px;
-  height: 390px;
+
+#city-13{
   left: 81%;
   top: 275%;
-  margin-left: -340px;
-  background-color: beige;
-  margin-top: 20px;
-}
-.text-block.korca2 {
-  position: relative;
-  margin: 0;
-  padding: 0;
-  top: 272px;
-  left: 0px;
-  font-family: sans-serif;
 }
 
-h6 {
-  margin-bottom: 0;
-}
+
+
 
 /*--------------------kruja---------------*/
 
-.kruja2 {
-  position: absolute;
-  top: 0;
-  right: 1px;
-}
 
-.container-kruja {
-  position: absolute;
-  width: 546px;
-  height: 390px;
+
+#city-14{
   left: 30%;
   top: 330%;
-  margin-left: -340px;
-  background-color: beige;
-  margin-top: 20px;
-}
-.text-block.kruja2 {
-  position: relative;
-  margin: 0;
-  padding: 0;
-  top: 272px;
-  left: 0px;
-  font-family: sans-serif;
 }
 
-h6 {
-  margin-bottom: 0;
-}
+
+
 
 /*--------------------kukes---------------*/
 
-.kukes2 {
-  position: absolute;
-  top: 0;
-  right: 1px;
-}
-.container-kukes {
-  position: absolute;
-  width: 546px;
-  height: 390px;
+
+#city-15{
   left: 81%;
   top: 330%;
-  margin-left: -340px;
-  background-color: beige;
-  margin-top: 20px;
-}
-.text-block.kukes2 {
-  position: relative;
-  margin: 0;
-  padding: 0;
-  top: 272px;
-  left: 0px;
-  font-family: sans-serif;
 }
 
-h6 {
-  margin-bottom: 0;
-}
+
+
 
 /*--------------------Permeti---------------*/
 
-.permeti2 {
-  position: absolute;
-  top: 0;
-  right: 1px;
-}
 
-.container-permet {
-  position: absolute;
-  width: 546px;
-  height: 390px;
+#city-16{
   left: 30%;
   top: 385%;
-  margin-left: -340px;
-  background-color: beige;
-  margin-top: 20px;
-}
-.text-block.permeti2 {
-  position: relative;
-  margin: 0;
-  padding: 0;
-  top: 272px;
-  left: 0px;
-  font-family: sans-serif;
 }
 
-h6 {
-  margin-bottom: 0;
-}
+
+
 
 /*------------------Lac-----------------*/
 
-.laci2 {
-  position: absolute;
-  top: 0;
-  right: 1px;
-}
-.container-lac {
-  position: absolute;
-  width: 546px;
-  height: 390px;
+
+#city-17{
   left: 81%;
   top: 385%;
-  margin-left: -340px;
-  background-color: beige;
-  margin-top: 20px;
-}
-.text-block.laci2 {
-  position: relative;
-  margin: 0;
-  padding: 0;
-  top: 272px;
-  left: 0px;
-  font-family: sans-serif;
 }
 
-h6 {
-  margin-bottom: 0;
-}
+
+
 
 /*------------------Lezhe-----------------*/
 
-.lezhe2 {
-  position: absolute;
-  top: 0;
-  right: 1px;
-}
 
-.container-lezhe {
-  position: absolute;
-  width: 546px;
-  height: 390px;
+
+#city-18{
   left: 30%;
   top: 440%;
-  margin-left: -340px;
-  background-color: beige;
-  margin-top: 20px;
-}
-.text-block.lezhe2 {
-  position: relative;
-  margin: 0;
-  padding: 0;
-  top: 272px;
-  left: 0px;
-  font-family: sans-serif;
 }
 
-h6 {
-  margin-bottom: 0;
-}
+
+
 
 /*------------------Tirana-----------------*/
 
-.tirana2 {
-  position: absolute;
-  top: 0;
-  right: 1px;
-}
-.container-tirana {
-  position: absolute;
-  width: 546px;
-  height: 390px;
+#city-19{
   left: 81%;
   top: 440%;
-  margin-left: -340px;
-  background-color: beige;
-  margin-top: 20px;
-}
-.text-block.tirana2 {
-  position: relative;
-  margin: 0;
-  padding: 0;
-  top: 272px;
-  left: 0px;
-  font-family: sans-serif;
 }
 
-h6 {
-  margin-bottom: 0;
-}
+
+
 
 /*------------------Diber-----------------*/
 
-.diber2 {
-  position: absolute;
-  top: 0;
-  right: 1px;
-}
 
-.container-tropoja {
-  position: absolute;
-  width: 546px;
-  height: 390px;
+
+#city-20{
   left: 30%;
   top: 495%;
-  margin-left: -340px;
-  background-color: beige;
-  margin-top: 20px;
-}
-.text-block.diber2 {
-  position: relative;
-  margin: 0;
-  padding: 0;
-  top: 272px;
-  left: 0px;
-  font-family: sans-serif;
 }
 
-h6 {
-  margin-bottom: 0;
-}
+
+
 
 /*------------------Places------------------------------------------*/
 
