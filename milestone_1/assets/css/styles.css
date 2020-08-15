@@ -33,136 +33,7 @@ li {
   font-family: cursive;
 }
 
-/*--------------------places---------------*/
 
-
-.vlore {
-  position: absolute;
-  top: 130px;
-  right: 570px;
-}
-
-.llogara {
-  position: absolute;
-  top: 230px;
-  right: 670px;
-}
-
-.himare {
-  position: absolute;
-  top: 330px;
-  right: 870px;
-}
-
-.dhermi {
-  position: absolute;
-  top: 430px;
-  right: 970px;
-}
-
-.sarande {
-  position: absolute;
-  top: 130px;
-  right: 470px;
-}
-
-.gjirokaster {
-  position: absolute;
-  top: 130px;
-  right: 570px;
-}
-
-.permet {
-  position: absolute;
-  top: 130px;
-  right: 570px;
-}
-
-.korce {
-  position: absolute;
-  top: 130px;
-  right: 570px;
-}
-
-.pogradec {
-  position: absolute;
-  top: 130px;
-  right: 570px;
-}
-
-.fier {
-  position: absolute;
-  top: 130px;
-  right: 570px;
-}
-
-.berat {
-  position: absolute;
-  top: 130px;
-  right: 570px;
-}
-
-.elbasan {
-  position: absolute;
-  top: 130px;
-  right: 570px;
-}
-
-.durres {
-  position: absolute;
-  top: 130px;
-  right: 570px;
-}
-
-.tirane {
-  position: absolute;
-  top: 130px;
-  right: 570px;
-}
-
-.shkoder {
-  position: absolute;
-  top: 130px;
-  right: 570px;
-}
-
-.tropoje {
-  position: absolute;
-  top: 130px;
-  right: 570px;
-}
-
-.diber {
-  position: absolute;
-  top: 130px;
-  right: 570px;
-}
-
-.kukes {
-  position: absolute;
-  top: 130px;
-  right: 570px;
-}
-
-.kruje {
-  position: absolute;
-  top: 130px;
-  right: 570px;
-}
-
-.lac {
-  position: absolute;
-  top: 130px;
-  right: 570px;
-}
-
-.lezhe {
-  position: absolute;
-  top: 130px;
-  right: 570px;
-}
-
-/*--------------------places---------------*/
 
 /*--------------------quotes---------------*/
 
@@ -226,7 +97,7 @@ li {
     margin-left: -340px;
     background-color: beige;
     margin-top: 20px;
-    size: cover;}
+    }
 
 
 
@@ -376,505 +247,114 @@ img{position: absolute;
 
 /*--------------------main_destinations---------------*/
 
-/*--------------------Vlore---------------*/
-
-
-#city-1 {
+.attraction-1 {
   left: 30%;
   top: 3%;
 }
 
-
-
-/*--------------------Dhermi---------------*/
-
-
-#city-2 {
+.attraction-2 {
   left: 81%;
   top: 3%;
 }
 
-
-/*--------------------himara---------------*/
-
-#city-3{
+.attraction-3{
   left: 30%;
   top: 57%;
 }
 
-
-
-/*--------------------saranda---------------*/
-
-
-#city-4{
+.attraction-4{
   left: 81%;
   top: 57%;
 }
 
+.attraction-5{
+  left: 81%;
+  top: 495%;
+}
 
+.attraction-5{
+  left: 81%;
+  top: 110%;
+}
 
-/*--------------------llogora---------------*/
+.attraction-6{
+  left: 30%;
+  top: 110%;
+}
 
+.attraction-7{
+  left: 81%;
+  top: 165%;
+}
 
-#city-5{
+.attraction-8{
+  left: 30%;
+  top: 165%;
+}
+
+.attraction-9{
+  left: 30%;
+  top: 220%;
+}
+
+.attraction-10{
+  left: 81%;
+  top: 220%;
+}
+
+.attraction-11{
+  left: 30%;
+  top: 275%;
+
+}
+
+.attraction-12{
+  left: 81%;
+  top: 275%;
+}
+
+.attraction-13{
+  left: 30%;
+  top: 330%;
+}
+
+.attraction-14{
+  left: 81%;
+  top: 330%;
+}
+
+.attraction-15{
+  left: 30%;
+  top: 385%;
+}
+
+.attraction-16{
+  left: 81%;
+  top: 385%;
+}
+
+.attraction-17{
+  left: 30%;
+  top: 440%;
+}
+
+.attraction-18{
+  left: 81%;
+  top: 440%;
+}
+
+.attraction-19{
+  left: 30%;
+  top: 495%;
+}
+.attraction-20{
   left: 81%;
   top: 495%;
 }
 
 
 
-/*--------------------pogradeci---------------*/
-
-#city-6{
-  left: 81%;
-  top: 110%;
-}
-
-
-
-
-/*--------------------gjirokaster---------------*/
-
-
-
-#city-7{
-  left: 30%;
-  top: 110%;
-}
-
-
-
-/*--------------------durres---------------*/
-
-
-#city-8{
-  left: 81%;
-  top: 165%;
-}
-
-
-
-
-/*--------------------fieri---------------*/
-
-#city-9{
-  left: 30%;
-  top: 165%;
-}
-
-
-
-/*--------------------shkoder---------------*/
-
-
-#city-10{
-  left: 30%;
-  top: 220%;
-}
-
-
-
-/*--------------------berat---------------*/
-
-#city-11{
-  left: 81%;
-  top: 220%;
-}
-
-
-
-/*--------------------elbasan---------------*/
-
-
-#city-12{
-  left: 30%;
-  top: 275%;
-
-}
-
-
-
-/*--------------------korce---------------*/
-
-
-#city-13{
-  left: 81%;
-  top: 275%;
-}
-
-
-
-
-/*--------------------kruja---------------*/
-
-
-
-#city-14{
-  left: 30%;
-  top: 330%;
-}
-
-
-
-
-/*--------------------kukes---------------*/
-
-
-#city-15{
-  left: 81%;
-  top: 330%;
-}
-
-
-
-
-/*--------------------Permeti---------------*/
-
-
-#city-16{
-  left: 30%;
-  top: 385%;
-}
-
-
-
-
-/*------------------Lac-----------------*/
-
-
-#city-17{
-  left: 81%;
-  top: 385%;
-}
-
-
-
-
-/*------------------Lezhe-----------------*/
-
-
-
-#city-18{
-  left: 30%;
-  top: 440%;
-}
-
-
-
-
-/*------------------Tirana-----------------*/
-
-#city-19{
-  left: 81%;
-  top: 440%;
-}
-
-
-
-
-/*------------------Diber-----------------*/
-
-
-
-#city-20{
-  left: 30%;
-  top: 495%;
-}
-
-
-
-
-/*------------------Places------------------------------------------*/
-
-.lungo.mare {
-  position: absolute;
-  top: 0px;
-  right: 2px;
-}
-.container.lungomare {
-  position: absolute;
-  width: 550px;
-  height: 310px;
-  left: 30%;
-  top: 8%;
-  margin-left: -340px;
-  background-color: beige;
-  margin-top: 20px;
-}
-.text-block.lungomare {
-  position: relative;
-  margin: 0;
-  padding: 0;
-  top: 272px;
-  left: 0px;
-  font-family: sans-serif;
-}
-
-h6 {
-  margin-bottom: 0;
-}
-
-.kanina {
-  position: absolute;
-  top: 0;
-  right: 1px;
-}
-
-.container.kanina {
-  position: absolute;
-  width: 546px;
-  height: 310px;
-  left: 81%;
-  top: 8%;
-  margin-left: -340px;
-  background-color: beige;
-  margin-top: 20px;
-}
-.text-block.kanina {
-  position: relative;
-  margin: 0;
-  padding: 0;
-  top: 272px;
-  left: 0px;
-  font-family: sans-serif;
-}
-
-h6 {
-  margin-bottom: 0;
-}
-
-.zvernec {
-  position: absolute;
-  top: 0px;
-  right: 2px;
-}
-.container.zvernec {
-  position: absolute;
-  width: 550px;
-  height: 310px;
-  left: 30%;
-  top: 63%;
-  margin-left: -340px;
-  background-color: beige;
-  margin-top: 20px;
-}
-.text-block.zvernec {
-  position: relative;
-  margin: 0;
-  padding: 0;
-  top: 272px;
-  left: 0px;
-  font-family: sans-serif;
-}
-
-h6 {
-  margin-bottom: 0;
-}
-
-.karaburun {
-  position: absolute;
-  top: 0;
-  right: 1px;
-}
-
-.container.karaburun {
-  position: absolute;
-  width: 546px;
-  height: 310px;
-  left: 81%;
-  top: 63%;
-  margin-left: -340px;
-  background-color: beige;
-  margin-top: 20px;
-}
-.text-block.karaburun {
-  position: relative;
-  margin: 0;
-  padding: 0;
-  top: 272px;
-  left: 0px;
-  font-family: sans-serif;
-}
-
-h6 {
-  margin-bottom: 0;
-}
-
-.manastir {
-  position: absolute;
-  top: 0px;
-  right: 2px;
-}
-
-.container.manastir {
-  position: absolute;
-  width: 550px;
-  height: 310px;
-  left: 30%;
-  top: 118%;
-  margin-left: -340px;
-  background-color: beige;
-  margin-top: 20px;
-}
-.text-block.manastir {
-  position: relative;
-  margin: 0;
-  padding: 0;
-  top: 272px;
-  left: 0px;
-  font-family: sans-serif;
-}
-
-h6 {
-  margin-bottom: 0;
-}
-
-.monumenti {
-  position: absolute;
-  top: 0;
-  right: 1px;
-}
-
-.container.monumenti {
-  position: absolute;
-  width: 546px;
-  height: 310px;
-  left: 81%;
-  top: 118%;
-  margin-left: -340px;
-  background-color: beige;
-  margin-top: 20px;
-}
-.text-block.monumenti {
-  position: relative;
-  margin: 0;
-  padding: 0;
-  top: 272px;
-  left: 0px;
-  font-family: sans-serif;
-}
-
-h6 {
-  margin-bottom: 0;
-}
-
-.muze {
-  position: absolute;
-  top: 0px;
-  right: 2px;
-}
-
-.container.muze {
-  position: absolute;
-  width: 550px;
-  height: 310px;
-  left: 30%;
-  top: 173%;
-  margin-left: -340px;
-  background-color: beige;
-  margin-top: 20px;
-}
-.text-block.muze {
-  position: relative;
-  margin: 0;
-  padding: 0;
-  top: 272px;
-  left: 0px;
-  font-family: sans-serif;
-}
-
-h6 {
-  margin-bottom: 0;
-}
-
-.pylli {
-  position: absolute;
-  top: 0;
-  right: 1px;
-}
-
-.container.pylli {
-  position: absolute;
-  width: 546px;
-  height: 310px;
-  left: 81%;
-  top: 173%;
-  margin-left: -340px;
-  background-color: beige;
-  margin-top: 20px;
-}
-.text-block.pylli {
-  position: relative;
-  margin: 0;
-  padding: 0;
-  top: 272px;
-  left: 0px;
-  font-family: sans-serif;
-}
-
-h6 {
-  margin-bottom: 0;
-}
-
-.ishull {
-  position: absolute;
-  top: 0px;
-  right: 2px;
-}
-
-.container.ishull {
-  position: absolute;
-  width: 550px;
-  height: 310px;
-  left: 30%;
-  top: 228%;
-  margin-left: -340px;
-  background-color: beige;
-  margin-top: 20px;
-}
-.text-block.ishull {
-  position: relative;
-  margin: 0;
-  padding: 0;
-  top: 272px;
-  left: 0px;
-  font-family: sans-serif;
-}
-
-h6 {
-  margin-bottom: 0;
-}
-
-.karaburun.shpelle {
-  position: absolute;
-  top: 0;
-  right: 1px;
-}
-
-.container.karaburun.shpelle {
-  position: absolute;
-  width: 546px;
-  height: 310px;
-  left: 81%;
-  top: 228%;
-  margin-left: -340px;
-  background-color: beige;
-  margin-top: 20px;
-}
-.text-block.karaburun.shpelle {
-  position: relative;
-  margin: 0;
-  padding: 0;
-  top: 272px;
-  left: 0px;
-  font-family: sans-serif;
-}
-
-h6 {
-  margin-bottom: 0;
-}
-
+/*----------------------------media -------------------------------*/
 @media only screen and (max-width: 600px) {
   .container-vlore {
     position: absolute;
