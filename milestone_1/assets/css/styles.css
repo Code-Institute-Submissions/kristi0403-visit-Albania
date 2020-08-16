@@ -7,6 +7,8 @@ body {
 
 
 /* navigation */
+#menu2{position: absolute;
+    top: 60px;}
 
 ul {
 	display: flex;
@@ -16,6 +18,7 @@ ul {
 	background: transparent;
 	margin: 0;
 	padding: 0;
+    color: red;
 }
 
 li {
@@ -25,59 +28,100 @@ li {
 	background: transparent;
 }
 
+/* buttons */
+
+.btn{
+    font-weight: bold;
+    border-radius: 15px;
+}
+
+.btn:hover,
+.btn:active,
+.btn:focus,
+.btn:active:focus{
+    background-color:rosybrown;
+    border-color:rosybrown;
+    color:white;
+}
 
 /* header */
 
 .header {
 	background-color: beige;
 	font-family: cursive;
+    position: absolute;
+    width: 100%;
 }
 
 
 /* quotes */
 
+#intro{background-color: transparent;}
+
 .container.quotes {
-	width: 600px;
-	height: 200px;
+    position: absolute;
+	width: 580px;
+	height: 128px;
 	margin-left: -340px;
 	background-color: beige;
+    
 }
+.container.flag{
+   left:80%;
+   top: 9%;
+   background-color: transparent;
+}
+.container.intro{
+   left:80%;
+   top: 28%;}
 
 .container.food {
 	left: 80%;
-	top: 60%;
+	top: 74%;
 }
 
 .container.activities {
 	left: 80%;
-	top: 25%;
+	top: 54%;
 }
-
+.text-block.intro{
+    top: 0px;
+	left: 20px;
+}   
 .text-block.food {
-	top: 100px;
-	left: 140px;
+	top: 68px;
+	left: 65px;
+}
+.text-block.flag{
+        top: 100%;
+        left: 450px;
+        width: 65px;
 }
 
 .text-block.activities {
-	top: 110px;
-	left: 100px;
+	top: 68px;
 }
-
-
+/* footer */
+footer{height: 32px;  position: absolute;
+ bottom: 0;
+ width: 100%;}
+.social-networks{text-align:center;}
+.social-networks li{display: inline;}
+.social-networks i {font-size: 160%; margin: 1%;padding: 5%;color:red;}
 /* images */
 
 #food {
 	border-radius: 50%;
 	position: absolute;
-	top: 50px;
+	top: 5px;
 	right: 460px;
 }
 
 #activities {
 	border-radius: 50%;
 	position: absolute;
-	top: 50px;
-	right: 50px;
+	top: 5px;
+	right: 10px;
 }
 
 img {
@@ -90,7 +134,10 @@ img.quotes {
 	height: 120px;
 	width: 120px;
 }
-
+#flag{
+    height: 120px;
+    width: 220px;
+}
 
 /* map */
 
