@@ -27,7 +27,8 @@ li {
 	list-style-type: none;
 	background: transparent;
 }
-
+a{color: black;
+background-color: beige;}
 /* buttons */
 
 .btn{
@@ -93,7 +94,7 @@ li {
 	left: 65px;
 }
 .text-block.flag{
-        top: 100%;
+        top: 98%;
         left: 450px;
         width: 65px;
 }
@@ -107,7 +108,8 @@ footer{height: 32px;  position: absolute;
  width: 100%;}
 .social-networks{text-align:center;}
 .social-networks li{display: inline;}
-.social-networks i {font-size: 160%; margin: 1%;padding: 5%;color:red;}
+.social-networks i {font-size: 160%; margin: 1%;padding: 5%;color:black; background-color: beige;}
+
 /* images */
 
 #food {
@@ -137,6 +139,7 @@ img.quotes {
 #flag{
     height: 120px;
     width: 220px;
+    top: 5px;
 }
 
 /* map */
@@ -408,90 +411,97 @@ h6 {
 @media only screen and (max-width: 600px) {
 	.container {
 		position: absolute;
-		width: 512px;
-		height: 400px;
+		width: 360px;
+		height: 450px;
 		margin-left: -340px;
 		background-color: beige;
 		margin-top: 20px;
 	}
+
+    .text-block{top: 300px;
+    width: 360px;}
+
+    img{position: absolute;
+    top: 20px;right: 0px;
+    width: 360px;}
 	.attraction-1 {
-		left: 91%;
+		left: 93%;
 		top: 3%;
 	}
 	.attraction-2 {
-		left: 91%;
-		top: 70%;
+		left: 93%;
+		top: 75%;
 	}
 	.attraction-3 {
-		left: 91%;
-		top: 137%;
+		left: 93%;
+		top: 147%;
 	}
 	.attraction-4 {
-		left: 91%;
-		top: 204%;
+		left: 93%;
+		top: 219%;
 	}
 	.attraction-5 {
-		left: 91%;
-		top: 271%;
+		left: 93%;
+		top: 291%;
 	}
 	.attraction-6 {
-		left: 91%;
-		top: 338%;
+		left: 93%;
+		top: 363%;
 	}
 	.attraction-7 {
-		left: 91%;
-		top: 405%;
+		left: 93%;
+		top: 435%;
 	}
 	.attraction-8 {
-		left: 91%;
-		top: 472%;
+		left: 93%;
+		top: 510%;
 	}
 	.attraction-9 {
-		left: 91%;
-		top: 539%;
+		left: 93%;
+		top: 587%;
 	}
 	.attraction-10 {
-		left: 91%;
-		top: 606%;
+		left: 93%;
+		top: 625%;
 	}
 	.attraction-11 {
-		left: 91%;
-		top: 673%;
+		left: 93%;
+		top: 703%;
 	}
 	.attraction-12 {
-		left: 91%;
+		left: 93%;
 		top: 740%;
 	}
 	.attraction-13 {
-		left: 91%;
+		left: 93%;
 		top: 807%;
 	}
 	.attraction-14 {
-		left: 91%;
-		top: 874%;
+		left: 93%;
+		top: 924%;
 	}
 	.attraction-15 {
-		left: 91%;
+		left: 93%;
 		top: 941%;
 	}
 	.attraction-16 {
-		left: 91%;
+		left: 93%;
 		top: 1008%;
 	}
 	.attraction-17 {
-		left: 91%;
+		left: 93%;
 		top: 1075%;
 	}
 	.attraction-18 {
-		left: 91%;
+		left: 93%;
 		top: 1142%;
 	}
 	.attraction-19 {
-		left: 91%;
+		left: 93%;
 		top: 1209%;
 	}
 	.attraction-20 {
-		left: 91%;
+		left: 93%;
 		top: 1276%;
 	}
 	.container.food {
@@ -500,6 +510,19 @@ h6 {
 	.container.activities {
 		display: none;
 	}
+    .container.intro{
+        display: none;
+    }
+    .container.flag{
+        display: none;
+    }
+    footer{height: 35px;  position: absolute;
+   bottom: 0;
+   width: 100%;}
+   .social-networks{text-align:center;}
+   .social-networks li{display: block;}
+   .social-networks i {font-size: 120%; margin: 1%;padding: 5%;}
+
 	/*--------------------places---------------*/
 	#tropoje {
 		left: 35%;
