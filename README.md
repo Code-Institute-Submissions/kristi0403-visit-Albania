@@ -129,16 +129,11 @@ This problem happened when tried to see how the page responded to ipad pro and i
  
 
 ## Deployment
-
-This section should describe the process you went through to deploy the project to a hosting platform .
-
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-- Different values for environment variables .
-- Separate git branch?
-
-In addition, if it is not obvious, you should also describe how to run your code locally.
-
-
+Platform used to deploy the project is Github through github pages.
+Used git add to add files and after that git commit to coment the files addeted and deleted and git push 
+at the end to move the files to the github pages.
+url that the page is hosted is https://kristi0403.github.io/visit-Albania/
+the page works the same as the developer tools experience.
 ## Credits
 
 ### Content
