@@ -1,40 +1,81 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700");
-body {
-	font-family: "Roboto", sans-serif, cursive;
-	margin: 0;
-	text-align: center;
-	background-color: transparent;
+
+
+/* colours */
+.bg-color-name-title{
+    background-color: beige;
+}
+.ui-menu-color-home{
+    background-color: #a7a7a7;
+}
+.ui-menu-color-food{
+    background-color:#d2ab64;
+}
+.ui-menu-color-activities{
+    background-color: #7690ad;
+}
+.ui-menu-color-destinations{
+    background-color: #d0aeae;
 }
 
-
-/* navigation */
-
-#menu2 {
-	position: absolute;
-	top: 60px;
+/* heading */
+header{
+    margin: 0;
+    text-align: center;
+}
+ .name{
+     font-family: cursive, sans-serif;
+     font-weight:100;
+     font-size: 40px;
+     margin-top: 20px;
+ }
+/* hover.css*/
+.hvr-radial-out{background: transparent;}
+.hvr-radial-out:before {
+    background: rgba(0, 0, 0, 0.2);
+    height: 30px;
 }
 
-ul {
-	display: flex;
-	align-items: stretch;
-	justify-content: space-evenly;
-	width: 100%;
-	background: transparent;
-	margin: 0;
-	padding: 0;
-	color: red;
+ /* navigation */
+
+.list-inline-item:not(:last-child) {
+    margin: 0;
 }
 
-li {
-	display: block;
-	flex: 0 1 auto;
-	list-style-type: none;
-	background: transparent;
+.menucontainer{font-size: 0;}
+
+#nav {
+    margin: 0;
+}
+#nav li{
+    font-size:15px;
+    padding: 0;
 }
 
-a {
-	color: black;
-	background-color: beige;
+.menuitem{
+    height: 30px;
+    text-align:center;
+    padding: 0;
+}
+.menuitem a{
+    width: 100%;
+    text-decoration: none;
+    color: white;
+}
+
+.meuitem a i {
+    display: block;
+    font-size: 20px;
+    columns: #fafafa;
+}
+
+.menuitem span{
+    width:100%;
+    text-align: center;
+    text-transform: uppercase;
+    font-size:20px;
+    font-weight: 300;
+    letter-spacing: 1px;
 }
 
 
@@ -52,16 +93,6 @@ a {
 	background-color: rosybrown;
 	border-color: rosybrown;
 	color: white;
-}
-
-
-/* header */
-
-.header {
-	background-color: beige;
-	font-family: cursive;
-	position: absolute;
-	width: 100%;
 }
 
 
