@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700");
 
 
-/* colours */
+/*------------------------------------------------------------colours-------------------------------------------------*/
 .bg-color-name-title{
     background-color: beige;
 }
@@ -18,7 +18,7 @@
     background-color: #d0aeae;
 }
 
-/* heading */
+/*------------------------------------------------------------heading-------------------------------------------------*/
 .heading{width: 100%;}
 header{
     margin: 0;
@@ -30,14 +30,14 @@ header{
      font-size: 40px;
      margin-top: 20px;
  }
-/* hover.css*/
+/*------------------------------------------------------------hover.css-------------------------------------------------*/
 .hvr-radial-out{background: transparent;}
 .hvr-radial-out:before {
     background: rgba(0, 0, 0, 0.2);
     height: 30px;
 }
 
- /* navigation */
+ /*------------------------------------------------------------navigation-bar-------------------------------------------------*/
 
 .list-inline-item:not(:last-child) {
     margin: 0;
@@ -80,54 +80,7 @@ header{
 }
 
 
-/* buttons */
-
-.btn {
-	font-weight: bold;
-	border-radius: 15px;
-}
-
-.btn:hover,
-.btn:active,
-.btn:focus,
-.btn:active:focus {
-	background-color: rosybrown;
-	border-color: rosybrown;
-	color: white;
-}
-
-
-/* quotes */
-
-.text-block.intro {
-	top: 0px;
-	left: 20px;
-}
-
-.text-block.food {
-	top: 68px;
-	left: 65px;
-}
-
-.text-block.flag {
-	top: 98%;
-	left: 450px;
-	width: 65px;
-}
-
-.text-block.activities {
-	top: 68px;
-}
-
-.text-block {
-	position: absolute;
-	top: 300px;
-	left: 0px;
-	width: 547px;
-}
-
-
-/* footer */
+/*------------------------------------------------------------navigation-bar-------------------------------------------------*/
 
 footer {
     
@@ -172,7 +125,14 @@ footer {
 
 
 
-/* images */
+/*------------------------------------------------------------images-------------------------------------------------*/
+.card-img-top{
+     width:545px;
+    height:275px;
+}
+
+
+
 
 #food {
     border-radius: 50%;
@@ -202,107 +162,7 @@ img.quotes {
 
 
 
-/* map */
-
-
-/* backgrounds */
-
-html {
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
-}
-
-
-
-.destinations-bg {
-	background: url(".././images/background2.jpg") no-repeat fixed;
-	background-size: cover;
-	background-position: center center;
-	background-color: white;
-}
-
-.food-bg {
-	background: url(".././images/food background.jpg") no-repeat fixed;
-	background-position: center center;
-	background-color: white;
-	background-size: cover;
-}
-
-.activities-bg {
-	background: url(".././images/activities/food background.jpg") no-repeat fixed;
-	background-position: center center;
-	background-color: white;
-	background-size: cover;
-}
-
-.sea-bg {
-	background: url(".././images/sea-sun.jpg") no-repeat fixed;
-	background-position: center center;
-	background-color: white;
-	background-size: cover;
-}
-
-.forest-bg {
-	background: url(".././images/background4.jpg") no-repeat fixed;
-	background-position: center center;
-	background-color: white;
-	background-size: cover;
-}
-
-.adventure-bg {
-	background: url(".././images/adventure.jpg") no-repeat fixed;
-	background-position: center center;
-	background-color: white;
-	background-size: cover;
-}
-
-
-/* containers */
-
-
-/*------------------------------------------------------Card gallery*/
-.card-block{
-    margin-bottom:20px;
-    text-align: center;
-    }
-
-h6{position: relative;
-bottom:275px;}
-
-.row-gallery{
-    display: flex;
-    margin-top: 50px;
-    }
-
-.card{
-    display: flex;
-    background-color: beige;
-    margin-bottom: 40px;
-	outline-width: 7px;
-	outline-color:#7690ad ;
-	outline-style: solid;}
-
-
-
-
-body{background-color: transparent;}
-
-
-img{
-    position: relative;
-    top:20px;
-    bottom: 20px;
-}
-
-.justify-content-around{justify-content:space-around;}
-
-
-
-
-/*----------------------------------------------------------------------------------map--*/
-
+/*------------------------------------------------------------map-------------------------------------------------*/
 .logo{
     background: url(".././images/shqiperia_ime_2.png");
     background-position: center;
@@ -350,16 +210,9 @@ width: unset;
 
 
   .features{background-color:whitesmoke;}
+  .location{position: absolute;}
 
-
-
-
-
-
-
-
-
-
+/*------------------------------------------------------------map-location-ids-------------------------------------------------*/
 
 #tropoje{
     left: 44%;
@@ -469,4 +322,109 @@ width: unset;
 }
 
 
-.location{position: absolute;}
+
+/*------------------------------------------------------------backgrounds-------------------------------------------------*/
+
+html {
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+
+
+.destinations-bg {
+	background: url(".././images/background2.jpg") no-repeat fixed;
+	background-size: cover;
+	background-position: center center;
+	background-color: white;
+}
+
+.food-bg {
+	background: url(".././images/food background.jpg") no-repeat fixed;
+	background-position: center center;
+	background-color: white;
+	background-size: cover;
+}
+
+.activities-bg {
+	background: url(".././images/activities/food background.jpg") no-repeat fixed;
+	background-position: center center;
+	background-color: white;
+	background-size: cover;
+}
+
+.sea-bg {
+	background: url(".././images/sea-sun.jpg") no-repeat fixed;
+	background-position: center center;
+	background-color: white;
+	background-size: cover;
+}
+
+.forest-bg {
+	background: url(".././images/background4.jpg") no-repeat fixed;
+	background-position: center center;
+	background-color: white;
+	background-size: cover;
+}
+
+.adventure-bg {
+	background: url(".././images/adventure.jpg") no-repeat fixed;
+	background-position: center center;
+	background-color: white;
+	background-size: cover;
+}
+
+/*------------------------------------------------------------image-galleries-------------------------------------------------*/
+.card-block{
+    margin-bottom:20px;
+    text-align: center;
+    }
+
+h6{position: relative;
+bottom:275px;}
+
+.row-gallery{
+    display: flex;
+    margin-top: 50px;
+    }
+
+.card{
+    display: flex;
+    background-color: beige;
+    margin-bottom: 40px;
+	outline-width: 7px;
+	outline-color:#7690ad ;
+	outline-style: solid;}
+
+
+
+
+body{background-color: transparent;}
+
+.col-4{flex:0 0 0;
+max-width: 100%;}
+
+img{
+    position: relative;
+    top:20px;
+    bottom: 20px;
+}
+
+.justify-content-around{justify-content:space-around;}
+
+
+/*------------------------------------------------------------media-------------------------------------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
