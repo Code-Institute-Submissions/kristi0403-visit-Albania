@@ -19,6 +19,7 @@
 }
 
 /* heading */
+.heading{width: 100%;}
 header{
     margin: 0;
     text-align: center;
@@ -174,28 +175,23 @@ footer {
 /* images */
 
 #food {
-	border-radius: 50%;
-	position: absolute;
-	top: 5px;
-	right: 460px;
+    border-radius: 50%;
+    position: relative;
+    top: 20px;
 }
 
 #activities {
 	border-radius: 50%;
-	position: absolute;
-	top: 5px;
-	right: 10px;
-}
-
-img {
-	position: absolute;
+	position: relative;
 	top: 20px;
-	right: 0px;
 }
 
 img.quotes {
 	height: 120px;
 	width: 120px;
+    position:relative;
+    border-radius:50%;
+    top: auto;
 }
 
 #flag {
@@ -203,6 +199,7 @@ img.quotes {
 	width: 220px;
 	top: 5px;
 }
+
 
 
 /* map */
@@ -217,12 +214,7 @@ html {
 	background-size: cover;
 }
 
-.home-bg {
-	background: url(".././images/background.png") no-repeat fixed;
-	background-position: 25% 65px;
-	background-color: white;
-	background-size: contain;
-}
+
 
 .destinations-bg {
 	background: url(".././images/background2.jpg") no-repeat fixed;
@@ -293,8 +285,7 @@ bottom:275px;}
 	outline-style: solid;}
 
 
-.container{margin-top:50px;
-	}
+
 
 body{background-color: transparent;}
 
@@ -306,3 +297,176 @@ img{
 }
 
 .justify-content-around{justify-content:space-around;}
+
+
+
+
+/*----------------------------------------------------------------------------------map--*/
+
+.logo{
+    background: url(".././images/shqiperia_ime_2.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height:800px;
+    background-color: whitesmoke;
+}
+
+
+.intro{background-color: beige;
+margin-top: 60px;}
+
+
+.row{margin-right: 0;}
+
+
+.intro-title{bottom: 0;}
+
+
+.flag{margin-top: 20px;
+width: unset;
+}
+
+.food{
+    background-color: beige;
+}
+.activities{background-color:beige;}
+
+
+
+
+.card-text-food{
+    margin-left: 151px;
+    margin-top: -100px;
+    text-align: center;
+}
+
+
+.card-text-activities{
+    margin-left: 150px;
+    margin-top: -100px;
+    text-align: center;}
+  
+
+
+  .features{background-color:whitesmoke;}
+
+
+
+
+
+
+
+
+
+
+
+#tropoje{
+    left: 44%;
+    top: 9%;}
+
+  #vlore {
+	left: 37%;
+    top: 64%;
+}
+
+#llogora {
+    left: 39%;
+    top: 69%;
+}
+
+#dhermi {
+	left: 46%;
+    top: 77%;
+
+}
+
+
+#sarande {
+    left: 46%;
+    top: 83%;
+}
+
+#gjirokaster {
+    left: 45%;
+    top: 73%;
+}
+
+#permet {
+	left: 55%;
+    top: 65%;
+}
+
+#korce {
+	left: 58%;
+    top: 57%;
+}
+
+#pogradec {
+	left: 55%;
+    top: 51%;
+}
+
+#fier {
+	left: 36%;
+    top: 55%;
+}
+
+#berat {
+    left: 44%;
+    top: 56%;
+}
+
+#elbasan {
+	left: 45%;
+    top: 47%;
+}
+
+#durres {
+	left: 35%;
+    top: 37%;
+}
+
+#tirane {
+    left: 41%;
+    top: 39%;
+
+}
+
+#shkoder {
+	left: 38%;
+    top: 16%;
+}
+
+#tropoje {
+	left: 44%;
+    top: 9%;
+}
+
+#diber {
+    left: 52%;
+    top: 27%;
+}
+
+#kukes {
+	left: 53%;
+    top: 19%;
+}
+
+#kruje {
+	left: 39%;
+    top: 33%;
+}
+
+#lac {
+    left: 38%;
+    top: 23%;
+}
+
+#lezhe {
+	left: 44%;
+	top: 31%;
+}
+
+
+.location{position: absolute;}
