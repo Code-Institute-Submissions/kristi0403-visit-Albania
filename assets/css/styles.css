@@ -409,18 +409,37 @@ max-width: 100%;}
 img{
     position: relative;
     top:20px;
-    bottom: 20px;
-}
+    bottom: 20px;}
+
 
 .justify-content-around{justify-content:space-around;}
 
 
 /*------------------------------------------------------------media-------------------------------------------------*/
 
+/* Smartphones (portrait) ----------- */
+
+@media only screen and (max-width: 450px){
+    .row-gallery{display: contents;
+    margin-top:20px;}
+    .card-img-top{width: 100%;}
+    .container-fluid{margin-top:50px;}
+}
 
 
+@media only screen and (max-width: 768px){
+    .row-gallery{display: contents;
+    margin-top:20px;}
+    .card-img-top{width: 100%;}
+    .container-fluid{margin-top:50px;}
+}
 
-
+@media only screen and (max-width: 1024px){
+    .row-gallery{display: contents;
+    margin-top:20px;}
+    .card-img-top{width: 100%;}
+    .container-fluid{margin-top:50px;}
+}
 
 
 
