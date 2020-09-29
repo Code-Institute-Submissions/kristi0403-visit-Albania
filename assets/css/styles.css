@@ -80,8 +80,8 @@ header{
 }
 
 
-/*------------------------------------------------------------navigation-bar-------------------------------------------------*/
-
+/*------------------------------------------------------------footer-------------------------------------------------*/
+#foot{width: 100%}
 footer {
     
     background-color:#7690ad; 
@@ -94,7 +94,7 @@ footer {
 }
 #foot li {
     font-size: 20px;
-    padding:0;
+    padding:10px;
     text-align: center;}
 
 
@@ -105,14 +105,14 @@ footer {
 
 
 .social-links li a i {
-	width:32px;
-    height: 32px;
+	width:40px;
+    height: 40px;
     padding:12px 0;
     border-radius: 50%;
-    line-height: 7px;
+    line-height: 15px;
     text-align: center;
     color: #fafafa;
-    background:#8f8f8f;
+    background:#d0aeae;
     transition: all 0.35s ease-in-out;
     -moz-transition:all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
@@ -137,13 +137,13 @@ footer {
 #food {
     border-radius: 50%;
     position: relative;
-    top: 20px;
+    top:20px;
 }
 
 #activities {
 	border-radius: 50%;
 	position: relative;
-	top: 20px;
+    top: 20px;
 }
 
 img.quotes {
@@ -186,9 +186,10 @@ margin-top: 60px;}
 .flag{margin-top: 20px;
 width: unset;
 }
-
+.activities{margin-top: 20px;}
 .food{
     background-color: beige;
+    margin-top:20px;
 }
 .activities{background-color:beige;}
 
@@ -276,7 +277,7 @@ width: unset;
 }
 
 #durres {
-	left: 35%;
+	left: 37%;
     top: 37%;
 }
 
@@ -389,7 +390,8 @@ bottom:275px;}
     display: flex;
     margin-top: 50px;
     }
-
+.row-gallery-food{margin-top:auto;}
+.row-gallery-activities{margin-top:auto;}
 .card{
     display: flex;
     background-color: beige;
@@ -420,25 +422,224 @@ img{
 /* Smartphones (portrait) ----------- */
 
 @media only screen and (max-width: 450px){
-    .row-gallery{display: contents;
-    margin-top:20px;}
+    .row-gallery{display: contents;margin-top:20px;}
     .card-img-top{width: 100%;}
     .container-fluid{margin-top:50px;}
+    .row-intro{margin-left: 10px;}
+    .food{display: none;}
+    .activities{display: none;}
+
+  #vlore {
+	left: 20%;
+    top: 64%;
+}
+
+#llogora {
+    left: 23%;
+    top: 69%;
+}
+
+#dhermi {
+	left: 40%;
+    top: 77%;
+
 }
 
 
-@media only screen and (max-width: 768px){
-    .row-gallery{display: contents;
-    margin-top:20px;}
-    .card-img-top{width: 100%;}
-    .container-fluid{margin-top:50px;}
+#sarande {
+    left: 41%;
+    top: 83%;
 }
 
-@media only screen and (max-width: 1024px){
-    .row-gallery{display: contents;
-    margin-top:20px;}
+#gjirokaster {
+    left: 45%;
+    top: 73%;
+}
+
+#permet {
+	left: 55%;
+    top: 65%;
+}
+
+#korce {
+	left: 65%;
+    top: 57%;
+}
+
+#pogradec {
+	left: 55%;
+    top: 51%;
+}
+
+#fier {
+	left: 20%;
+    top: 55%;
+}
+
+#berat {
+    left: 36%;
+    top: 56%;
+}
+
+#elbasan {
+	left: 38%;
+    top: 47%;
+}
+
+#durres {
+	left: 20%;
+    top: 37%;
+}
+
+#tirane {
+    left: 27%;
+    top: 40%;
+
+}
+
+#shkoder {
+	left: 24%;
+    top: 16%;
+}
+
+#tropoje {
+	left: 35%;
+    top: 9%;
+}
+
+#diber {
+    left: 52%;
+    top: 27%;
+}
+
+#kukes {
+	left: 53%;
+    top: 19%;
+}
+
+#kruje {
+	left: 25%;
+    top: 33%;
+}
+
+#lac {
+    left: 25%;
+    top: 23%;
+}
+
+#lezhe {
+	left: 34%;
+	top: 25%;
+}
+
+}
+@media (max-width: 750px) and (min-width:560px){
+
+    .row-gallery{display: contents;margin-top:20px;}
+    .row-gallery-activities{margin-bottom: 20px;}
     .card-img-top{width: 100%;}
     .container-fluid{margin-top:50px;}
+#vlore {
+	left: 29%;
+    top: 64%;
+}
+
+#llogora {
+    left: 27%;
+    top: 68%;
+}
+
+#dhermi {
+	left: 43%;
+    top: 77%;
+
+}
+
+
+#sarande {
+    left: 43%;
+    top: 83%;
+}
+
+#gjirokaster {
+    left: 45%;
+    top: 73%;
+}
+
+#permet {
+	left: 55%;
+    top: 65%;
+}
+
+#korce {
+	left: 60%;
+    top: 57%;
+}
+
+#pogradec {
+	left: 58%;
+    top: 51%;
+}
+
+#fier {
+	left: 28%;
+    top: 55%;
+}
+
+#berat {
+    left: 40%;
+    top: 56%;
+}
+
+#elbasan {
+	left: 41%;
+    top: 47%;
+}
+
+#durres {
+	left: 28%;
+    top: 37%;
+}
+
+#tirane {
+    left: 34%;
+    top: 40%;
+
+}
+
+#shkoder {
+	left: 31%;
+    top: 16%;
+}
+
+#tropoje {
+	left: 40%;
+    top: 9%;
+}
+
+#diber {
+    left: 51%;
+    top: 27%;
+}
+
+#kukes {
+	left: 53%;
+    top: 19%;
+}
+
+#kruje {
+	left: 32%;
+    top: 33%;
+}
+
+#lac {
+    left: 32%;
+    top: 23%;
+}
+
+#lezhe {
+	left: 38%;
+	top: 25%;
 }
 
 
@@ -447,3 +648,248 @@ img{
 
 
 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 812px) and (min-width:745px){
+    .row-gallery{display: contents;margin-top:20px;}
+    .row-gallery-activities{margin-bottom: 20px;}
+    .card-img-top{width: 100%;}
+    .container-fluid{margin-top:50px;}
+
+ #vlore {
+	left: 18%;
+    top: 61%;
+}
+
+#llogora {
+    left: 16%;
+    top: 64%;
+}
+
+#dhermi {
+	left: 40%;
+    top: 71%;
+
+}
+
+
+#sarande {
+    left: 41%;
+    top: 75%;
+}
+
+#gjirokaster {
+    left: 39%;
+    top: 68%;
+}
+
+#permet {
+	left: 61%;
+    top: 63%;
+}
+
+#korce {
+	left: 65%;
+    top: 57%;
+}
+
+#pogradec {
+	left: 61%;
+    top: 51%;
+}
+
+#fier {
+	left: 16%;
+    top: 54%;
+}
+
+#berat {
+    left: 36%;
+    top: 55%;
+}
+
+#elbasan {
+	left: 37%;
+    top: 48%;
+}
+
+#durres {
+	left: 15%;
+    top: 40%;
+}
+
+#tirane {
+    left: 26%;
+    top: 42%;
+
+}
+
+#shkoder {
+	left: 20%;
+    top: 24%;
+}
+
+#tropoje {
+	left: 35%;
+    top: 19%;
+}
+
+#diber {
+    left: 52%;
+    top: 32%;
+}
+
+#kukes {
+	left: 55%;
+    top: 27%;
+}
+
+#kruje {
+	left: 23%;
+    top: 37%;
+}
+
+#lac {
+    left: 23%;
+    top: 29%;
+}
+
+#lezhe {
+	left: 33%;
+	top: 31%;
+}
+
+  
+}
+
+
+
+
+
+
+
+@media  (max-width: 1024px) and (min-width:820px){
+    .row-gallery{display: contents;margin-top:20px;}
+    .row-gallery-activities{margin-bottom: 20px;}
+    .card-img-top{width: 100%;}
+    .container-fluid{margin-top:50px;}
+
+    #vlore {
+	left: 27%;
+    top: 64%;
+}
+
+#llogora {
+    left: 25%;
+    top: 68%;
+}
+
+#dhermi {
+	left: 43%;
+    top: 78%;
+
+}
+
+
+#sarande {
+    left: 43%;
+    top: 83%;
+}
+
+#gjirokaster {
+    left: 42%;
+    top: 72%;
+}
+
+#permet {
+	left: 57%;
+    top: 66%;
+}
+
+#korce {
+	left: 62%;
+    top: 57%;
+}
+
+#pogradec {
+	left: 59%;
+    top: 51%;
+}
+
+#fier {
+	left: 25%;
+    top: 55%;
+}
+
+#berat {
+    left: 39%;
+    top: 56%;
+}
+
+#elbasan {
+	left: 40%;
+    top: 47%;
+}
+
+#durres {
+	left: 25%;
+    top: 37%;
+}
+
+#tirane {
+    left: 32%;
+    top: 40%;
+
+}
+
+#shkoder {
+	left: 28%;
+    top: 17%;
+}
+
+#tropoje {
+	left: 39%;
+    top: 10%;
+}
+
+#diber {
+    left: 52%;
+    top: 27%;
+}
+
+#kukes {
+	left: 54%;
+    top: 20%;
+}
+
+#kruje {
+	left: 30%;
+    top: 33%;
+}
+
+#lac {
+    left: 30%;
+    top: 23%;
+}
+
+#lezhe {
+	left: 38%;
+	top: 25%;
+}
+}
