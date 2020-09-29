@@ -1,157 +1,172 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700");
 
-
 /*------------------------------------------------------------colours-------------------------------------------------*/
-.bg-color-name-title{
-    background-color: beige;
+
+.bg-color-name-title {
+	background-color: beige;
 }
-.ui-menu-color-home{
-    background-color: #a7a7a7;
+
+.ui-menu-color-home {
+	background-color: #a7a7a7;
 }
-.ui-menu-color-food{
-    background-color:#d2ab64;
+
+.ui-menu-color-food {
+	background-color: #d2ab64;
 }
-.ui-menu-color-activities{
-    background-color: #7690ad;
+
+.ui-menu-color-activities {
+	background-color: #7690ad;
 }
-.ui-menu-color-destinations{
-    background-color: #d0aeae;
+
+.ui-menu-color-destinations {
+	background-color: #d0aeae;
 }
+
 
 /*------------------------------------------------------------heading-------------------------------------------------*/
-.heading{width: 100%;}
-header{
-    margin: 0;
-    text-align: center;
-}
- .name{
-     font-family: cursive, sans-serif;
-     font-weight:100;
-     font-size: 40px;
-     margin-top: 20px;
- }
-/*------------------------------------------------------------hover.css-------------------------------------------------*/
-.hvr-radial-out{background: transparent;}
-.hvr-radial-out:before {
-    background: rgba(0, 0, 0, 0.2);
-    height: 30px;
+
+.heading {
+	width: 100%;
 }
 
- /*------------------------------------------------------------navigation-bar-------------------------------------------------*/
+header {
+	margin: 0;
+	text-align: center;
+}
+
+.name {
+	font-family: cursive, sans-serif;
+	font-weight: 100;
+	font-size: 40px;
+	margin-top: 20px;
+}
+
+
+/*------------------------------------------------------------hover.css-------------------------------------------------*/
+
+.hvr-radial-out {
+	background: transparent;
+}
+
+.hvr-radial-out:before {
+	background: rgba(0, 0, 0, 0.2);
+	height: 30px;
+}
+
+
+/*------------------------------------------------------------navigation-bar-------------------------------------------------*/
 
 .list-inline-item:not(:last-child) {
-    margin: 0;
+	margin: 0;
 }
 
-.menucontainer{font-size: 0;}
+.menucontainer {
+	font-size: 0;
+}
 
 #nav {
-    margin: 0;
-}
-#nav li{
-    font-size:15px;
-    padding: 0;
+	margin: 0;
 }
 
-.menuitem{
-    height: 30px;
-    text-align:center;
-    padding: 0;
-}
-.menuitem a{
-    width: 100%;
-    text-decoration: none;
-    color: white;
+#nav li {
+	font-size: 15px;
+	padding: 0;
 }
 
-.meuitem a i {
-    display: block;
-    font-size: 20px;
-    columns: #fafafa;
+.menuitem {
+	height: 30px;
+	text-align: center;
+	padding: 0;
 }
 
-.menuitem span{
-    width:100%;
-    text-align: center;
-    text-transform: uppercase;
-    font-size:20px;
-    font-weight: 300;
-    letter-spacing: 1px;
+.menuitem a {
+	width: 100%;
+	text-decoration: none;
+	color: white;
+}
+
+.menuitem span {
+	width: 100%;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 20px;
+	font-weight: 300;
+	letter-spacing: 1px;
 }
 
 
 /*------------------------------------------------------------footer-------------------------------------------------*/
-#foot{width: 100%}
+
+#foot {
+	width: 100%
+}
+
 footer {
-    
-    background-color:#7690ad; 
-    color: white;
-    min-height: 50px;
-    margin: 0;
+	background-color: #7690ad;
+	color: white;
+	min-height: 50px;
+	margin: 0;
 	bottom: 0;
 	width: 100%;
-    text-align: center;
+	text-align: center;
 }
-#foot li {
-    font-size: 20px;
-    padding:10px;
-    text-align: center;}
 
+#foot li {
+	font-size: 20px;
+	padding: 10px;
+	text-align: center;
+}
 
 .social-links {
-    padding-bottom: 10px;
-	text-align:center;
+	padding-bottom: 10px;
+	text-align: center;
 }
 
-
 .social-links li a i {
-	width:40px;
-    height: 40px;
-    padding:12px 0;
-    border-radius: 50%;
-    line-height: 15px;
-    text-align: center;
-    color: #fafafa;
-    background:#d0aeae;
-    transition: all 0.35s ease-in-out;
-    -moz-transition:all 0.35s ease-in-out;
-    -webkit-transition: all 0.35s ease-in-out;
-    -o-transition: all 0.35s ease-in-out;
+	width: 40px;
+	height: 40px;
+	padding: 12px 0;
+	border-radius: 50%;
+	line-height: 15px;
+	text-align: center;
+	color: #fafafa;
+	background: #d0aeae;
+	transition: all 0.35s ease-in-out;
+	-moz-transition: all 0.35s ease-in-out;
+	-webkit-transition: all 0.35s ease-in-out;
+	-o-transition: all 0.35s ease-in-out;
 }
 
 .social-links li a i:hover {
-    background:#e84610;
+	background: #e84610;
 }
-
 
 
 /*------------------------------------------------------------images-------------------------------------------------*/
-.card-img-top{
-     width:545px;
-    height:275px;
+
+.card-img-top {
+	width: 545px;
+	height: 275px;
 }
 
-
-
-
 #food {
-    border-radius: 50%;
-    position: relative;
-    top:20px;
+	border-radius: 50%;
+	position: relative;
+	top: 20px;
 }
 
 #activities {
 	border-radius: 50%;
 	position: relative;
-    top: 20px;
+	top: 20px;
 }
 
 img.quotes {
 	height: 120px;
 	width: 120px;
-    position:relative;
-    border-radius:50%;
-    top: auto;
+	position: relative;
+	border-radius: 50%;
+	top: auto;
 }
 
 #flag {
@@ -161,167 +176,175 @@ img.quotes {
 }
 
 
-
 /*------------------------------------------------------------map-------------------------------------------------*/
-.logo{
-    background: url(".././images/shqiperia_ime_2.png");
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;
-    min-height:800px;
-    background-color: whitesmoke;
+
+.logo {
+	background: url(".././images/shqiperia_ime_2.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: contain;
+	min-height: 800px;
+	background-color: whitesmoke;
 }
 
-
-.intro{background-color: beige;
-margin-top: 60px;}
-
-
-.row{margin-right: 0;}
-
-
-.intro-title{bottom: 0;}
-
-
-.flag{margin-top: 20px;
-width: unset;
-}
-.activities{margin-top: 20px;}
-.food{
-    background-color: beige;
-    margin-top:20px;
-}
-.activities{background-color:beige;}
-
-
-
-
-.card-text-food{
-    margin-left: 151px;
-    margin-top: -100px;
-    text-align: center;
+.intro {
+	background-color: beige;
+	margin-top: 60px;
 }
 
+.row {
+	margin-right: 0;
+}
 
-.card-text-activities{
-    margin-left: 150px;
-    margin-top: -100px;
-    text-align: center;}
-  
+.intro-title {
+	bottom: 0;
+}
 
+.flag {
+	margin-top: 20px;
+	width: unset;
+}
 
-  .features{background-color:whitesmoke;}
-  .location{position: absolute;}
+.activities {
+	margin-top: 20px;
+}
+
+.food {
+	background-color: beige;
+	margin-top: 20px;
+}
+
+.activities {
+	background-color: beige;
+}
+
+.card-text-food {
+	margin-left: 151px;
+	margin-top: -100px;
+	text-align: center;
+}
+
+.card-text-activities {
+	margin-left: 150px;
+	margin-top: -100px;
+	text-align: center;
+}
+
+.features {
+	background-color: whitesmoke;
+}
+
+.location {
+	position: absolute;
+}
+
 
 /*------------------------------------------------------------map-location-ids-------------------------------------------------*/
 
-#tropoje{
-    left: 44%;
-    top: 9%;}
+#tropoje {
+	left: 44%;
+	top: 9%;
+}
 
-  #vlore {
+#vlore {
 	left: 37%;
-    top: 64%;
+	top: 64%;
 }
 
 #llogora {
-    left: 39%;
-    top: 69%;
+	left: 39%;
+	top: 69%;
 }
 
 #dhermi {
 	left: 46%;
-    top: 77%;
-
+	top: 77%;
 }
 
-
 #sarande {
-    left: 46%;
-    top: 83%;
+	left: 46%;
+	top: 83%;
 }
 
 #gjirokaster {
-    left: 45%;
-    top: 73%;
+	left: 45%;
+	top: 73%;
 }
 
 #permet {
 	left: 55%;
-    top: 65%;
+	top: 65%;
 }
 
 #korce {
 	left: 58%;
-    top: 57%;
+	top: 57%;
 }
 
 #pogradec {
 	left: 55%;
-    top: 51%;
+	top: 51%;
 }
 
 #fier {
 	left: 36%;
-    top: 55%;
+	top: 55%;
 }
 
 #berat {
-    left: 44%;
-    top: 56%;
+	left: 44%;
+	top: 56%;
 }
 
 #elbasan {
 	left: 45%;
-    top: 47%;
+	top: 47%;
 }
 
 #durres {
 	left: 37%;
-    top: 37%;
+	top: 37%;
 }
 
 #tirane {
-    left: 41%;
-    top: 39%;
-
+	left: 41%;
+	top: 39%;
 }
 
 #shkoder {
 	left: 38%;
-    top: 16%;
+	top: 16%;
 }
 
 #tropoje {
 	left: 44%;
-    top: 9%;
+	top: 9%;
 }
 
 #diber {
-    left: 52%;
-    top: 27%;
+	left: 52%;
+	top: 27%;
 }
 
 #kukes {
 	left: 53%;
-    top: 19%;
+	top: 19%;
 }
 
 #kruje {
 	left: 39%;
-    top: 33%;
+	top: 33%;
 }
 
 #lac {
-    left: 38%;
-    top: 23%;
+	left: 38%;
+	top: 23%;
 }
 
 #lezhe {
 	left: 44%;
 	top: 31%;
 }
-
 
 
 /*------------------------------------------------------------backgrounds-------------------------------------------------*/
@@ -332,8 +355,6 @@ html {
 	-o-background-size: cover;
 	background-size: cover;
 }
-
-
 
 .destinations-bg {
 	background: url(".././images/background2.jpg") no-repeat fixed;
@@ -377,519 +398,456 @@ html {
 	background-size: cover;
 }
 
+
 /*------------------------------------------------------------image-galleries-------------------------------------------------*/
-.card-block{
-    margin-bottom:20px;
-    text-align: center;
-    }
 
-h6{position: relative;
-bottom:275px;}
+.card-block {
+	margin-bottom: 20px;
+	text-align: center;
+}
 
-.row-gallery{
-    display: flex;
-    margin-top: 50px;
-    }
-.row-gallery-food{margin-top:auto;}
-.row-gallery-activities{margin-top:auto;}
-.card{
-    display: flex;
-    background-color: beige;
-    margin-bottom: 40px;
+h6 {
+	position: relative;
+	bottom: 275px;
+}
+
+.row-gallery {
+	display: flex;
+	margin-top: 50px;
+}
+
+.row-gallery-food {
+	margin-top: auto;
+}
+
+.row-gallery-activities {
+	margin-top: auto;
+}
+
+.card {
+	display: flex;
+	background-color: beige;
+	margin-bottom: 40px;
 	outline-width: 7px;
-	outline-color:#7690ad ;
-	outline-style: solid;}
+	outline-color: #7690ad;
+	outline-style: solid;
+}
 
+body {
+	background-color: transparent;
+}
 
+.col-4 {
+	flex: 0 0 0;
+	max-width: 100%;
+}
 
+img {
+	position: relative;
+	top: 20px;
+	bottom: 20px;
+}
 
-body{background-color: transparent;}
-
-.col-4{flex:0 0 0;
-max-width: 100%;}
-
-img{
-    position: relative;
-    top:20px;
-    bottom: 20px;}
-
-
-.justify-content-around{justify-content:space-around;}
+.justify-content-around {
+	justify-content: space-around;
+}
 
 
 /*------------------------------------------------------------media-------------------------------------------------*/
 
+
 /* Smartphones (portrait) ----------- */
 
-@media only screen and (max-width: 450px){
-    .row-gallery{display: contents;margin-top:20px;}
-    .card-img-top{width: 100%;}
-    .container-fluid{margin-top:50px;}
-    .row-intro{margin-left: 10px;}
-    .food{display: none;}
-    .activities{display: none;}
-
-  #vlore {
-	left: 20%;
-    top: 64%;
-}
-
-#llogora {
-    left: 23%;
-    top: 69%;
-}
-
-#dhermi {
-	left: 40%;
-    top: 77%;
-
-}
-
-
-#sarande {
-    left: 41%;
-    top: 83%;
-}
-
-#gjirokaster {
-    left: 45%;
-    top: 73%;
-}
-
-#permet {
-	left: 55%;
-    top: 65%;
-}
-
-#korce {
-	left: 65%;
-    top: 57%;
-}
-
-#pogradec {
-	left: 55%;
-    top: 51%;
-}
-
-#fier {
-	left: 20%;
-    top: 55%;
-}
-
-#berat {
-    left: 36%;
-    top: 56%;
-}
-
-#elbasan {
-	left: 38%;
-    top: 47%;
-}
-
-#durres {
-	left: 20%;
-    top: 37%;
-}
-
-#tirane {
-    left: 27%;
-    top: 40%;
-
-}
-
-#shkoder {
-	left: 24%;
-    top: 16%;
-}
-
-#tropoje {
-	left: 35%;
-    top: 9%;
-}
-
-#diber {
-    left: 52%;
-    top: 27%;
-}
-
-#kukes {
-	left: 53%;
-    top: 19%;
-}
-
-#kruje {
-	left: 25%;
-    top: 33%;
-}
-
-#lac {
-    left: 25%;
-    top: 23%;
-}
-
-#lezhe {
-	left: 34%;
-	top: 25%;
-}
-
-}
-@media (max-width: 750px) and (min-width:560px){
-
-    .row-gallery{display: contents;margin-top:20px;}
-    .row-gallery-activities{margin-bottom: 20px;}
-    .card-img-top{width: 100%;}
-    .container-fluid{margin-top:50px;}
-#vlore {
-	left: 29%;
-    top: 64%;
-}
-
-#llogora {
-    left: 27%;
-    top: 68%;
-}
-
-#dhermi {
-	left: 43%;
-    top: 77%;
-
-}
-
-
-#sarande {
-    left: 43%;
-    top: 83%;
-}
-
-#gjirokaster {
-    left: 45%;
-    top: 73%;
-}
-
-#permet {
-	left: 55%;
-    top: 65%;
-}
-
-#korce {
-	left: 60%;
-    top: 57%;
-}
-
-#pogradec {
-	left: 58%;
-    top: 51%;
-}
-
-#fier {
-	left: 28%;
-    top: 55%;
-}
-
-#berat {
-    left: 40%;
-    top: 56%;
-}
-
-#elbasan {
-	left: 41%;
-    top: 47%;
-}
-
-#durres {
-	left: 28%;
-    top: 37%;
-}
-
-#tirane {
-    left: 34%;
-    top: 40%;
-
-}
-
-#shkoder {
-	left: 31%;
-    top: 16%;
-}
-
-#tropoje {
-	left: 40%;
-    top: 9%;
-}
-
-#diber {
-    left: 51%;
-    top: 27%;
-}
-
-#kukes {
-	left: 53%;
-    top: 19%;
-}
-
-#kruje {
-	left: 32%;
-    top: 33%;
-}
-
-#lac {
-    left: 32%;
-    top: 23%;
-}
-
-#lezhe {
-	left: 38%;
-	top: 25%;
-}
-
-
-
-
-
-
-
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-@media (max-width: 812px) and (min-width:745px){
-    .row-gallery{display: contents;margin-top:20px;}
-    .row-gallery-activities{margin-bottom: 20px;}
-    .card-img-top{width: 100%;}
-    .container-fluid{margin-top:50px;}
-
- #vlore {
-	left: 18%;
-    top: 61%;
-}
-
-#llogora {
-    left: 16%;
-    top: 64%;
-}
-
-#dhermi {
-	left: 40%;
-    top: 71%;
-
-}
-
-
-#sarande {
-    left: 41%;
-    top: 75%;
-}
-
-#gjirokaster {
-    left: 39%;
-    top: 68%;
-}
-
-#permet {
-	left: 61%;
-    top: 63%;
-}
-
-#korce {
-	left: 65%;
-    top: 57%;
-}
-
-#pogradec {
-	left: 61%;
-    top: 51%;
-}
-
-#fier {
-	left: 16%;
-    top: 54%;
-}
-
-#berat {
-    left: 36%;
-    top: 55%;
-}
-
-#elbasan {
-	left: 37%;
-    top: 48%;
-}
-
-#durres {
-	left: 15%;
-    top: 40%;
-}
-
-#tirane {
-    left: 26%;
-    top: 42%;
-
-}
-
-#shkoder {
-	left: 20%;
-    top: 24%;
-}
-
-#tropoje {
-	left: 35%;
-    top: 19%;
-}
-
-#diber {
-    left: 52%;
-    top: 32%;
-}
-
-#kukes {
-	left: 55%;
-    top: 27%;
-}
-
-#kruje {
-	left: 23%;
-    top: 37%;
-}
-
-#lac {
-    left: 23%;
-    top: 29%;
-}
-
-#lezhe {
-	left: 33%;
-	top: 31%;
-}
-
-  
-}
-
-
-
-
-
-
-
-@media  (max-width: 1024px) and (min-width:820px){
-    .row-gallery{display: contents;margin-top:20px;}
-    .row-gallery-activities{margin-bottom: 20px;}
-    .card-img-top{width: 100%;}
-    .container-fluid{margin-top:50px;}
-
-    #vlore {
-	left: 27%;
-    top: 64%;
-}
-
-#llogora {
-    left: 25%;
-    top: 68%;
-}
-
-#dhermi {
-	left: 43%;
-    top: 78%;
-
-}
-
-
-#sarande {
-    left: 43%;
-    top: 83%;
-}
-
-#gjirokaster {
-    left: 42%;
-    top: 72%;
-}
-
-#permet {
-	left: 57%;
-    top: 66%;
-}
-
-#korce {
-	left: 62%;
-    top: 57%;
-}
-
-#pogradec {
-	left: 59%;
-    top: 51%;
-}
-
-#fier {
-	left: 25%;
-    top: 55%;
-}
-
-#berat {
-    left: 39%;
-    top: 56%;
-}
-
-#elbasan {
-	left: 40%;
-    top: 47%;
-}
-
-#durres {
-	left: 25%;
-    top: 37%;
-}
-
-#tirane {
-    left: 32%;
-    top: 40%;
-
-}
-
-#shkoder {
-	left: 28%;
-    top: 17%;
-}
-
-#tropoje {
-	left: 39%;
-    top: 10%;
-}
-
-#diber {
-    left: 52%;
-    top: 27%;
-}
-
-#kukes {
-	left: 54%;
-    top: 20%;
-}
-
-#kruje {
-	left: 30%;
-    top: 33%;
-}
-
-#lac {
-    left: 30%;
-    top: 23%;
-}
-
-#lezhe {
-	left: 38%;
-	top: 25%;
-}
+@media only screen and (max-width: 450px) {
+	.row-gallery {
+		display: contents;
+		margin-top: 20px;
+	}
+	.card-img-top {
+		width: 100%;
+	}
+	.container-fluid {
+		margin-top: 50px;
+	}
+	.row-intro {
+		margin-left: 10px;
+	}
+	.food {
+		display: none;
+	}
+	.activities {
+		display: none;
+	}
+	/*----------------------------------------------------------city names of the locations on the map-----------------------------*/
+	#vlore {
+		left: 20%;
+		top: 64%;
+	}
+	#llogora {
+		left: 23%;
+		top: 69%;
+	}
+	#dhermi {
+		left: 40%;
+		top: 77%;
+	}
+	#sarande {
+		left: 41%;
+		top: 83%;
+	}
+	#gjirokaster {
+		left: 45%;
+		top: 73%;
+	}
+	#permet {
+		left: 55%;
+		top: 65%;
+	}
+	#korce {
+		left: 65%;
+		top: 57%;
+	}
+	#pogradec {
+		left: 55%;
+		top: 51%;
+	}
+	#fier {
+		left: 20%;
+		top: 55%;
+	}
+	#berat {
+		left: 36%;
+		top: 56%;
+	}
+	#elbasan {
+		left: 38%;
+		top: 47%;
+	}
+	#durres {
+		left: 20%;
+		top: 37%;
+	}
+	#tirane {
+		left: 27%;
+		top: 40%;
+	}
+	#shkoder {
+		left: 24%;
+		top: 16%;
+	}
+	#tropoje {
+		left: 35%;
+		top: 9%;
+	}
+	#diber {
+		left: 52%;
+		top: 27%;
+	}
+	#kukes {
+		left: 53%;
+		top: 19%;
+	}
+	#kruje {
+		left: 25%;
+		top: 33%;
+	}
+	#lac {
+		left: 25%;
+		top: 23%;
+	}
+	#lezhe {
+		left: 34%;
+		top: 25%;
+	}
+}
+
+@media (max-width: 750px) and (min-width:560px) {
+	.row-gallery {
+		display: contents;
+		margin-top: 20px;
+	}
+	.row-gallery-activities {
+		margin-bottom: 20px;
+	}
+	.card-img-top {
+		width: 100%;
+	}
+	.container-fluid {
+		margin-top: 50px;
+	}
+	/*----------------------------------------------------------city names of the locations on the map-----------------------------*/
+	#vlore {
+		left: 29%;
+		top: 64%;
+	}
+	#llogora {
+		left: 27%;
+		top: 68%;
+	}
+	#dhermi {
+		left: 43%;
+		top: 77%;
+	}
+	#sarande {
+		left: 43%;
+		top: 83%;
+	}
+	#gjirokaster {
+		left: 45%;
+		top: 73%;
+	}
+	#permet {
+		left: 55%;
+		top: 65%;
+	}
+	#korce {
+		left: 60%;
+		top: 57%;
+	}
+	#pogradec {
+		left: 58%;
+		top: 51%;
+	}
+	#fier {
+		left: 28%;
+		top: 55%;
+	}
+	#berat {
+		left: 40%;
+		top: 56%;
+	}
+	#elbasan {
+		left: 41%;
+		top: 47%;
+	}
+	#durres {
+		left: 28%;
+		top: 37%;
+	}
+	#tirane {
+		left: 34%;
+		top: 40%;
+	}
+	#shkoder {
+		left: 31%;
+		top: 16%;
+	}
+	#tropoje {
+		left: 40%;
+		top: 9%;
+	}
+	#diber {
+		left: 51%;
+		top: 27%;
+	}
+	#kukes {
+		left: 53%;
+		top: 19%;
+	}
+	#kruje {
+		left: 32%;
+		top: 33%;
+	}
+	#lac {
+		left: 32%;
+		top: 23%;
+	}
+	#lezhe {
+		left: 38%;
+		top: 25%;
+	}
+}
+
+@media (max-width: 812px) and (min-width:745px) {
+	.row-gallery {
+		display: contents;
+		margin-top: 20px;
+	}
+	.row-gallery-activities {
+		margin-bottom: 20px;
+	}
+	.card-img-top {
+		width: 100%;
+	}
+	.container-fluid {
+		margin-top: 50px;
+	}
+	/*----------------------------------------------------------city names of the locations on the map-----------------------------*/
+	#vlore {
+		left: 18%;
+		top: 61%;
+	}
+	#llogora {
+		left: 16%;
+		top: 64%;
+	}
+	#dhermi {
+		left: 40%;
+		top: 71%;
+	}
+	#sarande {
+		left: 41%;
+		top: 75%;
+	}
+	#gjirokaster {
+		left: 39%;
+		top: 68%;
+	}
+	#permet {
+		left: 61%;
+		top: 63%;
+	}
+	#korce {
+		left: 65%;
+		top: 57%;
+	}
+	#pogradec {
+		left: 61%;
+		top: 51%;
+	}
+	#fier {
+		left: 16%;
+		top: 54%;
+	}
+	#berat {
+		left: 36%;
+		top: 55%;
+	}
+	#elbasan {
+		left: 37%;
+		top: 48%;
+	}
+	#durres {
+		left: 15%;
+		top: 40%;
+	}
+	#tirane {
+		left: 26%;
+		top: 42%;
+	}
+	#shkoder {
+		left: 20%;
+		top: 24%;
+	}
+	#tropoje {
+		left: 35%;
+		top: 19%;
+	}
+	#diber {
+		left: 52%;
+		top: 32%;
+	}
+	#kukes {
+		left: 55%;
+		top: 27%;
+	}
+	#kruje {
+		left: 23%;
+		top: 37%;
+	}
+	#lac {
+		left: 23%;
+		top: 29%;
+	}
+	#lezhe {
+		left: 33%;
+		top: 31%;
+	}
+}
+
+@media (max-width: 1024px) and (min-width:820px) {
+	.row-gallery {
+		display: contents;
+		margin-top: 20px;
+	}
+	.row-gallery-activities {
+		margin-bottom: 20px;
+	}
+	.card-img-top {
+		width: 100%;
+	}
+	.container-fluid {
+		margin-top: 50px;
+	}
+	/*----------------------------------------------------------city names of the locations on the map-----------------------------*/
+	#vlore {
+		left: 27%;
+		top: 64%;
+	}
+	#llogora {
+		left: 25%;
+		top: 68%;
+	}
+	#dhermi {
+		left: 43%;
+		top: 78%;
+	}
+	#sarande {
+		left: 43%;
+		top: 83%;
+	}
+	#gjirokaster {
+		left: 42%;
+		top: 72%;
+	}
+	#permet {
+		left: 57%;
+		top: 66%;
+	}
+	#korce {
+		left: 62%;
+		top: 57%;
+	}
+	#pogradec {
+		left: 59%;
+		top: 51%;
+	}
+	#fier {
+		left: 25%;
+		top: 55%;
+	}
+	#berat {
+		left: 39%;
+		top: 56%;
+	}
+	#elbasan {
+		left: 40%;
+		top: 47%;
+	}
+	#durres {
+		left: 25%;
+		top: 37%;
+	}
+	#tirane {
+		left: 32%;
+		top: 40%;
+	}
+	#shkoder {
+		left: 28%;
+		top: 17%;
+	}
+	#tropoje {
+		left: 39%;
+		top: 10%;
+	}
+	#diber {
+		left: 52%;
+		top: 27%;
+	}
+	#kukes {
+		left: 54%;
+		top: 20%;
+	}
+	#kruje {
+		left: 30%;
+		top: 33%;
+	}
+	#lac {
+		left: 30%;
+		top: 23%;
+	}
+	#lezhe {
+		left: 38%;
+		top: 25%;
+	}
 }

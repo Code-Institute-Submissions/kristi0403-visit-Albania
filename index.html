@@ -1,243 +1,278 @@
 <!DOCTYPE html>
 <html lang="en" class="home-bg">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link
-      rel="stylesheet"
-      href="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css"
-      type="text/css"
-    />
-    <link
-      rel="stylesheet"
-      href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
-      integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/"
-      crossorigin="anonymous"
-    />
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.3.1/css/hover-min.css"
-    />
-    <link rel="stylesheet" href="assets/css/styles.css" />
-    <title>Visit Albania</title>
-  </head>
-
-  <body>
-    <header>
-    <!--Page title----------------------------------------------------------------------------------->
-      <div class="row no-gutter bg-color-name-title">
-        <div class="col heading">
-          <h1 class="name">Welcome To Albania !</h1>
-        </div>
-      </div>
-      <!--Navigation bar----------------------------------------------------------------------------------->
-      <div class="row no-gutters">
-        <div class="col">
-          <ul id="nav" class="list-inline menucontainer">
-            <li
-              class="col-6 col-sm-3 ui-menu-color-home list-inline-item menuitem"
-            >
-              <a href="index.html" class="hvr-radial-out"
-                ><i class="fa fa-home" aria-hidden="true"></i>
-                <span>Home</span></a
-              >
-            </li>
-            <li
-              class="col-6 col-sm-3 ui-menu-color-destinations list-inline-item menuitem"
-            >
-              <a href="main_destinations.html" class="hvr-radial-out"
-                ><i class="fa fa-map-marker-alt" aria-hidden="true"></i>
-                <span>Destinations</span></a
-              >
-            </li>
-            <li
-              class="col-6 col-sm-3 ui-menu-color-activities list-inline-item menuitem"
-            >
-              <a href="activities.html" class="hvr-radial-out"
-                ><i class="fa fa-battery-full" aria-hidden="true"></i>
-                <span>Activities</span></a
-              >
-            </li>
-            <li
-              class="col-6 col-sm-3 ui-menu-color-food list-inline-item menuitem"
-            >
-              <a href="food.html" class="hvr-radial-out"
-                ><i class="fa fa-utensils" aria-hidden="true"></i>
-                <span>Food</span></a
-              >
-            </li>
-          </ul>
-        </div>
-      </div>
-    </header>
-
-    <section>
-    <!--Map----------------------------------------------------->
-      <div class="row">
-      <div class="container col-md-6 logo">
-      <!--Places of the map with anchor conected to the respective html page----------------------------------------------------->
-      <div class="container">
-      <a href="tropoje.html">
-      <div class="location" id="tropoje"><h5>Tropoje</h5></div>
-      </a>
-      <a href="tropoje.html">
-      <div class="location" id="diber"><h5>Diber</h5></div>
-      </a>
-      <a href="shkoder.html">
-       <div class="location" id="shkoder"><h5>Shkoder</h5></div>
-      </a>
-      <a href="kukes.html">
-        <div class="location" id="kukes"><h5>Kukes</h5></div>
-      </a>
-      <a href="lezha.html">
-         <div class="location" id="lezhe"><h5>Lezhe</h5></div>
-      </a>
-      <a href="laci.html">
-          <div class="location" id="lac"><h5>Lac</h5></div>
-      </a>
-      <a href="kruja.html">
-            <div class="location" id="kruje"><h5>Kruje</h5></div>
-      </a>
-      <a href="durres.html">
-             <div class="location" id="durres"><h5>Durres</h5></div>
-      </a>
-      <a href="tirana.html">
-              <div class="location" id="tirane"><h5>Tirane</h5></div>
-      </a>
-      <a href="elbasan.html">
-               <div class="location" id="elbasan"><h5>Elbasan</h5></div>
-      </a>
-      <a href="pogradeci.html">
-                <div class="location" id="pogradec"><h5>Pogradec</h5></div>
-      </a>
-      <a href="fieri.html">
-                 <div class="location" id="fier"><h5>Fier</h5></div>
-      </a>
-    <a href="berati.html">
-                  <div class="location" id="berat"><h5>Berat</h5></div>
-    </a>
-    <a href="korca.html">
-                   <div class="location" id="korce"><h5>Korce</h5></div>
-    </a>
-    <a href="vlore.html">
-                    <div class="location" id="vlore"><h5>Vlore</h5></div>
-    </a>
-    <a href="llogora.html">
-                     <div class="location" id="llogora"><h5>Llogora</h5></div>
-    </a>
-    <a href="permeti.html">
-                      <div class="location" id="permet"><h5>Permet</h5></div>
-    </a>
-    <a href="gjirokaster.html">
-                       <div class="location" id="gjirokaster"><h5>Gjirokaster</h5></div>
-    </a>
-    <a href="dhermi.html">
-                        <div class="location" id="dhermi"><h5>Dhermi</h5></div>
-    </a>
-    <a href="saranda.html">
-                         <div class="location" id="sarande"><h5>Sarand</h5></div>
-    </a>
-      </div>
-
-      </div>
-          <!--Flag------------------------------------------------------------------------------------------------------------------>
-        <div class="col-md-6 features">
-          <div class="row justify-content-around">
-            <div class="col-md-3 flag">
-              <img id="flag" src="assets/images/flag.png" alt="Albanian Flag" />
+   <head>
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <link
+         rel="stylesheet"
+         href="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css"
+         type="text/css"
+         />
+      <link
+         rel="stylesheet"
+         href="https://use.fontawesome.com/releases/v5.6.3/css/all.css"
+         integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/"
+         crossorigin="anonymous"
+         />
+      <link
+         rel="stylesheet"
+         href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.3.1/css/hover-min.css"
+         />
+      <link rel="stylesheet" href="assets/css/styles.css" />
+      <title>Visit Albania</title>
+   </head>
+   <body>
+      <header>
+         <!--Page title-->
+         <div class="row no-gutter bg-color-name-title">
+            <div class="col heading">
+               <h1 class="name">Welcome To Albania !</h1>
             </div>
-          </div>
-          <!--Places of the map with anchor conected to the respective html page----------------------------------------------------->
-          <div class="row-intro justify-content-around">
-            <div class="col-md-12 intro">
-              <div class="card-block">
-                <h6 class="intro-title">Albania</h6>
-                <p class="card-text">
-                  Capital and largest city is Tirana. Official language is
-                  Albanian. Currency is Lek (ALL). Time zone UTC+1 (CET).Driving
-                  side is right. Albania rises into mountains and hills that run
-                  in different directions across the length and breadth of its
-                  territory. Among the most remarkable features about the
-                  country is the presence of numerous important lakes.Its shores
-                  faces the ADriatic sea and the Ionian sea.The weather is
-                  mostly mediteranean and continental with 4 distinct seasons.
-                </p>
-              </div>
+         </div>
+         <!--Navigation bar-->
+         <div class="row no-gutters">
+            <div class="col">
+               <ul id="nav" class="list-inline menucontainer">
+                  <li
+                     class="col-6 col-sm-3 ui-menu-color-home list-inline-item menuitem"
+                     >
+                     <a href="index.html" class="hvr-radial-out"
+                        ><i class="fa fa-home" aria-hidden="true"></i>
+                     <span>Home</span></a
+                        >
+                  </li>
+                  <li
+                     class="col-6 col-sm-3 ui-menu-color-destinations list-inline-item menuitem"
+                     >
+                     <a href="main_destinations.html" class="hvr-radial-out"
+                        ><i class="fa fa-map-marker-alt" aria-hidden="true"></i>
+                     <span>Destinations</span></a
+                        >
+                  </li>
+                  <li
+                     class="col-6 col-sm-3 ui-menu-color-activities list-inline-item menuitem"
+                     >
+                     <a href="activities.html" class="hvr-radial-out"
+                        ><i class="fa fa-battery-full" aria-hidden="true"></i>
+                     <span>Activities</span></a
+                        >
+                  </li>
+                  <li
+                     class="col-6 col-sm-3 ui-menu-color-food list-inline-item menuitem"
+                     >
+                     <a href="food.html" class="hvr-radial-out"
+                        ><i class="fa fa-utensils" aria-hidden="true"></i>
+                     <span>Food</span></a
+                        >
+                  </li>
+               </ul>
             </div>
-          </div>
-          
-          <div class="row bulletpoints justify-content-around">
-            <div class="col-md-12">
-              <div class="row-gallery-food justify-content-around">
-                <div class="col-12">
-                  <div class="food">
-                    <img
-                      id="food" class="quotes"
-                      src="assets/images/albanianfood.jpeg"
-                      alt="albanan cuisine"
-                    />
-                    <div class="card-body">
-                    <p class="card-text-food">
-                     When they asked an albanian Chef what ingredients he was using that his plates were always delicious,
-                     His answer was: "I just add some love and you can taste the 'Taste'"! 
-                    </p>
-                    </div>
+         </div>
+      </header>
+      <section>
+         <!--Map-->
+         <div class="row">
+            <div class="container col-md-6 logo">
+               <!--Places of the map with anchor conected to the respective html page-->
+               <div class="container">
+                  <a href="tropoje.html">
+                     <div class="location" id="tropoje">
+                        <h5>Tropoje</h5>
+                     </div>
+                  </a>
+                  <a href="tropoje.html">
+                     <div class="location" id="diber">
+                        <h5>Diber</h5>
+                     </div>
+                  </a>
+                  <a href="shkoder.html">
+                     <div class="location" id="shkoder">
+                        <h5>Shkoder</h5>
+                     </div>
+                  </a>
+                  <a href="kukes.html">
+                     <div class="location" id="kukes">
+                        <h5>Kukes</h5>
+                     </div>
+                  </a>
+                  <a href="lezha.html">
+                     <div class="location" id="lezhe">
+                        <h5>Lezhe</h5>
+                     </div>
+                  </a>
+                  <a href="laci.html">
+                     <div class="location" id="lac">
+                        <h5>Lac</h5>
+                     </div>
+                  </a>
+                  <a href="kruja.html">
+                     <div class="location" id="kruje">
+                        <h5>Kruje</h5>
+                     </div>
+                  </a>
+                  <a href="durres.html">
+                     <div class="location" id="durres">
+                        <h5>Durres</h5>
+                     </div>
+                  </a>
+                  <a href="tirana.html">
+                     <div class="location" id="tirane">
+                        <h5>Tirane</h5>
+                     </div>
+                  </a>
+                  <a href="elbasan.html">
+                     <div class="location" id="elbasan">
+                        <h5>Elbasan</h5>
+                     </div>
+                  </a>
+                  <a href="pogradeci.html">
+                     <div class="location" id="pogradec">
+                        <h5>Pogradec</h5>
+                     </div>
+                  </a>
+                  <a href="fieri.html">
+                     <div class="location" id="fier">
+                        <h5>Fier</h5>
+                     </div>
+                  </a>
+                  <a href="berati.html">
+                     <div class="location" id="berat">
+                        <h5>Berat</h5>
+                     </div>
+                  </a>
+                  <a href="korca.html">
+                     <div class="location" id="korce">
+                        <h5>Korce</h5>
+                     </div>
+                  </a>
+                  <a href="vlore.html">
+                     <div class="location" id="vlore">
+                        <h5>Vlore</h5>
+                     </div>
+                  </a>
+                  <a href="llogora.html">
+                     <div class="location" id="llogora">
+                        <h5>Llogora</h5>
+                     </div>
+                  </a>
+                  <a href="permeti.html">
+                     <div class="location" id="permet">
+                        <h5>Permet</h5>
+                     </div>
+                  </a>
+                  <a href="gjirokaster.html">
+                     <div class="location" id="gjirokaster">
+                        <h5>Gjirokaster</h5>
+                     </div>
+                  </a>
+                  <a href="dhermi.html">
+                     <div class="location" id="dhermi">
+                        <h5>Dhermi</h5>
+                     </div>
+                  </a>
+                  <a href="saranda.html">
+                     <div class="location" id="sarande">
+                        <h5>Sarand</h5>
+                     </div>
+                  </a>
+               </div>
+            </div>
+            <!--Flag-->
+            <div class="col-md-6 features">
+               <div class="row justify-content-around">
+                  <div class="col-md-3 flag">
+                     <img id="flag" src="assets/images/flag.png" alt="Albanian Flag" />
                   </div>
-                </div>
-              </div>
-            <div class="row-gallery-activities">
-                <div class="col-12">
-                  <div class="activities">
-                    <img class="quotes"
-                      id="activities"
-                      src="assets/images/activities.jpg"
-                      alt="albanan cuisine"
-                    />
-                    <div class="card-body">
-                    <p class="card-text-activities">
-                     It is given the name :"land of eagles"! 
-                     Where the eagles live you will find freedom! 
-                    </p>
-                    </div>
+               </div>
+               <!--Main text of the page introduction-->
+               <div class="row-intro justify-content-around">
+                  <div class="col-md-12 intro">
+                     <div class="card-block">
+                        <h6 class="intro-title">Albania</h6>
+                        <p class="card-text">
+                           Capital and largest city is Tirana. Official language is
+                           Albanian. Currency is Lek (ALL). Time zone UTC+1 (CET).Driving
+                           side is right. Albania rises into mountains and hills that run
+                           in different directions across the length and breadth of its
+                           territory. Among the most remarkable features about the
+                           country is the presence of numerous important lakes.Its shores
+                           faces the ADriatic sea and the Ionian sea.The weather is
+                           mostly mediteranean and continental with 4 distinct seasons.
+                        </p>
+                     </div>
                   </div>
-                </div>
-              </div>
-          </div>
-        </div>
-      </div>
-      </div>
-    </section>
-<!--footer----------------------------------------------------->
-    <footer class="container-fluid-footer">
-      <div class="row no-gutter">
-        <ul id="foot" class="list-inline social-links menucontainer">
-          <li class="col-6 col-sm-3 list-inline-item menuitem">
-            <a href="https://www.facebook.com/albaniatourism/" target="_blank"
-              ><i class="fab fa-facebook" aria-hidden="true"></i>
-            </a>
-          </li>
-          <li class="col-6 col-sm-3 list-inline-item menuitem">
-            <a href="https://en.wikipedia.org/wiki/Albania" target="_blank"
-              ><i class="fab fa-wikipedia-w" aria-hidden="true"></i>
-            </a>
-          </li>
-
-          <li class="col-6 col-sm-3 list-inline-item menuitem">
-            <a
-              href="https://www.youtube.com/watch?v=CfewrYGBvBI"
-              target="_blank"
-              ><i class="fab fa-youtube-square" aria-hidden="true"></i>
-            </a>
-          </li>
-          <li class="col-6 col-sm-3 list-inline-item menuitem">
-            <a
-              href="https://www.instagram.com/visitalbaniaa/?hl=en"
-              target="_blank"
-              ><i class="fab fa-instagram" aria-hidden="true"></i>
-            </a>
-          </li>
-        </ul>
-      </div>
-    </footer>
-  </body>
+               </div>
+               <div class="row bulletpoints justify-content-around">
+                  <div class="col-md-12">
+                     <div class="row-gallery-food justify-content-around">
+                        <div class="col-12">
+                           <div class="food">
+                              <img
+                                 id="food" class="quotes"
+                                 src="assets/images/albanianfood.jpeg"
+                                 alt="albanan cuisine"
+                                 />
+                              <div class="card-body">
+                                 <p class="card-text-food">
+                                    When they asked an albanian Chef what ingredients he was using that his plates were always delicious,
+                                    His answer was: "I just add some love and you can taste the 'Taste'"! 
+                                 </p>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="row-gallery-activities">
+                        <div class="col-12">
+                           <div class="activities">
+                              <img class="quotes"
+                                 id="activities"
+                                 src="assets/images/activities.jpg"
+                                 alt="albanan cuisine"
+                                 />
+                              <div class="card-body">
+                                 <p class="card-text-activities">
+                                    It is given the name :"land of eagles"! 
+                                    Where the eagles live you will find freedom! 
+                                 </p>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+      <!--footer-->
+      <footer class="container-fluid-footer">
+         <div class="row no-gutter">
+            <ul id="foot" class="list-inline social-links menucontainer">
+               <li class="col-6 col-sm-3 list-inline-item menuitem">
+                  <a href="https://www.facebook.com/albaniatourism/" target="_blank"
+                     ><i class="fab fa-facebook" aria-hidden="true"></i>
+                  </a>
+               </li>
+               <li class="col-6 col-sm-3 list-inline-item menuitem">
+                  <a href="https://en.wikipedia.org/wiki/Albania" target="_blank"
+                     ><i class="fab fa-wikipedia-w" aria-hidden="true"></i>
+                  </a>
+               </li>
+               <li class="col-6 col-sm-3 list-inline-item menuitem">
+                  <a
+                     href="https://www.youtube.com/watch?v=CfewrYGBvBI"
+                     target="_blank"
+                     ><i class="fab fa-youtube-square" aria-hidden="true"></i>
+                  </a>
+               </li>
+               <li class="col-6 col-sm-3 list-inline-item menuitem">
+                  <a
+                     href="https://www.instagram.com/visitalbaniaa/?hl=en"
+                     target="_blank"
+                     ><i class="fab fa-instagram" aria-hidden="true"></i>
+                  </a>
+               </li>
+            </ul>
+         </div>
+      </footer>
+   </body>
 </html>
